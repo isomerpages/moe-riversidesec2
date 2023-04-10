@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/Form Teachers.md
       - Staff Directory/Lead and Senior Teachers.md
       - Staff Directory/Key Personnel.md
       - Staff Directory/School Leaders.md
