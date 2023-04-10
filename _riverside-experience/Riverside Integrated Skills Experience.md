@@ -28,3 +28,9 @@ Students learn to embrace the growth mindset as they engaged in activities in th
 <u>Secondary 4 and 5</u>
 
 Students gain insights into their post-secondary education as they participated in conversations during various Educational Career Guidance workshops. They are equipped with knowledge and skills to face the challenges ahead as they graduate from the school.
+
+![](/images/rise-1.png)
+
+![](/images/rise-2.png)
+
+![](/images/rise-3.png)
