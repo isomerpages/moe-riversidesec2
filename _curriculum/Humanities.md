@@ -29,4 +29,4 @@ Selected students participate in the History Challenge, NUS Geography Challenge 
 
 ![](/images/humanities-2.png)
 
-<img style="width:65%" src="/images/humanities-3.png">
+<img style="width:55%" src="/images/humanities-3.png">
