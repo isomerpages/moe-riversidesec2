@@ -20,3 +20,5 @@ In 2022, for the second year running, Riverside’s signature Internationalisati
 <u>Interactive Zoom exchange</u>
 
 In 2022, the second leg of the programme witnessed our continuing commitment to our long-term twinning schools – Perdana Wazir Secondary School, of Brunei; Maharaja Sawai Man Singh Vidyalaya, of India; and Tung Wah Group of Hospitals Kwok Yat Wai College, of Hong Kong China. Via an interactive Zoom exchange, students shared enthusiastically about their respective schooling experiences and exchanged pointers on how they tackled issues such as climate change and responsible consumption and production. By the end of the session, strong bonds were definitely forged among these new friends.
+
+![](/images/internationalisation.png)
