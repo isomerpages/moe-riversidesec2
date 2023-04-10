@@ -23,3 +23,7 @@ All students compete in inter-class games to put into practice sport skills acqu
 <u>Outdoor Learning Programme</u>
 
 Students are equipped with basic knowledge of orienteering, map-reading, tent-pitching and injury management during the Outdoor Education (OE) modules. The 3-day 2-night Adventure Camp for Secondary 3 students is an annual highlight. It provides an opportunity for students to apply the knowledge and skills acquired from the OE modules, as they go through a series of physical challenges as a class. Through the OE Programme, students grow to be more resilient and adaptable.
+
+![](/images/physical%20education%201.png)
+
+<img style="width:75%" src="/images/physical%20education%202.png">
