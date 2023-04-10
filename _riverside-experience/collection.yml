@@ -2,6 +2,7 @@ collections:
   riverside-experience:
     output: true
     order:
+      - Applied Learning Programme.md
       - Student Leadership.md
       - Full Subject–Based Banding.md
       - Personalised Digital Learning Programme.md
