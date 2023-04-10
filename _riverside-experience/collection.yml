@@ -2,6 +2,7 @@ collections:
   riverside-experience:
     output: true
     order:
+      - Work Experience Programme.md
       - Riverside Integrated Skills Experience.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
