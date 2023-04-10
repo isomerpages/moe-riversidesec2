@@ -1,4 +1,5 @@
 collections:
   riverside-experience:
     output: true
-    order: []
+    order:
+      - Personalised Digital Learning Programme.md
