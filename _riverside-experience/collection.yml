@@ -2,11 +2,11 @@ collections:
   riverside-experience:
     output: true
     order:
-      - Internationalisation Programme.md
-      - Work Experience Programme.md
-      - Riverside Integrated Skills Experience.md
-      - Learning for Life Programme.md
-      - Applied Learning Programme.md
-      - Student Leadership.md
-      - Full Subject–Based Banding.md
       - Personalised Digital Learning Programme.md
+      - Full Subject–Based Banding.md
+      - Student Leadership.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Riverside Integrated Skills Experience.md
+      - Work Experience Programme.md
+      - Internationalisation Programme.md
