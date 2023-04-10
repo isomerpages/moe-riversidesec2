@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/School Leaders.md
       - Staff Directory/.keep
       - School History.md
       - Crest, Motto and Song.md
