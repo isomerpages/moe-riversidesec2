@@ -22,3 +22,7 @@ Students work collaboratively to solve a criminal case by applying scientific an
 <u>Competitions</u>
 
 Selected students participate in various competitions such as Elementz Science Project Competition and Science Olympiad Competitions to deepen their understanding of Science.
+
+![](/images/science%201.png)
+
+<img style="width:65%" src="/images/science%202.png">
