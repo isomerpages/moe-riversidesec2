@@ -52,3 +52,11 @@ Student leadership development at Riverside is guided by the five practices of e
 </table>
 
 <i>Source: The Student Leadership Challenge, The Five Practices for Exemplary Leaders</i>
+
+![](/images/sl-1%20%20.png)
+
+![](/images/sl-2%20%20.png)
+
+![](/images/sl-3%20%20.png)
+
+![](/images/sl-4%20%20.png)
