@@ -28,3 +28,7 @@ Students are taught how to use digital tools such as Sketchbook on their Persona
 <b>Solving Real-World Problems</b>
 
 Students are taught the design process as a way of thinking and doing. This allows them to focus on creating solutions which are purposeful and meet user needs. They are also introduced to commercial heavy-duty machineries such as the lathe and milling machines. They put together their knowledge to create working prototypes.
+
+![](/images/dnt-1%20.png)
+
+<img style="width:65%" src="/images/dnt-2%20.png">
