@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/Allied Educators.md
       - Staff Directory/CCA Teachers.md
       - Staff Directory/Form Teachers.md
       - Staff Directory/Lead and Senior Teachers.md
