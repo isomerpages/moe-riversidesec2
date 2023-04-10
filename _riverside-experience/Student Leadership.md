@@ -59,4 +59,4 @@ Student leadership development at Riverside is guided by the five practices of e
 
 ![](/images/sl-3%20%20.png)
 
-![](/images/sl-4%20%20.png)
+<img style="width:65%" src="/images/sl-4%20%20.png">
