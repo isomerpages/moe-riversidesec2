@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Vision, Mission and Values.md
       - Crest, Motto and Song.md
@@ -15,3 +14,4 @@ collections:
       - Staff Directory/CCA Teachers.md
       - Staff Directory/Allied Educators.md
       - Staff Directory/Executive and Administration Staff.md
+      - Contact Us.md
