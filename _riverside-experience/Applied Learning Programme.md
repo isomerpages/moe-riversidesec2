@@ -21,4 +21,4 @@ In 2022, the theme for RSMUN was ‘Building an Inclusive Society’. Students a
 
 ![](/images/alp-2%20.png)
 
-![](/images/alp-3%20.png)
+<img style="width:65%" src="/images/alp-3%20.png">
