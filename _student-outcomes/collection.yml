@@ -2,4 +2,5 @@ collections:
   student-outcomes:
     output: true
     order:
+      - An Ethical Leader.md
       - A Future–Ready Digital Learner.md
