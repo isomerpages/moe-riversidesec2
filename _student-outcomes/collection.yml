@@ -2,6 +2,7 @@ collections:
   student-outcomes:
     output: true
     order:
+      - A Globally Competent Citizen.md
       - A Compassionate and Active Citizen.md
       - A Creative Individual.md
       - An Ethical Leader.md
