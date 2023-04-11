@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Co–Curricular Activities.md
       - Clubs & Societies/.keep
       - Clubs & Societies/AV Crew.md
       - Clubs & Societies/Environmental Science Club.md
