@@ -11,19 +11,21 @@ sections:
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Home-Based Learning
+          description: Click here for more on HBL
+          url: https://sites.google.com/moe.edu.sg/riversidesechbl
+        - title: President's Award for Teachers 2022
+          description: Click here to read more
+          url: https://www.schoolbag.edu.sg/story/right-mindset-right-tools-right-results
+        - title: National Digital Literacy Programme (NDLP)
+          description: Click here for more info
+          url: https://sites.google.com/rss.edu.sg/ndlp-riverside/home
+        - title: 2022 O-Level and N-Level Results
+          description: Click here to read more
+          url: /rss/useful-links/2022-gce-o-level-and-n-level-results-briefing-slides/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
       button: Button text
       url: /faq/
 ---
