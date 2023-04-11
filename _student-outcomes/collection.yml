@@ -1,4 +1,5 @@
 collections:
   student-outcomes:
     output: true
-    order: []
+    order:
+      - A Future–Ready Digital Learner.md
