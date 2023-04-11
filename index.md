@@ -24,15 +24,15 @@ sections:
           description: Click here to read more
           url: /rss/useful-links/2022-gce-o-level-and-n-level-results-briefing-slides/
   - infopic:
-      title: FOLLOW US @RIVERSIDE_SEC
-      button: Click Here
-      url: https://www.instagram.com/riversidesecondaryschool/
-      image: /images/instagram.jpg
-      alt: instagram
-  - infopic:
       title: Student Outcomes
       button: Click Here
       url: /student-outcomes/a-future-ready-digital-learner/
       image: /images/student outcomes.png
       alt: Image alt text
+  - infopic:
+      title: Follow us on Instagram @RIVERSIDE_SEC
+      button: Click Here
+      url: https://www.instagram.com/riversidesecondaryschool/
+      image: /images/instagram.jpg
+      alt: instagram
 ---
