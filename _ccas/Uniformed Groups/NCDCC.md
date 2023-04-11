@@ -24,3 +24,9 @@ Over the June holiday, our unit sent in two teams to participate in the instruct
 <u>Other Events</u>
 
 Some of our cadets also took part in the National Day Parade, Urban Adventure Civil Defence Skill Challenge and the Precision Drill Competition.
+
+![](/images/ncdcc-1.png)
+
+![](/images/ncdcc-2.png)
+
+<img style="width:65%" src="/images/ncdcc-3.png">
