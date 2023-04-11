@@ -246,3 +246,90 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+### Secondary 5
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9hzb">Unit </th>
+    <th class="tg-9hzb">Lesson Title / Duration</th>
+    <th class="tg-9hzb">Lesson Overview</th>
+    <th class="tg-9hzb">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-9hzb">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw">Respectful Relationships &amp; Safety</td>
+    <td class="tg-f4yw">This is Where I Draw the Line<br>(60 mins)</td>
+    <td class="tg-zr06">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
+    <td class="tg-ktyi">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+    <td class="tg-f4yw">Term 2</td>
+  </tr>
+</tbody>
+</table>
+
+### eTeens Programme
+
+8.&nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+### At Riverside Secondary School, the eTeens programme will be implemented as follows in 2023:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2g1l">Topics/Lessons</th>
+    <th class="tg-2g1l">Programme Learning Objectives</th>
+    <th class="tg-2g1l">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:normal">Mass Talk by HPB appointed vendor</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal">Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:normal">Modes of transmission</span><br><br><span style="font-weight:normal">Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:normal">Consequences and impact of STIs/HIV</span></td>
+    <td class="tg-7yig"><span style="font-weight:normal">Term 3</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:normal">Classroom-based Lesson</span></td>
+    <td class="tg-ktyi"><span style="font-weight:normal">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></td>
+    <td class="tg-7yig"><span style="font-weight:normal">Term 3</span></td>
+  </tr>
+</tbody>
+</table>
+
+### Information for Parents
+
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;  
+  
+
+11. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year through the Parents Gateway.&nbsp;  
+  
+
+12. Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year through the Parents Gateway.&nbsp;  
+  
+
+13. Parents can contact the school at 6269 9631 for discussion or to seek clarification about the school’s Sexuality Education programme.
