@@ -2,7 +2,7 @@
 title: AV Crew
 permalink: /co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 *_This is offered as a second CCA_&nbsp;.
 
