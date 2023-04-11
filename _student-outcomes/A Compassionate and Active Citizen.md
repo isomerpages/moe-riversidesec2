@@ -9,7 +9,11 @@ Social-emotional skills such as empathy, self-awareness, responsibility and resp
 
 To develop a sense of purpose in Riversidians, every Riversidian is immersed in programmes and activities grounded in our eight school values. They develop good character and become citizens who contribute actively to the community and the nation.
 
-  
+Click here to read more about :
+1. [Character and Citizenship Education](/co-curriculum/character-and-citizenship-education/)
+2. [Values in Action](/co-curriculum/values-in-action)
+3. [Riverside Integrated Skills Experience](/the-riverside-experience/riverside-integrated-skills-experience)
+
 
 References:
 
