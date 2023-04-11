@@ -2,12 +2,12 @@ collections:
   ccas:
     output: true
     order:
-      - Physical Sports/Softball.md
-      - Physical Sports/Netball.md
-      - Physical Sports/Football.md
-      - Physical Sports/Basketball.md
-      - Physical Sports/Badminton.md
       - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Softball.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
