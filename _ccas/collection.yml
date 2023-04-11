@@ -2,15 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Visual and Performing Arts/.keep
-      - Visual and Performing Arts/Chinese Dance.md
-      - Visual and Performing Arts/Choir.md
-      - Visual and Performing Arts/Concert Band.md
-      - Visual and Performing Arts/English Drama.md
-      - Visual and Performing Arts/Indian Dance.md
-      - Visual and Performing Arts/Malay Dance.md
-      - Visual and Performing Arts/Modern Dance.md
-      - Visual and Performing Arts/Visual Arts.md
       - Clubs & Societies/.keep
       - Clubs & Societies/AV Crew.md
       - Clubs & Societies/Environmental Science Club.md
@@ -28,3 +19,12 @@ collections:
       - Physical Sports/Football.md
       - Physical Sports/Netball.md
       - Physical Sports/Softball.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Concert Band.md
+      - Visual and Performing Arts/English Drama.md
+      - Visual and Performing Arts/Indian Dance.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/Visual Arts.md
