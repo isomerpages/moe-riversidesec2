@@ -29,4 +29,10 @@ sections:
       url: https://www.instagram.com/riversidesecondaryschool/
       image: /images/instagram.jpg
       alt: instagram
+  - infopic:
+      title: Student Outcomes
+      button: Click Here
+      url: /student-outcomes/a-future-ready-digital-learner/
+      image: /images/student outcomes.png
+      alt: Image alt text
 ---
