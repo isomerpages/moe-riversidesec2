@@ -35,4 +35,4 @@ With the increase in demand for AV crew’s support for school activities and ev
 
 ![](/images/av%20crew%201.png)
 
-<img style="width:65%" src="/images/av%20crew%202.png">
+<img style="width:55%" src="/images/av%20crew%202.png">
