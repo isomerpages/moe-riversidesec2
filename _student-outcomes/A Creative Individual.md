@@ -11,8 +11,7 @@ Every Riversidian is provided with opportunities to develop their appreciation f
 
 Click here to read more about :
 1. [Learning for Life Programme](/the-riverside-experience/learning-for-life-programme)
-2. [Riverside Integrated Skills Experience
-](/the-riverside-experience/riverside-integrated-skills-experience)
+2. [Riverside Integrated Skills Experience](/the-riverside-experience/riverside-integrated-skills-experience)
 
 References:
 
