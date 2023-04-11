@@ -5,11 +5,11 @@ description: ""
 ---
 ### MOE Sexuality Education in Schools
 
-1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
     
       
     
-2.  The&nbsp;**Goals**&nbsp;of Sexuality Education are to:
+2. The&nbsp;**Goals**&nbsp;of Sexuality Education are to:
     
 a.&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
     
@@ -19,7 +19,7 @@ c.&nbsp;To help students develop a moral compass, respect for themselves and for
     
       
     
-3.  The&nbsp;**Key Message**&nbsp;of Sexuality Education are:
+3. The&nbsp;**Key Message**&nbsp;of Sexuality Education are:
     
 a.&nbsp;Love and respect yourself as you love and respect others;
     
@@ -33,7 +33,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 ### Overview of RIVERSIDE Secondary School’s Sexuality Education Programme for 2023
 
-4.&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped  
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped  
 into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
   
@@ -52,7 +52,7 @@ b. Character and Citizenship Education (CCE)
 
   
 
-7.&nbsp;Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;
+7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;
 
   
 **At Riverside Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
@@ -283,7 +283,7 @@ b. Character and Citizenship Education (CCE)
 
 ### eTeens Programme
 
-8.&nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
+8. _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
