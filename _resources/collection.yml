@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - e–Publications.md
       - Students.md
       - Direct School Admission.md
