@@ -23,9 +23,10 @@ sections:
         - title: 2022 O-Level and N-Level Results
           description: Click here to read more
           url: /rss/useful-links/2022-gce-o-level-and-n-level-results-briefing-slides/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: FOLLOW US @RIVERSIDE_SEC
+      button: Click Here
+      url: https://www.instagram.com/riversidesecondaryschool/
+      image: /images/instagram.jpg
+      alt: instagram
 ---
