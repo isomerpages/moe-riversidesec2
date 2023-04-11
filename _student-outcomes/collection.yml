@@ -2,5 +2,6 @@ collections:
   student-outcomes:
     output: true
     order:
+      - A Creative Individual.md
       - An Ethical Leader.md
       - A Future–Ready Digital Learner.md
