@@ -15,10 +15,10 @@ description: ""
 <thead>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/aesthetics/">
-<img style="width:50%" alt="aesthetics" src="/images/aesthetics.png">
+<img style="width:70%" alt="aesthetics" src="/images/aesthetics.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/design-and-technology/">
-<img style="width:50%" alt="d&amp;t" src="/images/design%20and%20technology%20.png"></a></td>
+<img style="width:70%" alt="d&amp;t" src="/images/design%20and%20technology%20.png"></a></td>
   </tr>
 </thead>
 <tbody>
@@ -28,10 +28,10 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-0lax"><a href="/curriculum/english-language-and-literature/">
-<img style="width:50%" alt="EL-Lit" src="/images/el%20&amp;%20lit.png">
+<img style="width:70%" alt="EL-Lit" src="/images/el%20&amp;%20lit.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/humanities/">
-<img style="width:50%" alt="humanities" src="/images/humanities.png"></a></td>
+<img style="width:70%" alt="humanities" src="/images/humanities.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Learning English at Riverside is never boring. I always look forward to EL lessons! I not only learn real-world topics ranging from volunteerism to Artificial Intelligence, my teacher also conducts engaging lessons where my classmates and I work collaboratively on different platforms such as the SLS. We also have opportunities to be self-directed. Language is the art of communication. Indeed, through EL lessons, I find myself being able express my thoughts and feelings more effectively. - Hilmiah </td>
@@ -39,10 +39,10 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-0lax"><a href="/curriculum/mathematics/">
-<img style="width:50%" alt="math" src="/images/mathematics%20.png">
+<img style="width:70%" alt="math" src="/images/mathematics%20.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/mother-tongue-languages/">
-<img style="width:50%" alt="mother tongue" src="/images/mother%20tongue.png"></a></td>
+<img style="width:70%" alt="mother tongue" src="/images/mother%20tongue.png"></a></td>
   </tr>
 
 </tbody><tbody>
@@ -52,10 +52,10 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-0lax"><a href="/curriculum/physical-education/">
-<img style="width:50%" alt="PE" src="/images/physical%20education.png">
+<img style="width:70%" alt="PE" src="/images/physical%20education.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/science/">
-<img style="width:50%" alt="science" src="/images/science.png"></a></td>
+<img style="width:70%" alt="science" src="/images/science.png"></a></td>
   </tr>
 
 </tbody><tbody>
