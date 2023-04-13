@@ -3,6 +3,8 @@ title: Curriculum
 permalink: /curriculum/
 description: ""
 ---
+![](/images/physical%20education.png)
+![](/images/science.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,11 +35,22 @@ description: ""
     <td class="tg-0lax"><a href="/curriculum/humanities/">
 <img style="width:50%" alt="humanities" src="/images/humanities.png"></a></td>
   </tr>
-
-</tbody><tbody>
   <tr>
     <td class="tg-0lax">Learning English at Riverside is never boring. I always look forward to EL lessons! I not only learn real-world topics ranging from volunteerism to Artificial Intelligence, my teacher also conducts engaging lessons where my classmates and I work collaboratively on different platforms such as the SLS. We also have opportunities to be self-directed. Language is the art of communication. Indeed, through EL lessons, I find myself being able express my thoughts and feelings more effectively. - Hilmiah </td>
     <td class="tg-0lax">My Humanities journey has allowed me to see how different events and issues in the real world are all interconnected. I enjoy the way my teachers use real-world issues to engage us. I particularly like how they draw connections to areas beyond the Humanities. I am also grateful for the chance to be able to participate in a foreign student exchange session online with students from Hong Kong as it enriched my mind further in the Humanities. - Muhammad Arshad</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax"><a href="/curriculum/mathematics/">
+<img style="width:50%" alt="math" src="/images/mathematics%20.png">
+</a></td>
+    <td class="tg-0lax"><a href="/curriculum/mother-tongue-languages/">
+<img style="width:50%" alt="mother tongue" src="/images/mother%20tongue.png"></a></td>
+  </tr>
+
+</tbody><tbody>
+  <tr>
+    <td class="tg-0lax">Throughout my years in RSS, Math lessons have never been mundane. The way the lessons are taught by my teachers always inspire me to see the subject’s connections to different aspects of my life. In class, teachers never fail to spark my passion for the subject by using real-world situations as triggers. Now, I enjoy tackling complicated Math equations. Although it may get challenging sometimes, the teachers at RSS are very supportive and always there for me. - Nailun</td>
+    <td class="tg-0lax">身处以英语为主的新国，立德中学却让我感受到了华语的魅力，也让我对母语有了更深入的了解。有了电子学习配备后，华语课的学习体验也变得更为丰富，老师不仅运用了网上资源，网络学习平台等，也经常通过游戏软件上课，使我更容易理解课堂内容。此外，学校也会配合不同节日举办庆祝活动让学生参与并从中学习。我们也会借学习之旅的机会到户外上课，其中最让我印象深刻的就是品茶活动，还有老师分享的中华历史文化，让我在浓厚的文化渲染下对枯燥的华语改观，更渴望学习华语，挖掘背后的历史及意义。- 陈智峰</td>
   </tr>
 </tbody>
 </table>
