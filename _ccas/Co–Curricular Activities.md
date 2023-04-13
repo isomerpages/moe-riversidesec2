@@ -61,8 +61,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
-    <td style="border: 1px solid black" class="tg-0lax">When I first joined Media Club, everything seemed new to me. I had a hard time learning the basics of photography. I saw this as a challenge that I had to overcome. My journey was not easy but thanks to my seniors and teachers, I sharpened my skills and am now more confident in presenting my work. I’m glad that I was given the opportunity to lead the club as one of the EXCO members. - Bilah Izzah Bahirah Binte Mohammad Noor</td>
+    <td style="border: 1px solid black" class="tg-0lax">In Badminton, we learned the basic skills of badminton such as ways to swing the racket and the correct footwork. We worked closely during intensive training to prepare ourselves for competitions. While the road would be fraught with many challenges, we always put in our best efforts in all the training sessions. Even if we did not achieve our target, we know we have tried our best and we are proud of ourselves. - Yuki Lee</td>
+    <td style="border: 1px solid black" class="tg-0lax">I’ve had such an amazing experience being in basketball! Even though the training sessions were rigorous, I saw  improvements in my skills. Being in basketball also helped me make good friends whom I can trust and enjoy the CCA with. I appreciate the opportunity to help my juniors and for me to grow as a basketball player together with the team. I will never forget all the memorable and fun moments during the training sessions. - Amirah Raihanah Binte Abdul Halim </td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
@@ -71,15 +71,15 @@ description: ""
 <img style="width:57%" alt="netball" src="/images/netball.png"></a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
-    <td style="border: 1px solid black" class="tg-0lax"></td>
+    <td style="border: 1px solid black" class="tg-0lax">I believe that our Football team has improved in many aspects. Our ‘C’ and ‘B’ Divisions teams did well for the National School Games. Everyone looks forward to CCA training sessions and gives their all to be better players and teammates. I believe that if we continue to work hard and encourage one another, we will improve even more as individual players and as a team. Our teachers and coaches have instilled a sense of togetherness within the team and we are definitely stronger together. I am  very proud to be the captain of Riverside Football! - Iqbal Haqim </td>
+    <td style="border: 1px solid black" class="tg-0lax">I've had many memorable experiences playing netball in Riverside. Being in netball introduced me to the skills of the game and also to a new group of friends. My teammates and I have formed strong bonds and even play netball together beyond the training sessions. I experienced some highs and lows during my CCA sessions. However, with the support of my teachers and teammates, I persevered. My teammates and I always strive to do our best to achieve the goals we have set for the team. - Oh Li En</td>
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
 <img style="width:50%" alt="softball" src="/images/softball.png"></a></td>
 	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
+    <td style="border: 1px solid black" class="tg-0lax">Softball has definitely made an impact on me. Becoming Vice-captain of the team has brought me out of my comfort zone. Throughout the year, the team has improved in many aspects especially in terms of skills, resilience and teamwork. The presence of teachers, coaches and my teammates has made CCA very enjoyable. Taking part in competitions also spurred everyone to work harder to achieve our goal as a team. - Kok Jing Wen, Rinzen </td>
 	</tr>
 </tbody>
 </table>
