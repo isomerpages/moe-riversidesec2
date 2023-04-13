@@ -2,8 +2,8 @@ title: Riverside Secondary School
 url: https://www.riversidesec.moe.edu.sg
 favicon: /images/riverside ss_logo transparent bg.png
 colors:
-  primary-color: "#000000"
-  secondary-color: "#4372d6"
+  primary-color: "#000080"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
