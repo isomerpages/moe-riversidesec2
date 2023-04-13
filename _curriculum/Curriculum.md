@@ -15,10 +15,10 @@ description: ""
 <thead>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/aesthetics/">
-<img style="width:70%" alt="aesthetics" src="/images/aesthetics.png">
+<img style="width:50%" alt="aesthetics" src="/images/aesthetics.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/design-and-technology/">
-<img style="width:70%" alt="d&amp;t" src="/images/design%20and%20technology%20.png"></a></td>
+<img style="width:50%" alt="d&amp;t" src="/images/design%20and%20technology%20.png"></a></td>
   </tr>
 </thead>
 <tbody>
@@ -28,10 +28,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/english-language-and-literature/">
-<img style="width:70%" alt="EL-Lit" src="/images/el%20&amp;%20lit.png">
+<img style="width:50%" alt="EL-Lit" src="/images/el%20&amp;%20lit.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/humanities/">
-<img style="width:70%" alt="humanities" src="/images/humanities.png"></a></td>
+<img style="width:50%" alt="humanities" src="/images/humanities.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Learning English at Riverside is never boring. I always look forward to EL lessons! I not only learn real-world topics ranging from volunteerism to Artificial Intelligence, my teacher also conducts engaging lessons where my classmates and I work collaboratively on different platforms such as the SLS. We also have opportunities to be self-directed. Language is the art of communication. Indeed, through EL lessons, I find myself being able express my thoughts and feelings more effectively. - Hilmiah </td>
@@ -39,10 +39,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/mathematics/">
-<img style="width:70%" alt="math" src="/images/mathematics%20.png">
+<img style="width:50%" alt="math" src="/images/mathematics%20.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/mother-tongue-languages/">
-<img style="width:70%" alt="mother tongue" src="/images/mother%20tongue.png"></a></td>
+<img style="width:50%" alt="mother tongue" src="/images/mother%20tongue.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Throughout my years in RSS, Math lessons have never been mundane. The way the lessons are taught by my teachers always inspire me to see the subject’s connections to different aspects of my life. In class, teachers never fail to spark my passion for the subject by using real-world situations as triggers. Now, I enjoy tackling complicated Math equations. Although it may get challenging sometimes, the teachers at RSS are very supportive and always there for me. - Nailun</td>
@@ -50,10 +50,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/physical-education/">
-<img style="width:70%" alt="PE" src="/images/physical%20education.png">
+<img style="width:50%" alt="PE" src="/images/physical%20education.png">
 </a></td>
     <td class="tg-0lax"><a href="/curriculum/science/">
-<img style="width:70%" alt="science" src="/images/science.png"></a></td>
+<img style="width:50%" alt="science" src="/images/science.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">During our PE lessons, we learned to play several sports such as badminton, frisbee, volleyball and basketball. Participating in these sports develops our sports skills as we put our knowledge to the test when we compete with our peers. We also get to learn from one another through the games. Guided by our enthusiastic PE teachers in Riverside, our experience during PE lessons is nothing short of memorable. - Haziq</td>
@@ -61,3 +61,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+test
