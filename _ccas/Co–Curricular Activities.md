@@ -42,7 +42,6 @@ description: ""
 
 <h2><center>Physical Sports</center></h2>
 
-![](/images/softball.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -75,5 +74,12 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
     <td style="border: 1px solid black" class="tg-0lax"></td>
   </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
+<img style="width:50%" alt="softball" src="/images/softball.png"></a></td>
+	</tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
+	</tr>
 </tbody>
 </table>
