@@ -3,8 +3,6 @@ title: Curriculum
 permalink: /curriculum/
 description: ""
 ---
-![](/images/physical%20education.png)
-![](/images/science.png)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,6 +49,19 @@ description: ""
   <tr>
     <td class="tg-0lax">Throughout my years in RSS, Math lessons have never been mundane. The way the lessons are taught by my teachers always inspire me to see the subject’s connections to different aspects of my life. In class, teachers never fail to spark my passion for the subject by using real-world situations as triggers. Now, I enjoy tackling complicated Math equations. Although it may get challenging sometimes, the teachers at RSS are very supportive and always there for me. - Nailun</td>
     <td class="tg-0lax">身处以英语为主的新国，立德中学却让我感受到了华语的魅力，也让我对母语有了更深入的了解。有了电子学习配备后，华语课的学习体验也变得更为丰富，老师不仅运用了网上资源，网络学习平台等，也经常通过游戏软件上课，使我更容易理解课堂内容。此外，学校也会配合不同节日举办庆祝活动让学生参与并从中学习。我们也会借学习之旅的机会到户外上课，其中最让我印象深刻的就是品茶活动，还有老师分享的中华历史文化，让我在浓厚的文化渲染下对枯燥的华语改观，更渴望学习华语，挖掘背后的历史及意义。- 陈智峰</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax"><a href="/curriculum/physical-education/">
+<img style="width:50%" alt="PE" src="/images/physical%20education.png">
+</a></td>
+    <td class="tg-0lax"><a href="/curriculum/science/">
+<img style="width:50%" alt="science" src="/images/science.png"></a></td>
+  </tr>
+
+</tbody><tbody>
+  <tr>
+    <td class="tg-0lax">During our PE lessons, we learned to play several sports such as badminton, frisbee, volleyball and basketball. Participating in these sports develops our sports skills as we put our knowledge to the test when we compete with our peers. We also get to learn from one another through the games. Guided by our enthusiastic PE teachers in Riverside, our experience during PE lessons is nothing short of memorable. - Haziq</td>
+    <td class="tg-0lax">Science is my favourite subject, thanks to the dedicated science teachers who piqued my interest with scientific paradoxes. I also appreciate the way they link the learning of scientific concepts to my everyday experiences. The opportunity to participate in the Biology Olympiad competition deepened my understanding of the subject significantly! It made me realise that the studying of science will advance humanity, because it allows us to understand the many unknowns that exist in the universe. Learning science in Riverside has been a fantastic experience! - Kaijun</td>
   </tr>
 </tbody>
 </table>
