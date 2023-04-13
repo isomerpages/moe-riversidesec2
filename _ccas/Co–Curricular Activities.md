@@ -24,8 +24,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
+    <td class="tg-0lax">When I first joined Media Club, everything seemed new to me. I had a hard time learning the basics of photography. I saw this as a challenge that I had to overcome. My journey was not easy but thanks to my seniors and teachers, I sharpened my skills and am now more confident in presenting my work. I’m glad that I was given the opportunity to lead the club as one of the EXCO members. - Bilah Izzah Bahirah Binte Mohammad Noor</td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
@@ -34,7 +34,7 @@ description: ""
 <img style="width:50%" alt="environmental" src="/images/environmental%20.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
