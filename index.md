@@ -20,9 +20,6 @@ sections:
         - title: National Digital Literacy Programme (NDLP)
           description: Click here for more info
           url: https://sites.google.com/rss.edu.sg/ndlp-riverside/home
-        - title: 2022 O-Level and N-Level Results
-          description: Click here to read more
-          url: /rss/useful-links/2022-gce-o-level-and-n-level-results-briefing-slides/
   - infopic:
       title: Student Outcomes
       button: Click Here
