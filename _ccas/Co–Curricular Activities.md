@@ -3,7 +3,7 @@ title: Co–Curricular Activities
 permalink: /co-curriculum/co-curricular-activities/
 description: ""
 ---
-<h2>Clubs &amp; Societies</h2>
+<h2><center>Clubs &amp; Societies</center></h2>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
