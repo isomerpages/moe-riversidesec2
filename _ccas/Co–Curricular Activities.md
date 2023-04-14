@@ -115,15 +115,15 @@ description: ""
 <img style="width:57%" alt="ncdcc" src="/images/ncdcc%20.png"></a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax">I believe that our Football team has improved in many aspects. Our ‘C’ and ‘B’ Divisions teams did well for the National School Games. Everyone looks forward to CCA training sessions and gives their all to be better players and teammates. I believe that if we continue to work hard and encourage one another, we will improve even more as individual players and as a team. Our teachers and coaches have instilled a sense of togetherness within the team and we are definitely stronger together. I am  very proud to be the captain of Riverside Football! - Iqbal Haqim </td>
-    <td style="border: 1px solid black" class="tg-0lax">I've had many memorable experiences playing netball in Riverside. Being in netball introduced me to the skills of the game and also to a new group of friends. My teammates and I have formed strong bonds and even play netball together beyond the training sessions. I experienced some highs and lows during my CCA sessions. However, with the support of my teachers and teammates, I persevered. My teammates and I always strive to do our best to achieve the goals we have set for the team. - Oh Li En</td>
+    <td style="border: 1px solid black" class="tg-0lax">Riverside NCC (Sea) has moulded me into a better person. There were many memorable events that we had participated in such as the NCC Day Parade. We trained enthusiastically for these events with hard work and passion, and the encouragement of our teachers. I am very proud of my CCA and my CCA mates. Our NCC training has trained us to display resilience and overcome whatever challenges we face in life. - Hady Matin Danial</td>
+    <td style="border: 1px solid black" class="tg-0lax">For all our NCDCC training sessions and events such as the Precision Drill Competition, our squad always puts in our best to achieve our goals. At times, we may feel like giving up but we would still push through the challenges with much perseverance and teamwork. Through these experiences, we learned a lot about hard work and resilience and tenacity. I am very proud of everyone in the squad for not giving up and working together as a team! - Andrei </td>
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
 <img style="width:50%" alt="npcc" src="/images/npcc%20%20.png"></a></td>
 	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax">Softball has definitely made an impact on me. Becoming Vice-captain of the team has brought me out of my comfort zone. Throughout the year, the team has improved in many aspects especially in terms of skills, resilience and teamwork. The presence of teachers, coaches and my teammates has made CCA very enjoyable. Taking part in competitions also spurred everyone to work harder to achieve our goal as a team. - Kok Jing Wen, Rinzen </td>
+    <td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
 	</tr>
 </tbody>
 </table>
