@@ -54,7 +54,7 @@ description: ""
 <thead>
   <tr>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/badminton/">
-<img style="width:55%" alt="badminton" src="/images/badminton.png"></a></th>
+<img style="width:54%" alt="badminton" src="/images/badminton.png"></a></th>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/basketball/">
 <img style="width:57%" alt="basketball" src="/images/basketball.png"></a></th>
   </tr>
@@ -66,7 +66,7 @@ description: ""
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
-<img style="width:54%" alt="football" src="/images/football.png"></a></td>
+<img style="width:53%" alt="football" src="/images/football.png"></a></td>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/netball/">
 <img style="width:57%" alt="netball" src="/images/netball.png"></a></td>
   </tr>
@@ -98,7 +98,7 @@ description: ""
 <thead>
   <tr>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
-<img style="width:52%" alt="boys brigade" src="/images/boys%20brigade.png"></a></th>
+<img style="width:53%" alt="boys brigade" src="/images/boys%20brigade.png"></a></th>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
 <img style="width:57%" alt="girls brigade" src="/images/girls%20brigade.png"></a></th>
   </tr>
@@ -112,7 +112,7 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
 <img style="width:52%" alt="ncc" src="/images/ncc-sea.png"></a></td>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
-<img style="width:58%" alt="ncdcc" src="/images/ncdcc%20.png"></a></td>
+<img style="width:57%" alt="ncdcc" src="/images/ncdcc%20.png"></a></td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax">Riverside NCC (Sea) has moulded me into a better person. There were many memorable events that we had participated in such as the NCC Day Parade. We trained enthusiastically for these events with hard work and passion, and the encouragement of our teachers. I am very proud of my CCA and my CCA mates. Our NCC training has trained us to display resilience and overcome whatever challenges we face in life. - Hady Matin Danial</td>
@@ -128,4 +128,13 @@ description: ""
 </tbody>
 </table>
 
-<h2> </h2>
+<h2>Visual and Performing Arts</h2>
+
+![](/images/visual%20arts.png)
+![](/images/choir%20.png)
+![](/images/concert%20band.png)
+![](/images/dance-chinese.png)
+![](/images/dance-indian.png)
+![](/images/dance-malay.png)
+![](/images/dance-modern.png)
+![](/images/english%20drama.png)
