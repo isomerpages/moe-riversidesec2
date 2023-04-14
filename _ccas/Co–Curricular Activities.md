@@ -54,7 +54,7 @@ description: ""
 <thead>
   <tr>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/badminton/">
-<img style="width:50%" alt="badminton" src="/images/badminton.png"></a></th>
+<img style="width:55%" alt="badminton" src="/images/badminton.png"></a></th>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/basketball/">
 <img style="width:57%" alt="basketball" src="/images/basketball.png"></a></th>
   </tr>
