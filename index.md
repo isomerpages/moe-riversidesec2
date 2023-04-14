@@ -20,6 +20,9 @@ sections:
         - title: National Digital Literacy Programme (NDLP)
           description: Click here for more info
           url: https://sites.google.com/rss.edu.sg/ndlp-riverside/home
+        - title: Social Media
+          description: Find us on our social media
+          url: ""
   - infopic:
       title: Student Outcomes
       button: Click Here
