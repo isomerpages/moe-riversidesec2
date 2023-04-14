@@ -3,18 +3,6 @@ title: Social Medias
 permalink: /social-medias/
 description: ""
 ---
-<a href="https://www.youtube.com/channel/UCbOcdm96pv8lWQ-psfGSpbQ/featured">
-<img style="width:30%" alt="youtube" src="/images/youtube.jpg">
-</a>
-
-<a href="https://www.facebook.com/RiversideSS/">
-<img style="width:30%" alt="facebook" src="/images/facebook-logo.png">
-</a>
-
-<a href="https://www.instagram.com/riversidesecondaryschool/">
-<img style="width:30%" alt="instagram" src="/images/insta%20logo.jpeg">
-</a>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
