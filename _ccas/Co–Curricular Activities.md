@@ -120,7 +120,7 @@ description: ""
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
-<img style="width:50%" alt="npcc" src="/images/npcc%20%20.png"></a></td>
+<img style="width:57%" alt="npcc" src="/images/npcc%20%20.png"></a></td>
 	</tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
