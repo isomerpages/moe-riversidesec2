@@ -224,3 +224,37 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<h2>Secondary 5</h2>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid black" class="tg-9hzb">Unit </th>
+    <th style="border: 1px solid black" class="tg-9hzb">Lesson Title / Duration</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Lesson Overview</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th style="border: 1px solid black" class="tg-9hzb">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid black" class="tg-f4yw">Respectful Relationships &amp; Safety</td>
+    <td style="border: 1px solid black" class="tg-f4yw">This is Where I Draw the Line<br>(60 mins)</td>
+    <td style="border: 1px solid black" class="tg-zr06">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
+    <td style="border: 1px solid black" class="tg-ktyi">- understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+    <td style="border: 1px solid black" class="tg-f4yw">Term 2</td>
+  </tr>
+</tbody>
+</table>
