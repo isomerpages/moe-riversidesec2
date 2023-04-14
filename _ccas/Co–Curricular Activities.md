@@ -66,7 +66,7 @@ description: ""
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
-<img style="width:50%" alt="football" src="/images/football.png"></a></td>
+<img style="width:54%" alt="football" src="/images/football.png"></a></td>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/netball/">
 <img style="width:57%" alt="netball" src="/images/netball.png"></a></td>
   </tr>
