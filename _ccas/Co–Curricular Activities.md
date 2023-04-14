@@ -128,7 +128,7 @@ description: ""
 </tbody>
 </table>
 
-<h2>Visual and Performing Arts</h2>
+<h2><center>Visual and Performing Arts</center></h2>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
