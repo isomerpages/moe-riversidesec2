@@ -97,10 +97,10 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/badminton/">
-<img style="width:50%" alt="badminton" src="/images/badminton.png"></a></th>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/basketball/">
-<img style="width:57%" alt="basketball" src="/images/basketball.png"></a></th>
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
+<img style="width:50%" alt="boys brigade" src="/images/boys%20brigade.png"></a></th>
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
+<img style="width:57%" alt="girls brigade" src="/images/girls%20brigade.png"></a></th>
   </tr>
 </thead>
 <tbody>
@@ -109,21 +109,22 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax">I’ve had such an amazing experience being in basketball! Even though the training sessions were rigorous, I saw  improvements in my skills. Being in basketball also helped me make good friends whom I can trust and enjoy the CCA with. I appreciate the opportunity to help my juniors and for me to grow as a basketball player together with the team. I will never forget all the memorable and fun moments during the training sessions. - Amirah Raihanah Binte Abdul Halim </td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
-<img style="width:50%" alt="football" src="/images/football.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/netball/">
-<img style="width:57%" alt="netball" src="/images/netball.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
+<img style="width:50%" alt="ncc" src="/images/ncc-sea.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
+<img style="width:57%" alt="ncdcc" src="/images/ncdcc%20.png"></a></td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax">I believe that our Football team has improved in many aspects. Our ‘C’ and ‘B’ Divisions teams did well for the National School Games. Everyone looks forward to CCA training sessions and gives their all to be better players and teammates. I believe that if we continue to work hard and encourage one another, we will improve even more as individual players and as a team. Our teachers and coaches have instilled a sense of togetherness within the team and we are definitely stronger together. I am  very proud to be the captain of Riverside Football! - Iqbal Haqim </td>
     <td style="border: 1px solid black" class="tg-0lax">I've had many memorable experiences playing netball in Riverside. Being in netball introduced me to the skills of the game and also to a new group of friends. My teammates and I have formed strong bonds and even play netball together beyond the training sessions. I experienced some highs and lows during my CCA sessions. However, with the support of my teachers and teammates, I persevered. My teammates and I always strive to do our best to achieve the goals we have set for the team. - Oh Li En</td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
-<img style="width:50%" alt="softball" src="/images/softball.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+<img style="width:50%" alt="npcc" src="/images/npcc%20%20.png"></a></td>
 	</tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax">Softball has definitely made an impact on me. Becoming Vice-captain of the team has brought me out of my comfort zone. Throughout the year, the team has improved in many aspects especially in terms of skills, resilience and teamwork. The presence of teachers, coaches and my teammates has made CCA very enjoyable. Taking part in competitions also spurred everyone to work harder to achieve our goal as a team. - Kok Jing Wen, Rinzen </td>
 	</tr>
 </tbody>
 </table>
+
