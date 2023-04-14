@@ -258,3 +258,43 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<h3>eTeens Programme</h3>
+
+8.eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Riverside Secondary School, the eTeens programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid black" class="tg-2g1l">Topics/Lessons</th>
+    <th style="border: 1px solid black" class="tg-2g1l">Programme Learning Objectives</th>
+    <th style="border: 1px solid black" class="tg-2g1l">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="font-weight:normal">Mass Talk by HPB appointed vendor</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="font-weight:normal">Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:normal">Modes of transmission</span><br><br><span style="font-weight:normal">Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:normal">Consequences and impact of STIs/HIV</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="font-weight:normal">Term 3</span><br></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="font-weight:normal">Classroom-based Lesson</span></td>
+    <td style="border: 1px solid black" class="tg-ktyi"><span style="font-weight:normal">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></td>
+    <td style="border: 1px solid black" class="tg-7yig"><span style="font-weight:normal">Term 3</span></td>
+  </tr>
+</tbody>
+</table>
