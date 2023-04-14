@@ -142,7 +142,7 @@ description: ""
 <thead>
   <tr>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
-<img style="width:53%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
+<img style="width:54%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
 <img style="width:57%" alt="choir" src="/images/choir%20.png"></a></th>
   </tr>
@@ -154,7 +154,7 @@ description: ""
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
-<img style="width:52%" alt="concert band" src="/images/concert%20band.png"></a></td>
+<img style="width:54%" alt="concert band" src="/images/concert%20band.png"></a></td>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
 <img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
   </tr>
@@ -164,7 +164,7 @@ description: ""
   </tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
-<img style="width:57%" alt="indian dance" src="/images/dance-indian.png"></a></td>
+<img style="width:54%" alt="indian dance" src="/images/dance-indian.png"></a></td>
 		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
 <img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
 	</tr>
@@ -174,7 +174,7 @@ description: ""
 	</tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
-<img style="width:57%" alt="modern dance" src="/images/dance-modern.png"></a></td>
+<img style="width:55%" alt="modern dance" src="/images/dance-modern.png"></a></td>
 		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
 <img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
 	</tr>
