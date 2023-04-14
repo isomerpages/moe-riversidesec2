@@ -26,3 +26,6 @@ into five main themes: Human Development, Interpersonal Relationships, Sexual He
 5. The subjects that incorporate topics on sexuality include: <br><br>
 a. Science <br><br>
 b. Character and Citizenship Education (CCE)
+
+<b><i>Sexuality Education Lessons:</i></b>
+
