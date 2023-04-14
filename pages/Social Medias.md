@@ -3,10 +3,14 @@ title: Social Medias
 permalink: /social-medias/
 description: ""
 ---
-<a href="https://www.w3schools.com">
-<img height="132" width="100" alt="W3Schools.com" src="w3html.gif">
+<a href="https://www.youtube.com/channel/UCbOcdm96pv8lWQ-psfGSpbQ/featured">
+<img style="width:50%" alt="youtube" src="/images/youtube.jpg">
 </a>
 
-![](/images/insta%20logo.jpeg)
-![](/images/youtube.jpg)
-![](/images/facebook-logo.png)
+<a href="https://www.facebook.com/RiversideSS/">
+<img style="width:50%" alt="facebook" src="/images/facebook-logo.png">
+</a>
+
+<a href="https://www.instagram.com/riversidesecondaryschool/">
+<img style="width:50%" alt="instagram" src="/images/insta%20logo.jpeg">
+</a>
