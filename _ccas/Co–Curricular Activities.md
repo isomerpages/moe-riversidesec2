@@ -169,8 +169,8 @@ description: ""
 <img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
 	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
-		<td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+    <td style="border: 1px solid black" class="tg-0lax">Indian Dance has given me many opportunities to grow as a dancer and a leader. My fellow dancers and I learned the different types of choreography for dance performances. Our training sessions that led up to our performances were sometimes fraught with challenges. However, we continued to train hard and did not give up. At the end of each day, we would still put up a riveting performance. I feel so proud to be a part of Riverside’s Indian Dance! - Anandakannan Rezma</td>
+		<td style="border: 1px solid black" class="tg-0lax">My CCA experience with Malay Dance has been very enriching. Firstly, my CCA members are very fun to be with. I have forged many beautiful memories with them. Secondly, as the vice-chairperson of Malay Dance, I am given many opportunities to lead my fellow dancers at various events and performances. This has helped me to understand what leadership is. I am thankful for all these opportunities to pursue my passion in Malay Dance. - Naimi Irdina Binti Mohamed Isfar</td>
 	</tr>
 	<tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
@@ -179,8 +179,8 @@ description: ""
 <img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
 	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
-		<td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+    <td style="border: 1px solid black" class="tg-0lax">It has been a great pleasure to be part of modern dance. I treasure the moments and friendship forged during CCA the most. As our dance motto goes, ‘Dance to express, not to impress’. Dancing provides me an outlet to express myself in different art forms. Being in modern dance has taught me resilience and perseverance, and helped me to sharpen my leadership skills as an individual too. - Pearlynn Chan Zi Yi </td>
+		<td style="border: 1px solid black" class="tg-0lax">My experience in English Drama has definitely been very enriching and unforgettable, as I got to forge new bonds with my fellow members and picked up new skills, especially leadership skills. In addition, I learned other useful skills such as production management which includes looking into characters' costumes, lines, props and giving stage directions. Overall, being in Drama has been an exciting experience, and I hope that our future Drama members will also have fun during CCA sessions. - Ng Zi Hern</td>
 	</tr>
 </tbody>
 </table>
