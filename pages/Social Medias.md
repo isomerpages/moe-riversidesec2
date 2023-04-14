@@ -4,13 +4,13 @@ permalink: /social-medias/
 description: ""
 ---
 <a href="https://www.youtube.com/channel/UCbOcdm96pv8lWQ-psfGSpbQ/featured">
-<img style="width:50%" alt="youtube" src="/images/youtube.jpg">
+<img style="width:30%" alt="youtube" src="/images/youtube.jpg">
 </a>
 
 <a href="https://www.facebook.com/RiversideSS/">
-<img style="width:50%" alt="facebook" src="/images/facebook-logo.png">
+<img style="width:30%" alt="facebook" src="/images/facebook-logo.png">
 </a>
 
 <a href="https://www.instagram.com/riversidesecondaryschool/">
-<img style="width:45%" alt="instagram" src="/images/insta%20logo.jpeg">
+<img style="width:30%" alt="instagram" src="/images/insta%20logo.jpeg">
 </a>
