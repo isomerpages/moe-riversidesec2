@@ -98,7 +98,7 @@ description: ""
 <thead>
   <tr>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
-<img style="width:50%" alt="boys brigade" src="/images/boys%20brigade.png"></a></th>
+<img style="width:52%" alt="boys brigade" src="/images/boys%20brigade.png"></a></th>
     <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
 <img style="width:57%" alt="girls brigade" src="/images/girls%20brigade.png"></a></th>
   </tr>
@@ -110,9 +110,9 @@ description: ""
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
-<img style="width:50%" alt="ncc" src="/images/ncc-sea.png"></a></td>
+<img style="width:52%" alt="ncc" src="/images/ncc-sea.png"></a></td>
     <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
-<img style="width:57%" alt="ncdcc" src="/images/ncdcc%20.png"></a></td>
+<img style="width:58%" alt="ncdcc" src="/images/ncdcc%20.png"></a></td>
   </tr>
   <tr>
     <td style="border: 1px solid black" class="tg-0lax">Riverside NCC (Sea) has moulded me into a better person. There were many memorable events that we had participated in such as the NCC Day Parade. We trained enthusiastically for these events with hard work and passion, and the encouragement of our teachers. I am very proud of my CCA and my CCA mates. Our NCC training has trained us to display resilience and overcome whatever challenges we face in life. - Hady Matin Danial</td>
@@ -127,3 +127,5 @@ description: ""
 	</tr>
 </tbody>
 </table>
+
+<h2> </h2>
