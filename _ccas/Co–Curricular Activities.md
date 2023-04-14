@@ -141,9 +141,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
 <img style="width:53%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
 <img style="width:57%" alt="choir" src="/images/choir%20.png"></a></th>
   </tr>
 </thead>
@@ -153,9 +153,9 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax">Being a part of GB has given me a wide range of learning experience. From our annual day camp to our badgework, my squadmates and I have gained values such as service and innovation, as well as life skills like decision-making, problem-solving and servant leadership. We know that no matter the activity we participate in, we will always get something enriching out of it. - Ananya Kiran</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
 <img style="width:52%" alt="concert band" src="/images/concert%20band.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
 <img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
   </tr>
   <tr>
@@ -163,9 +163,9 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax">For all our NCDCC training sessions and events such as the Precision Drill Competition, our squad always puts in our best to achieve our goals. At times, we may feel like giving up but we would still push through the challenges with much perseverance and teamwork. Through these experiences, we learned a lot about hard work and resilience and tenacity. I am very proud of everyone in the squad for not giving up and working together as a team! - Andrei </td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
 <img style="width:57%" alt="indian dance" src="/images/dance-indian.png"></a></td>
-		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
 <img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
 	</tr>
 	<tr>
@@ -173,9 +173,9 @@ description: ""
 		<td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
 	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
 <img style="width:57%" alt="modern dance" src="/images/dance-modern.png"></a></td>
-		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
 <img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
 	</tr>
 	<tr>
