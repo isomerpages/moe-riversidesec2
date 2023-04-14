@@ -12,5 +12,5 @@ description: ""
 </a>
 
 <a href="https://www.instagram.com/riversidesecondaryschool/">
-<img style="width:50%" alt="instagram" src="/images/insta%20logo.jpeg">
+<img style="width:45%" alt="instagram" src="/images/insta%20logo.jpeg">
 </a>
