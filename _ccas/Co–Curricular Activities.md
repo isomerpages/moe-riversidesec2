@@ -130,11 +130,67 @@ description: ""
 
 <h2>Visual and Performing Arts</h2>
 
-![](/images/visual%20arts.png)
-![](/images/choir%20.png)
-![](/images/concert%20band.png)
-![](/images/dance-chinese.png)
-![](/images/dance-indian.png)
-![](/images/dance-malay.png)
-![](/images/dance-modern.png)
-![](/images/english%20drama.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+<img style="width:50%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+<img style="width:57%" alt="choir" src="/images/choir%20.png"></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid black" class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
+    <td style="border: 1px solid black" class="tg-0lax">When I first joined Media Club, everything seemed new to me. I had a hard time learning the basics of photography. I saw this as a challenge that I had to overcome. My journey was not easy but thanks to my seniors and teachers, I sharpened my skills and am now more confident in presenting my work. I’m glad that I was given the opportunity to lead the club as one of the EXCO members. - Bilah Izzah Bahirah Binte Mohammad Noor</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+<img style="width:50%" alt="concert band" src="/images/concert%20band.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+<img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
+    <td style="border: 1px solid black" class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+<img style="width:50%" alt="indian dance" src="/images/dance-indian.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+<img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
+    <td style="border: 1px solid black" class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+<img style="width:50%" alt="concert band" src="/images/concert%20band.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+<img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
+    <td style="border: 1px solid black" class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+<img style="width:50%" alt="modern dance" src="/images/dance-modern.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+<img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
+    <td style="border: 1px solid black" class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
