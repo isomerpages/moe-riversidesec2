@@ -141,57 +141,46 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
-<img style="width:50%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
+<img style="width:53%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
 <img style="width:57%" alt="choir" src="/images/choir%20.png"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
-    <td style="border: 1px solid black" class="tg-0lax">When I first joined Media Club, everything seemed new to me. I had a hard time learning the basics of photography. I saw this as a challenge that I had to overcome. My journey was not easy but thanks to my seniors and teachers, I sharpened my skills and am now more confident in presenting my work. I’m glad that I was given the opportunity to lead the club as one of the EXCO members. - Bilah Izzah Bahirah Binte Mohammad Noor</td>
+    <td style="border: 1px solid black" class="tg-0lax">My experience in BB thus far has been like a dive into an ocean of opportunity. In BB, I was given many opportunities to hone my character and be an active contributor to society. I also learned soft skills such as leadership and teamwork, and also learned technical skills like tent setting and kayaking. The memories I have made bonding with my peers through BB will be memories that I will cherish for many years to come. - Staff Sergeant Casimsiman Jared Maynard Cipriano </td>
+    <td style="border: 1px solid black" class="tg-0lax">Being a part of GB has given me a wide range of learning experience. From our annual day camp to our badgework, my squadmates and I have gained values such as service and innovation, as well as life skills like decision-making, problem-solving and servant leadership. We know that no matter the activity we participate in, we will always get something enriching out of it. - Ananya Kiran</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
-<img style="width:50%" alt="concert band" src="/images/concert%20band.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
+<img style="width:52%" alt="concert band" src="/images/concert%20band.png"></a></td>
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
 <img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
-    <td style="border: 1px solid black" class="tg-0lax"></td>
+    <td style="border: 1px solid black" class="tg-0lax">Riverside NCC (Sea) has moulded me into a better person. There were many memorable events that we had participated in such as the NCC Day Parade. We trained enthusiastically for these events with hard work and passion, and the encouragement of our teachers. I am very proud of my CCA and my CCA mates. Our NCC training has trained us to display resilience and overcome whatever challenges we face in life. - Hady Matin Danial</td>
+    <td style="border: 1px solid black" class="tg-0lax">For all our NCDCC training sessions and events such as the Precision Drill Competition, our squad always puts in our best to achieve our goals. At times, we may feel like giving up but we would still push through the challenges with much perseverance and teamwork. Through these experiences, we learned a lot about hard work and resilience and tenacity. I am very proud of everyone in the squad for not giving up and working together as a team! - Andrei </td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
-<img style="width:50%" alt="indian dance" src="/images/dance-indian.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+<img style="width:57%" alt="indian dance" src="/images/dance-indian.png"></a></td>
+		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
 <img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
-    <td style="border: 1px solid black" class="tg-0lax"></td>
-  </tr>
+	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
-<img style="width:50%" alt="concert band" src="/images/concert%20band.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
-<img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
-    <td style="border: 1px solid black" class="tg-0lax"></td>
-  </tr>
+    <td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+		<td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+	</tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
-<img style="width:50%" alt="modern dance" src="/images/dance-modern.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
+<img style="width:57%" alt="modern dance" src="/images/dance-modern.png"></a></td>
+		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/npcc/">
 <img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
-    <td style="border: 1px solid black" class="tg-0lax"></td>
-  </tr>
+	</tr>
+	<tr>
+    <td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+		<td style="border: 1px solid black" class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+	</tr>
 </tbody>
 </table>
-
