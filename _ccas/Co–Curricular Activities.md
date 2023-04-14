@@ -141,9 +141,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
 <img style="width:50%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
 <img style="width:57%" alt="choir" src="/images/choir%20.png"></a></th>
   </tr>
 </thead>
@@ -153,9 +153,9 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax">When I first joined Media Club, everything seemed new to me. I had a hard time learning the basics of photography. I saw this as a challenge that I had to overcome. My journey was not easy but thanks to my seniors and teachers, I sharpened my skills and am now more confident in presenting my work. I’m glad that I was given the opportunity to lead the club as one of the EXCO members. - Bilah Izzah Bahirah Binte Mohammad Noor</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
 <img style="width:50%" alt="concert band" src="/images/concert%20band.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
 <img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
   </tr>
   <tr>
@@ -163,9 +163,9 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax"></td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
 <img style="width:50%" alt="indian dance" src="/images/dance-indian.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
 <img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
   </tr>
   <tr>
@@ -183,9 +183,9 @@ description: ""
     <td style="border: 1px solid black" class="tg-0lax"></td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
 <img style="width:50%" alt="modern dance" src="/images/dance-modern.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
+    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
 <img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
   </tr>
   <tr>
@@ -194,3 +194,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+
