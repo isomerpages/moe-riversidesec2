@@ -298,3 +298,13 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<h3>Information for Parents</h3>
+
+10.Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+11.Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year through the Parents Gateway. 
+
+12.Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year through the Parents Gateway. 
+
+13.Parents can contact the school at 6269 9631 for discussion or to seek clarification about the school’s Sexuality Education programme. 
