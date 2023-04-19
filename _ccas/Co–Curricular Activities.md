@@ -39,7 +39,7 @@ description: ""
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/robotics-club">
 <img style="width:400px" alt="robotics" src="/images/robotics%202.png"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club">
-<img style="width:48%" alt="environmental science club" src="/images/environmental%20science%20club%20thumbnail.jpeg"></a></td>
+<img style="width:60%" alt="environmental science club" src="/images/environmental%20science%20club%20thumbnail.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
