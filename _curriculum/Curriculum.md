@@ -14,8 +14,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-0lax"><center><h4>Aesthetics</h4></center></td>
-    <td class="tg-0lax"><center><h4>Design and Technology</h4></center></td>
+		<td class="tg-0lax"><center><h3>Aesthetics</h3></center></td>
+    <td class="tg-0lax"><center><h3>Design and Technology</h3></center></td>
   </tr>
 </thead>
 <tbody>
@@ -32,8 +32,8 @@ description: ""
     <td class="tg-0lax">D&amp;T is one of the most fun subjects I’ve had this year. The sense of satisfaction when I managed to turn my ideas into reality is overwhelming. I always tried to refine my design and learned so many useful skills in the process. Looking back, I can’t help but feel proud of myself for producing a workable design that caters to user needs! - Ng Kai Ning</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h4>English Language and Literature</h4></center></td>
-    <td class="tg-0lax"><center><h4>Humanities</h4></center></td>
+    <td class="tg-0lax"><center><h3>English Language and Literature</h3></center></td>
+    <td class="tg-0lax"><center><h3>Humanities</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/english-language-and-literature/">
@@ -46,8 +46,8 @@ description: ""
     <td class="tg-0lax">My Humanities journey has allowed me to see how different events and issues in the real world are all interconnected. I enjoy the way my teachers use real-world issues to engage us. I particularly like how they draw connections to areas beyond the Humanities. I am also grateful for the chance to be able to participate in a foreign student exchange session online with students from Hong Kong as it enriched my mind further in the Humanities. - Muhammad Arshad</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h4>Mathematics</h4></center></td>
-    <td class="tg-0lax"><center><h4>Mother Tongue Languages</h4></center></td>
+    <td class="tg-0lax"><center><h3>Mathematics</h3></center></td>
+    <td class="tg-0lax"><center><h3>Mother Tongue Languages</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/mathematics/">
@@ -60,8 +60,8 @@ description: ""
     <td class="tg-0lax">身处以英语为主的新国，立德中学却让我感受到了华语的魅力，也让我对母语有了更深入的了解。有了电子学习配备后，华语课的学习体验也变得更为丰富，老师不仅运用了网上资源，网络学习平台等，也经常通过游戏软件上课，使我更容易理解课堂内容。此外，学校也会配合不同节日举办庆祝活动让学生参与并从中学习。我们也会借学习之旅的机会到户外上课，其中最让我印象深刻的就是品茶活动，还有老师分享的中华历史文化，让我在浓厚的文化渲染下对枯燥的华语改观，更渴望学习华语，挖掘背后的历史及意义。- 陈智峰</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h4>Physical Education</h4></center></td>
-    <td class="tg-0lax"><center><h4>Science</h4></center></td>
+    <td class="tg-0lax"><center><h3>Physical Education</h3></center></td>
+    <td class="tg-0lax"><center><h3>Science</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/curriculum/physical-education/">
