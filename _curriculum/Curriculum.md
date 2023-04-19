@@ -3,8 +3,7 @@ title: Curriculum
 permalink: /curriculum/
 description: ""
 ---
-![](/images/aesthetics%20.jpeg)
-![](/images/design%20and%20technology.jpeg)
+![]()
 ![](/images/english%20language%20and%20literature.jpeg)
 ![](/images/humanities%20.jpeg)
 ![](/images/mathematics%20%20.jpeg)
@@ -23,64 +22,56 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><h4>Aesthetics</h4></td>
+    <td class="tg-0lax"><h4>Design and Technology</h4></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="/curriculum/aesthetics/">
+<img style="width:400px" alt="aesthetics" src="/images/aesthetics%20.jpeg">
+</a></td>
+    <td class="tg-0lax"><a href="/curriculum/design-and-technology/">
+<img style="width:400px" alt="dnt" src="/images/design%20and%20technology.jpeg">
+</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">My art experience in Riverside has exposed me to various art forms that I normally wouldn't think of trying. During lessons, we explore mediums ranging from pencil drawings and paintings, to copper tooling and drypoint printmaking. Furthermore, we are given opportunities to exhibit our artwork in and outside of school. I am glad that the arts are appreciated in Riverside! - Sofia Liana Piracci </td>
+    <td class="tg-0lax">D&amp;T is one of the most fun subjects I’ve had this year. The sense of satisfaction when I managed to turn my ideas into reality is overwhelming. I always tried to refine my design and learned so many useful skills in the process. Looking back, I can’t help but feel proud of myself for producing a workable design that caters to user needs! - Ng Kai Ning</td>
+  </tr>
+  <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
