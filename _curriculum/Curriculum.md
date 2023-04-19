@@ -3,13 +3,8 @@ title: Curriculum
 permalink: /curriculum/
 description: ""
 ---
-![]()
-![](/images/english%20language%20and%20literature.jpeg)
-![](/images/humanities%20.jpeg)
-![](/images/mathematics%20%20.jpeg)
-![](/images/mother%20tongue%20languages.jpeg)
-![](/images/physical%20education%20.jpeg)
-![](/images/science%20.jpeg)
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,7 +72,12 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+![](/images/english%20language%20and%20literature.jpeg)
+![](/images/humanities%20.jpeg)
+![](/images/mathematics%20%20.jpeg)
+![](/images/mother%20tongue%20languages.jpeg)
+![](/images/physical%20education%20.jpeg)
+![](/images/science%20.jpeg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
