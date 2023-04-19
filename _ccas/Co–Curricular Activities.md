@@ -20,8 +20,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
+    <td class="tg-0lax"><center><h3>AV Crew</h3></center></td>
+    <td class="tg-0lax"><center><h3>Media Club</h3></center></td>
   </tr>
 </thead>
 <tbody>
@@ -34,8 +34,8 @@ description: ""
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><center><h3>Robotics Club</h3></center></td>
+    <td class="tg-0lax"><center><h3>Environmental Science Club</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
