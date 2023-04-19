@@ -4,8 +4,6 @@ links:
     collection: about-us
   - title: The Riverside Experience
     collection: riverside-experience
-  - title: Curriculum
-    collection: curriculum
   - title: Co-Curriculum
     url: /co-curriculum/character-and-citizenship-education/
     sublinks:
@@ -21,3 +19,12 @@ links:
     collection: our-partners
   - title: Resources
     collection: resources
+  - title: Test
+    url: /curriculum/
+    sublinks:
+      - title: Aesthetics
+        url: /curriculum/aesthetics/
+      - title: Design and Technology
+        url: /curriculum/design-and-technology/
+      - title: English Language & Literature
+        url: /curriculum/english-language-and-literature/
