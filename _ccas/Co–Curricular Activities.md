@@ -25,7 +25,7 @@ description: ""
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
 <img style="width:400px" alt="av crew" src="/images/av%20crew%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
-<img style="width:385px" alt="media club" src="/images/media%20club%20.jpeg"></a></td>
+<img style="width:380px" alt="media club" src="/images/media%20club%20.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
