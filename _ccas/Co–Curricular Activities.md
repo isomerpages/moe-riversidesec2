@@ -199,7 +199,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
-<img style="width:87%" alt="concert band" src="/images/concert%20band%20.jpeg"></a></td>
+<img style="width:400px" alt="concert band" src="/images/concert%20band%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
 <img style="width:400px" alt="chinese dance" src="/images/chinese%20dance%20.jpeg"></a></td>
   </tr>
