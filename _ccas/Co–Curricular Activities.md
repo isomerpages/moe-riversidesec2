@@ -184,14 +184,14 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
 <img style="width:400px" alt="visual arts" src="/images/visual%20arts%20.jpeg"></a></td>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
 <img style="width:400px" alt="choir" src="/images/choir%20%20.jpeg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">My experience in BB thus far has been like a dive into an ocean of opportunity. In BB, I was given many opportunities to hone my character and be an active contributor to society. I also learned soft skills such as leadership and teamwork, and also learned technical skills like tent setting and kayaking. The memories I have made bonding with my peers through BB will be memories that I will cherish for many years to come. - Staff Sergeant Casimsiman Jared Maynard Cipriano </td>
-    <td class="tg-0lax">Being a part of GB has given me a wide range of learning experience. From our annual day camp to our badgework, my squadmates and I have gained values such as service and innovation, as well as life skills like decision-making, problem-solving and servant leadership. We know that no matter the activity we participate in, we will always get something enriching out of it. - Ananya Kiran</td>
+    <td class="tg-0lax">Visual Arts opened a window of opportunities for me to expand my passion in the arts. I am able to explore art mediums that I wouldn’t normally have a chance to use. I’ve been given opportunities to learn from amazing individuals by asking about and observing their unique styles of art. I’ve learnt more about myself and the art that I want to create and express to others. I love that in Visual Arts everyone has a role and no one is left out. - Tess Lim Xinyu</td>
+    <td class="tg-0lax">In choir, I find myself always busy yet fulfilled. I have learned more about music, singing and voice projection. I also had the chance to communicate with different types of people. I learned about my strengths and weaknesses which helped me improve myself. I have also had various exciting opportunities such as  taking part in camps, performing to a live audience and making music videos! - Ananda Liew Fang Ling</td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Concert Band</h3></center></td>
@@ -239,57 +239,38 @@ description: ""
 </table>
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
-<img style="width:54%" alt="visual arts" src="/images/visual%20arts.png"></a></th>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
-<img style="width:57%" alt="choir" src="/images/choir%20.png"></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Visual Arts opened a window of opportunities for me to expand my passion in the arts. I am able to explore art mediums that I wouldn’t normally have a chance to use. I’ve been given opportunities to learn from amazing individuals by asking about and observing their unique styles of art. I’ve learnt more about myself and the art that I want to create and express to others. I love that in Visual Arts everyone has a role and no one is left out. - Tess Lim Xinyu</td>
-    <td style="border: 1px solid black" class="tg-0lax">In choir, I find myself always busy yet fulfilled. I have learned more about music, singing and voice projection. I also had the chance to communicate with different types of people. I learned about my strengths and weaknesses which helped me improve myself. I have also had various exciting opportunities such as  taking part in camps, performing to a live audience and making music videos! - Ananda Liew Fang Ling</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
-<img style="width:54%" alt="concert band" src="/images/concert%20band.png"></a></td>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
-<img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black" class="tg-0lax">Preparing for every band performance is always exciting. There are many parts to the performance but everyone never fails to come together to put up a splendid performance. Problems such as instrument mastery and pandemic measures were challenges but our band overcame these challenges with teamwork, motivating one another to give our best. My journey in Riverside Concert Band has some lows but many more highs. I would not have it any other way as it has grown me into a more resilient person. - Joey Lim Zhi Qi</td>
-    <td style="border: 1px solid black" class="tg-0lax">I have had opportunities to learn various Chinese dances with my peers. In the process of learning these dances, we also learned a lot about our history and culture. My friends and I had to overcome all kinds of difficulties and improve our coordination as we participated in dance performances and competitions. This is significant in our journey together to be better dancers. I'm proud to be a part of Riverside's Chinese Dance! - Jiang Kai Mung</td>
-  </tr>
-	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
-<img style="width:54%" alt="indian dance" src="/images/dance-indian.png"></a></td>
-		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
-<img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a></td>
-	</tr>
-	<tr>
-    <td style="border: 1px solid black" class="tg-0lax">Indian Dance has given me many opportunities to grow as a dancer and a leader. My fellow dancers and I learned the different types of choreography for dance performances. Our training sessions that led up to our performances were sometimes fraught with challenges. However, we continued to train hard and did not give up. At the end of each day, we would still put up a riveting performance. I feel so proud to be a part of Riverside’s Indian Dance! - Anandakannan Rezma</td>
-		<td style="border: 1px solid black" class="tg-0lax">My CCA experience with Malay Dance has been very enriching. Firstly, my CCA members are very fun to be with. I have forged many beautiful memories with them. Secondly, as the vice-chairperson of Malay Dance, I am given many opportunities to lead my fellow dancers at various events and performances. This has helped me to understand what leadership is. I am thankful for all these opportunities to pursue my passion in Malay Dance. - Naimi Irdina Binti Mohamed Isfar</td>
-	</tr>
-	<tr>
-    <td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
-<img style="width:55%" alt="modern dance" src="/images/dance-modern.png"></a></td>
-		<td style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
-<img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a></td>
-	</tr>
-	<tr>
-    <td style="border: 1px solid black" class="tg-0lax">It has been a great pleasure to be part of modern dance. I treasure the moments and friendship forged during CCA the most. As our dance motto goes, ‘Dance to express, not to impress’. Dancing provides me an outlet to express myself in different art forms. Being in modern dance has taught me resilience and perseverance, and helped me to sharpen my leadership skills as an individual too. - Pearlynn Chan Zi Yi </td>
-		<td style="border: 1px solid black" class="tg-0lax">My experience in English Drama has definitely been very enriching and unforgettable, as I got to forge new bonds with my fellow members and picked up new skills, especially leadership skills. In addition, I learned other useful skills such as production management which includes looking into characters' costumes, lines, props and giving stage directions. Overall, being in Drama has been an exciting experience, and I hope that our future Drama members will also have fun during CCA sessions. - Ng Zi Hern</td>
-	</tr>
-</tbody>
-</table>
+
+
+
+  
+  
+    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
+<img style="width:54%" alt="concert band" src="/images/concert%20band.png"></a>
+    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
+<img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a>
+  
+  
+    Preparing for every band performance is always exciting. There are many parts to the performance but everyone never fails to come together to put up a splendid performance. Problems such as instrument mastery and pandemic measures were challenges but our band overcame these challenges with teamwork, motivating one another to give our best. My journey in Riverside Concert Band has some lows but many more highs. I would not have it any other way as it has grown me into a more resilient person. - Joey Lim Zhi Qi
+    I have had opportunities to learn various Chinese dances with my peers. In the process of learning these dances, we also learned a lot about our history and culture. My friends and I had to overcome all kinds of difficulties and improve our coordination as we participated in dance performances and competitions. This is significant in our journey together to be better dancers. I'm proud to be a part of Riverside's Chinese Dance! - Jiang Kai Mung
+  
+	
+    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
+<img style="width:54%" alt="indian dance" src="/images/dance-indian.png"></a>
+		<a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
+<img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a>
+	
+	
+    Indian Dance has given me many opportunities to grow as a dancer and a leader. My fellow dancers and I learned the different types of choreography for dance performances. Our training sessions that led up to our performances were sometimes fraught with challenges. However, we continued to train hard and did not give up. At the end of each day, we would still put up a riveting performance. I feel so proud to be a part of Riverside’s Indian Dance! - Anandakannan Rezma
+		My CCA experience with Malay Dance has been very enriching. Firstly, my CCA members are very fun to be with. I have forged many beautiful memories with them. Secondly, as the vice-chairperson of Malay Dance, I am given many opportunities to lead my fellow dancers at various events and performances. This has helped me to understand what leadership is. I am thankful for all these opportunities to pursue my passion in Malay Dance. - Naimi Irdina Binti Mohamed Isfar
+	
+	
+    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
+<img style="width:55%" alt="modern dance" src="/images/dance-modern.png"></a>
+		<a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
+<img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a>
+	
+	
+    It has been a great pleasure to be part of modern dance. I treasure the moments and friendship forged during CCA the most. As our dance motto goes, ‘Dance to express, not to impress’. Dancing provides me an outlet to express myself in different art forms. Being in modern dance has taught me resilience and perseverance, and helped me to sharpen my leadership skills as an individual too. - Pearlynn Chan Zi Yi 
+		My experience in English Drama has definitely been very enriching and unforgettable, as I got to forge new bonds with my fellow members and picked up new skills, especially leadership skills. In addition, I learned other useful skills such as production management which includes looking into characters' costumes, lines, props and giving stage directions. Overall, being in Drama has been an exciting experience, and I hope that our future Drama members will also have fun during CCA sessions. - Ng Zi Hern
+	
+
