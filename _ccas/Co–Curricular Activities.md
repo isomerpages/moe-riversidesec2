@@ -109,6 +109,12 @@ description: ""
 
 <h2><center>Uniformed Groups</center></h2>
 
+![](/images/boys'%20brigade.jpeg)
+![](/images/gg%202%20%20.png)
+![](/images/ncc%20-%20sea-min.png)
+![](/images/ncdcc%20%20.jpeg)
+![](/images/npcc%20%20%20.jpeg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
