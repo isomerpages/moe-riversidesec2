@@ -127,7 +127,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
-<img style="width:95%" alt="boys brigade" src="/images/boys'%20brigade.jpeg"></a></td>
+<img style="width:97%" alt="boys brigade" src="/images/boys'%20brigade.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
 <img style="width:400px" alt="girls brigade" src="/images/gg%202%20%20.png"></a></td>
   </tr>
