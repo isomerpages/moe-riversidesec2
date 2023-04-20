@@ -178,14 +178,14 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><center><h3>Boys' Brigade</h3></center></td>
-    <td class="tg-0lax"><center><h3>Girls' Brigade</h3></center></td>
+    <td class="tg-0lax"><center><h3>Visual Arts</h3></center></td>
+    <td class="tg-0lax"><center><h3>Choir</h3></center></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
-<img style="width:97%" alt="boys brigade" src="/images/boys'%20brigade.jpeg"></a></td>
+<img style="width:97%" alt="boys brigade" src="/images/visual%20arts%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
 <img style="width:400px" alt="girls brigade" src="/images/gg%202%20%20.png"></a></td>
   </tr>
@@ -194,8 +194,8 @@ description: ""
     <td class="tg-0lax">Being a part of GB has given me a wide range of learning experience. From our annual day camp to our badgework, my squadmates and I have gained values such as service and innovation, as well as life skills like decision-making, problem-solving and servant leadership. We know that no matter the activity we participate in, we will always get something enriching out of it. - Ananya Kiran</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>National Cadet Corps (Sea)</h3></center></td>
-    <td class="tg-0lax"><center><h3>National Civil Defence Cadet Corps</h3></center></td>
+    <td class="tg-0lax"><center><h3>Concert Band</h3></center></td>
+    <td class="tg-0lax"><center><h3>Chinese Dance</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
@@ -208,8 +208,21 @@ description: ""
     <td class="tg-0lax">For all our NCDCC training sessions and events such as the Precision Drill Competition, our squad always puts in our best to achieve our goals. At times, we may feel like giving up but we would still push through the challenges with much perseverance and teamwork. Through these experiences, we learned a lot about hard work and resilience and tenacity. I am very proud of everyone in the squad for not giving up and working together as a team! - Andrei </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>National Police Cadet Corps</h3></center></td>
+    <td class="tg-0lax"><center><h3>Indian Dance</h3></center></td>
+    <td class="tg-0lax"><center><h3>Malay Dance</h3></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+<img style="width:400px" alt="npcc" src="/images/npcc%20%20%20.jpeg"></a></td>
     <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
+    <td class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td class="tg-0lax"><center><h3>Modern Dance</h3></center></td>
+    <td class="tg-0lax"><center><h3>English Drama</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
@@ -222,6 +235,15 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+![]()
+![](/images/choir%20%20.jpeg)
+![](/images/concert%20band%20.jpeg)
+![](/images/chinese%20dance%20.jpeg)
+![](/images/indian%20dance.jpeg)
+![](/images/malay%20dance.jpeg)
+![](/images/modern%20dance.jpeg)
+![](/images/english%20drama%20.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
