@@ -185,7 +185,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
-<img style="width:98%" alt="visual arts" src="/images/visual%20arts%20.jpeg"></a></td>
+<img style="width:97%" alt="visual arts" src="/images/visual%20arts%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
 <img style="width:400px" alt="choir" src="/images/choir%20%20.jpeg"></a></td>
   </tr>
@@ -199,7 +199,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
-<img style="width:98%" alt="concert band" src="/images/concert%20band%20.jpeg"></a></td>
+<img style="width:97%" alt="concert band" src="/images/concert%20band%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
 <img style="width:400px" alt="chinese dance" src="/images/chinese%20dance%20.jpeg"></a></td>
   </tr>
@@ -213,7 +213,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
-<img style="width:98%" alt="indian dance" src="/images/indian%20dance.jpeg"></a></td>
+<img style="width:97%" alt="indian dance" src="/images/indian%20dance.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
 <img style="width:400px" alt="malay dance" src="/images/malay%20dance.jpeg"></a></td>
   </tr>
@@ -227,7 +227,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
-<img style="width:98%" alt="modern dance" src="/images/modern%20dance.jpeg"></a></td>
+<img style="width:97%" alt="modern dance" src="/images/modern%20dance.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
 <img style="width:400px" alt="drama" src="/images/english%20drama%20.jpeg"></a></td>
   </tr>
