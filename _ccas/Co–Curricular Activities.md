@@ -4,11 +4,7 @@ permalink: /co-curriculum/co-curricular-activities/
 description: ""
 ---
 <h2><center>Clubs &amp; Societies</center></h2>
-![](/images/badminton%202.png)
-![](/images/basketball%202.png)
-![](/images/football%20.jpeg)
-![](/images/netball%20.jpeg)
-![](/images/softball%20.jpeg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -54,6 +50,10 @@ description: ""
 
 <h2><center>Physical Sports</center></h2>
 
+![](/images/football%20.jpeg)
+![](/images/netball%20.jpeg)
+![](/images/softball%20.jpeg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -65,14 +65,16 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
+    <td class="tg-0lax"><center><h3>Badminton</h3></center></td>
+    <td class="tg-0lax"><center><h3>Basketball</h3></center></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/badminton/">
+<img style="width:400px" alt="badminton" src="/images/badminton%202.png"></a></td>
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/basketball/">
+<img style="width:400px" alt="badminton" src="/images/basketball%202.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -128,9 +130,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/badminton/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="">
 <img style="width:54%" alt="badminton" src="/images/badminton.png"></a></th>
-    <th style="border: 1px solid black" class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/basketball/">
+    <th style="border: 1px solid black" class="tg-0lax"><a href="">
 <img style="width:57%" alt="basketball" src="/images/basketball.png"></a></th>
   </tr>
 </thead>
