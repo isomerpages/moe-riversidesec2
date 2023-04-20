@@ -198,79 +198,42 @@ description: ""
     <td class="tg-0lax"><center><h3>Chinese Dance</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
 <img style="width:87%" alt="concert band" src="/images/concert%20band%20.jpeg"></a></td>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
 <img style="width:400px" alt="chinese dance" src="/images/chinese%20dance%20.jpeg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Riverside NCC (Sea) has moulded me into a better person. There were many memorable events that we had participated in such as the NCC Day Parade. We trained enthusiastically for these events with hard work and passion, and the encouragement of our teachers. I am very proud of my CCA and my CCA mates. Our NCC training has trained us to display resilience and overcome whatever challenges we face in life. - Hady Matin Danial</td>
-    <td class="tg-0lax">For all our NCDCC training sessions and events such as the Precision Drill Competition, our squad always puts in our best to achieve our goals. At times, we may feel like giving up but we would still push through the challenges with much perseverance and teamwork. Through these experiences, we learned a lot about hard work and resilience and tenacity. I am very proud of everyone in the squad for not giving up and working together as a team! - Andrei </td>
+    <td class="tg-0lax">Preparing for every band performance is always exciting. There are many parts to the performance but everyone never fails to come together to put up a splendid performance. Problems such as instrument mastery and pandemic measures were challenges but our band overcame these challenges with teamwork, motivating one another to give our best. My journey in Riverside Concert Band has some lows but many more highs. I would not have it any other way as it has grown me into a more resilient person. - Joey Lim Zhi Qi</td>
+    <td class="tg-0lax">I have had opportunities to learn various Chinese dances with my peers. In the process of learning these dances, we also learned a lot about our history and culture. My friends and I had to overcome all kinds of difficulties and improve our coordination as we participated in dance performances and competitions. This is significant in our journey together to be better dancers. I'm proud to be a part of Riverside's Chinese Dance! - Jiang Kai Mung</td>
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Indian Dance</h3></center></td>
     <td class="tg-0lax"><center><h3>Malay Dance</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
 <img style="width:400px" alt="indian dance" src="/images/indian%20dance.jpeg"></a></td>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
 <img style="width:400px" alt="malay dance" src="/images/malay%20dance.jpeg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Indian Dance has given me many opportunities to grow as a dancer and a leader. My fellow dancers and I learned the different types of choreography for dance performances. Our training sessions that led up to our performances were sometimes fraught with challenges. However, we continued to train hard and did not give up. At the end of each day, we would still put up a riveting performance. I feel so proud to be a part of Riverside’s Indian Dance! - Anandakannan Rezma</td>
+    <td class="tg-0lax">My CCA experience with Malay Dance has been very enriching. Firstly, my CCA members are very fun to be with. I have forged many beautiful memories with them. Secondly, as the vice-chairperson of Malay Dance, I am given many opportunities to lead my fellow dancers at various events and performances. This has helped me to understand what leadership is. I am thankful for all these opportunities to pursue my passion in Malay Dance. - Naimi Irdina Binti Mohamed Isfar</td>
   </tr>
 	<tr>
     <td class="tg-0lax"><center><h3>Modern Dance</h3></center></td>
     <td class="tg-0lax"><center><h3>English Drama</h3></center></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
 <img style="width:400px" alt="modern dance" src="/images/modern%20dance.jpeg"></a></td>
-    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
 <img style="width:400px" alt="drama" src="/images/english%20drama%20.jpeg"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">It has been a great pleasure to be part of modern dance. I treasure the moments and friendship forged during CCA the most. As our dance motto goes, ‘Dance to express, not to impress’. Dancing provides me an outlet to express myself in different art forms. Being in modern dance has taught me resilience and perseverance, and helped me to sharpen my leadership skills as an individual too. - Pearlynn Chan Zi Yi </td>
+    <td class="tg-0lax">My experience in English Drama has definitely been very enriching and unforgettable, as I got to forge new bonds with my fellow members and picked up new skills, especially leadership skills. In addition, I learned other useful skills such as production management which includes looking into characters' costumes, lines, props and giving stage directions. Overall, being in Drama has been an exciting experience, and I hope that our future Drama members will also have fun during CCA sessions. - Ng Zi Hern</td>
   </tr>
 </tbody>
 </table>
-
-
-
-
-
-  
-  
-    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
-<img style="width:54%" alt="concert band" src="/images/concert%20band.png"></a>
-    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/chinese-dance/">
-<img style="width:57%" alt="chinese dance" src="/images/dance-chinese.png"></a>
-  
-  
-    Preparing for every band performance is always exciting. There are many parts to the performance but everyone never fails to come together to put up a splendid performance. Problems such as instrument mastery and pandemic measures were challenges but our band overcame these challenges with teamwork, motivating one another to give our best. My journey in Riverside Concert Band has some lows but many more highs. I would not have it any other way as it has grown me into a more resilient person. - Joey Lim Zhi Qi
-    I have had opportunities to learn various Chinese dances with my peers. In the process of learning these dances, we also learned a lot about our history and culture. My friends and I had to overcome all kinds of difficulties and improve our coordination as we participated in dance performances and competitions. This is significant in our journey together to be better dancers. I'm proud to be a part of Riverside's Chinese Dance! - Jiang Kai Mung
-  
-	
-    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
-<img style="width:54%" alt="indian dance" src="/images/dance-indian.png"></a>
-		<a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
-<img style="width:57%" alt="malay dance" src="/images/dance-malay.png"></a>
-	
-	
-    Indian Dance has given me many opportunities to grow as a dancer and a leader. My fellow dancers and I learned the different types of choreography for dance performances. Our training sessions that led up to our performances were sometimes fraught with challenges. However, we continued to train hard and did not give up. At the end of each day, we would still put up a riveting performance. I feel so proud to be a part of Riverside’s Indian Dance! - Anandakannan Rezma
-		My CCA experience with Malay Dance has been very enriching. Firstly, my CCA members are very fun to be with. I have forged many beautiful memories with them. Secondly, as the vice-chairperson of Malay Dance, I am given many opportunities to lead my fellow dancers at various events and performances. This has helped me to understand what leadership is. I am thankful for all these opportunities to pursue my passion in Malay Dance. - Naimi Irdina Binti Mohamed Isfar
-	
-	
-    <a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
-<img style="width:55%" alt="modern dance" src="/images/dance-modern.png"></a>
-		<a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
-<img style="width:57%" alt="english drama" src="/images/english%20drama.png"></a>
-	
-	
-    It has been a great pleasure to be part of modern dance. I treasure the moments and friendship forged during CCA the most. As our dance motto goes, ‘Dance to express, not to impress’. Dancing provides me an outlet to express myself in different art forms. Being in modern dance has taught me resilience and perseverance, and helped me to sharpen my leadership skills as an individual too. - Pearlynn Chan Zi Yi 
-		My experience in English Drama has definitely been very enriching and unforgettable, as I got to forge new bonds with my fellow members and picked up new skills, especially leadership skills. In addition, I learned other useful skills such as production management which includes looking into characters' costumes, lines, props and giving stage directions. Overall, being in Drama has been an exciting experience, and I hope that our future Drama members will also have fun during CCA sessions. - Ng Zi Hern
-	
-
