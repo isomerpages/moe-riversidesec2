@@ -185,7 +185,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/">
-<img style="width:400px" alt="visual arts" src="/images/visual%20arts%20.jpeg"></a></td>
+<img style="width:98%" alt="visual arts" src="/images/visual%20arts%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/choir/">
 <img style="width:400px" alt="choir" src="/images/choir%20%20.jpeg"></a></td>
   </tr>
