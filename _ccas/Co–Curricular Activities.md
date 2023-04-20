@@ -82,7 +82,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
-<img style="width:88%" alt="football" src="/images/football%20.jpeg"></a></td>
+<img style="width:90%" alt="football" src="/images/football%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/netball/">
 <img style="width:400px" alt="netball" src="/images/netball%20.jpeg"></a></td>
   </tr>
