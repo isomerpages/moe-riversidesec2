@@ -127,7 +127,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
-<img style="width:400px" alt="boys brigade" src="/images/boys'%20brigade.jpeg"></a></td>
+<img style="width:95%" alt="boys brigade" src="/images/boys'%20brigade.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
 <img style="width:400px" alt="girls brigade" src="/images/gg%202%20%20.png"></a></td>
   </tr>
@@ -141,7 +141,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
-<img style="width:400px" alt="ncc sea" src="/images/ncc%20-%20sea-min.png"></a></td>
+<img style="width:85%" alt="ncc sea" src="/images/ncc%20-%20sea-min.png"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
 <img style="width:400px" alt="ncdcc" src="/images/ncdcc%20%20.jpeg"></a></td>
   </tr>
