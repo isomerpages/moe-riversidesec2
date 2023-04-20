@@ -213,7 +213,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
-<img style="width:400px" alt="indian dance" src="/images/indian%20dance.jpeg"></a></td>
+<img style="width:98%" alt="indian dance" src="/images/indian%20dance.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/malay-dance/">
 <img style="width:400px" alt="malay dance" src="/images/malay%20dance.jpeg"></a></td>
   </tr>
@@ -227,7 +227,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/modern-dance/">
-<img style="width:400px" alt="modern dance" src="/images/modern%20dance.jpeg"></a></td>
+<img style="width:98%" alt="modern dance" src="/images/modern%20dance.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/english-drama/">
 <img style="width:400px" alt="drama" src="/images/english%20drama%20.jpeg"></a></td>
   </tr>
