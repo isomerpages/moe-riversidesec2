@@ -68,7 +68,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/badminton/">
-<img style="width:400px" alt="badminton" src="/images/badminton%202.png"></a></td>
+<img style="width:91%" alt="badminton" src="/images/badminton%202.png"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/basketball/">
 <img style="width:400px" alt="basketball" src="/images/basketball%202.png"></a></td>
   </tr>
