@@ -141,7 +141,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
-<img style="width:87%" alt="ncc sea" src="/images/ncc%20-%20sea-min.png"></a></td>
+<img style="width:86%" alt="ncc sea" src="/images/ncc%20-%20sea-min.png"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
 <img style="width:400px" alt="ncdcc" src="/images/ncdcc%20%20.jpeg"></a></td>
   </tr>
