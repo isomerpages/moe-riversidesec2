@@ -185,9 +185,9 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/boys-brigade/">
-<img style="width:97%" alt="boys brigade" src="/images/visual%20arts%20.jpeg"></a></td>
+<img style="width:400px" alt="visual arts" src="/images/visual%20arts%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/girls-brigade/">
-<img style="width:400px" alt="girls brigade" src="/images/gg%202%20%20.png"></a></td>
+<img style="width:400px" alt="choir" src="/images/choir%20%20.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">My experience in BB thus far has been like a dive into an ocean of opportunity. In BB, I was given many opportunities to hone my character and be an active contributor to society. I also learned soft skills such as leadership and teamwork, and also learned technical skills like tent setting and kayaking. The memories I have made bonding with my peers through BB will be memories that I will cherish for many years to come. - Staff Sergeant Casimsiman Jared Maynard Cipriano </td>
@@ -199,9 +199,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncc-sea/">
-<img style="width:87%" alt="ncc sea" src="/images/ncc%20-%20sea-min.png"></a></td>
+<img style="width:87%" alt="concert band" src="/images/concert%20band%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/uniformed-groups/ncdcc/">
-<img style="width:400px" alt="ncdcc" src="/images/ncdcc%20%20.jpeg"></a></td>
+<img style="width:400px" alt="chinese dance" src="/images/chinese%20dance%20.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Riverside NCC (Sea) has moulded me into a better person. There were many memorable events that we had participated in such as the NCC Day Parade. We trained enthusiastically for these events with hard work and passion, and the encouragement of our teachers. I am very proud of my CCA and my CCA mates. Our NCC training has trained us to display resilience and overcome whatever challenges we face in life. - Hady Matin Danial</td>
@@ -213,8 +213,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
-<img style="width:400px" alt="npcc" src="/images/npcc%20%20%20.jpeg"></a></td>
-    <td class="tg-0lax"></td>
+<img style="width:400px" alt="indian dance" src="/images/indian%20dance.jpeg"></a></td>
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+<img style="width:400px" alt="malay dance" src="/images/malay%20dance.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
@@ -226,8 +227,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
-<img style="width:400px" alt="npcc" src="/images/npcc%20%20%20.jpeg"></a></td>
-    <td class="tg-0lax"></td>
+<img style="width:400px" alt="modern dance" src="/images/modern%20dance.jpeg"></a></td>
+    <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/softball/">
+<img style="width:400px" alt="drama" src="/images/english%20drama%20.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">As the vice-chairperson of Riverside NPCC, I have had the privilege to lead my CCA to greater heights as well as organise key events such as the Combined Uniformed Groups Activity. This allowed me to further hone my leadership skills as well as strengthen my relationship with my fellow squadmates. I am very thankful for this memorable journey alongside my CCA mates. - Murugesan Vaishnavi</td>
@@ -236,14 +238,6 @@ description: ""
 </tbody>
 </table>
 
-![]()
-![](/images/choir%20%20.jpeg)
-![](/images/concert%20band%20.jpeg)
-![](/images/chinese%20dance%20.jpeg)
-![](/images/indian%20dance.jpeg)
-![](/images/malay%20dance.jpeg)
-![](/images/modern%20dance.jpeg)
-![](/images/english%20drama%20.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
