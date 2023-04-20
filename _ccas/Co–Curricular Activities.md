@@ -77,8 +77,8 @@ description: ""
     <td class="tg-0lax">I’ve had such an amazing experience being in basketball! Even though the training sessions were rigorous, I saw  improvements in my skills. Being in basketball also helped me make good friends whom I can trust and enjoy the CCA with. I appreciate the opportunity to help my juniors and for me to grow as a basketball player together with the team. I will never forget all the memorable and fun moments during the training sessions. - Amirah Raihanah Binte Abdul Halim </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><h3>Football</h3></td>
-    <td class="tg-0lax"><h3>Netball</h3></td>
+    <td class="tg-0lax"><center><h3>Football</h3></center></td>
+    <td class="tg-0lax"><center><h3>Netball</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
@@ -91,7 +91,7 @@ description: ""
     <td class="tg-0lax">I've had many memorable experiences playing netball in Riverside. Being in netball introduced me to the skills of the game and also to a new group of friends. My teammates and I have formed strong bonds and even play netball together beyond the training sessions. I experienced some highs and lows during my CCA sessions. However, with the support of my teachers and teammates, I persevered. My teammates and I always strive to do our best to achieve the goals we have set for the team. - Oh Li En</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><h3>Softball</h3></td>
+    <td class="tg-0lax"><center><h3>Softball</h3><center></center></center></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
