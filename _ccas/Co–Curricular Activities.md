@@ -25,7 +25,7 @@ description: ""
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/av-crew/">
 <img style="width:400px" alt="av crew" src="/images/av%20crew%20.jpeg"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club/">
-<img style="width:380px" alt="media club" src="/images/media%20club%20.jpeg"></a></td>
+<img style="width:340px" alt="media club" src="/images/media%20club%20.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">As a member of the AV crew, I have the experience of working backstage to support the various events held by the school. My first event involved supporting our school’s Speech Day. It was a challenging experience but with the amazing support of my seniors and teachers, I managed to learn meaningful lessons. I always look forward to working with the rest of the AV crew as we work hand in hand to make every school event a success. - Nur Shafeefa Binte Muhamad Mustafa</td>
@@ -39,7 +39,7 @@ description: ""
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/robotics-club">
 <img style="width:400px" alt="robotics" src="/images/robotics%202.png"></a></td>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/clubs-and-societies/environmental-science-club">
-<img style="width:60%" alt="environmental science club" src="/images/environmental%20science%20club%20thumbnail.jpeg"></a></td>
+<img style="width:50%" alt="environmental science club" src="/images/environmental%20science%20club%20thumbnail.jpeg"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
