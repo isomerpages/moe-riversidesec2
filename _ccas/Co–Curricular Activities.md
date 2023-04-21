@@ -43,7 +43,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax">Participating in robotics competitions and workshops can start off easy but become progressively challenging. Despite this, our club members always support one another to  overcome challenges through discussions and trial and error. We learned important values such as teamwork and perseverance. We also sharpened our critical thinking skills through the process. Now, we seniors are guiding our juniors for their competitions so that they will have a great experience as well! – Nitin</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">In Environmental Science Club, I learned how to manage hydroponics sets. This has developed values such as responsibility in my peers and me as we have to clean and refill the water tank weekly. I also had the opportunity to prepare for the school-wide celebration for Earth Day 2023 and contributed to the creation of learning materials used to educate and inspire my school-mates to reduce their carbon footprint. My time in this CCA has taught me about how we can use Science to reduce Man’s impact on the environment. - Chee Chung King, Ehren</td>
   </tr>
 </tbody>
 </table>
