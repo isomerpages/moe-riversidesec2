@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Co–Curricular Activities.md
       - Character and Citizenship Education.md
+      - Co–Curricular Activities.md
       - Values in Action.md
       - MOE Sexuality Education.md
