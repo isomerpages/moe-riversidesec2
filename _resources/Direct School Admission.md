@@ -16,3 +16,5 @@ For more information on DSA-Sec, please refer to the MOE website at [https://ww
 **(For admission to Secondary One in 2024)**
 
 If you are a Primary Six pupil, you can be considered for DSA if you are talented in one of the following DSA talent areas:
+
+![](/images/dsa%202023%20v3.png)
