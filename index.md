@@ -4,7 +4,7 @@ title: Riverside Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/riverside ss_logo transparent bg.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Riverside Secondary School
