@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Riverside Secondary School
-      subtitle: Hero subtitle
       background: /images/banner.gif
       key_highlights:
         - title: Direct School Admission
