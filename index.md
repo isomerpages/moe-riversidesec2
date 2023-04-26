@@ -10,9 +10,6 @@ sections:
       title: Riverside Secondary School
       background: /images/bannergif.gif
       key_highlights:
-        - title: Direct School Admission
-          description: Find out more about DSA
-          url: /resources/direct-school-admission/
         - title: Home-Based Learning
           description: Click here for more on HBL
           url: https://sites.google.com/moe.edu.sg/riversidesechbl
