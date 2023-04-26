@@ -22,6 +22,8 @@ sections:
         - title: National Digital Literacy Programme (NDLP)
           description: Click here for more info
           url: https://sites.google.com/rss.edu.sg/ndlp-riverside/home
+  - resources:
+      title: ANNOUNCEMENTS
   - infopic:
       title: Student Outcomes
       button: Click Here
