@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Riverside Secondary School
       background: /images/bannergif.gif
       key_highlights:
         - title: Home-Based Learning
