@@ -12,9 +12,6 @@ sections:
         - title: Home-Based Learning
           description: Click here for more on HBL
           url: https://sites.google.com/moe.edu.sg/riversidesechbl
-        - title: President's Award for Teachers 2022
-          description: Click here to read more
-          url: https://www.schoolbag.edu.sg/story/right-mindset-right-tools-right-results
         - title: National Digital Literacy Programme (NDLP)
           description: Click here for more info
           url: https://sites.google.com/rss.edu.sg/ndlp-riverside/home
