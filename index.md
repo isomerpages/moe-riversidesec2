@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Riverside Secondary School
-      background: /images/banner.gif
+      background: /images/bannergif.gif
       key_highlights:
         - title: Direct School Admission
           description: Find out more about DSA
