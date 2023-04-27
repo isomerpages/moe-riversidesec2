@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/bannergif.gif
-      key_highlights:
-        - title: Home-Based Learning
-          description: Click here for more on HBL
-          url: https://sites.google.com/moe.edu.sg/riversidesechbl
-        - title: National Digital Literacy Programme (NDLP)
-          description: Click here for more info
-          url: https://sites.google.com/rss.edu.sg/ndlp-riverside/home
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
