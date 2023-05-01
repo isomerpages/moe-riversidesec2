@@ -16,10 +16,10 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 **Selection Criteria and Process**
 
-<img style="width:85%;" src="/images/dsaselectionprocessa.png">
+<img style="width:90%;" src="/images/dsaselectionprocessa.png">
 
 
-<img style="width:85%;" src="/images/dsaselectionb.png">
+<img style="width:90%;" src="/images/dsaselectionb.png">
 
 
 
