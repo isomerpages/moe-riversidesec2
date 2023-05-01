@@ -10,7 +10,7 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 If you are a Primary Six pupil, you can be considered for DSA if you are talented in one of the following DSA talent areas:
 
 
-The Direct School Admission Exercise (DSA) allows students to seek admission to Riverside Secondary School based on a range of achievements and talents.
+The Direct School Admission Exercise (DSA) allows students to seek admission to Riverside Secondary School based on a range of achievements and talents:
 
 ![](/images/dsa2023.png)
 
