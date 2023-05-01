@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /resources/direct-school-admission/
 description: ""
 ---
-<center><b>2023 Direct School Admission<br>(For admission to Secondary One in 2024)</b></center>
+<center><h3>2023 Direct School Admission<br>(For admission to Secondary One in 2024)</h3></center>
 
 The Direct School Admission Exercise (DSA) allows students to seek admission to Riverside Secondary School based on a range of achievements and talents.
 
@@ -16,13 +16,25 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 **Selection Criteria and Process**
 
+![](/images/dsaselectionprocessa.png)
+
+![](/images/dsaselectionb.png)
+
+
+
+ 
+**
+
+*   Detailed information can be downloaded from Riverside Secondary School 2023 Direct School Admission Information.&nbsp;
+    
 
   
 
-### 2023 Direct School Admission
+*   Application for DSA-Sec will be through the online DSA-Sec Portal.&nbsp;
+    
 
-**(For admission to Secondary One in 2024)**
+The application is free-of-charge.
 
-If you are a Primary Six pupil, you can be considered for DSA if you are talented in one of the following DSA talent areas:
+  
+For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
 
-![](/images/dsa%202023%20v3.png)
