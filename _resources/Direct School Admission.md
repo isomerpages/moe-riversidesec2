@@ -16,10 +16,10 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 **Selection Criteria and Process**
 
-<img style="width:80%;" src="/images/dsaselectionprocessa.png">
+<img style="width:85%;" src="/images/dsaselectionprocessa.png">
 
 
-<img style="width:80%;" src="/images/dsaselectionb.png">
+<img style="width:85%;" src="/images/dsaselectionb.png">
 
 
 
@@ -29,3 +29,45 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 <br>The application is free-of-charge.
 
 * For more details, please refer to MOE website – **[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
+
+**Summary of Timeline for DSA Application @ Riverside Secondary School:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+	overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+	font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c9ql{background-color:#D9D9D9;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table style="border-collapse: collapse;" class="tg">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black;" class="tg-px6y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Date</span></th>
+      <th style="border: 1px solid black;" class="tg-px6y"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Events</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black;" class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4 May 2023, 11am - 31 May 2023, 3pm</span></td>
+      <td style="border: 1px solid black;" class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Application period</span></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;" class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">14 July 2023</span></td>
+      <td style="border: 1px solid black;" class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Applicants will be notified via</span> <span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">email</span></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;" class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">24 Jul 2023 - 17 Aug 2023</span></td>
+      <td style="border: 1px solid black;" class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Auditions / interviews for short-listed applicants</span></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;" class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">11 Sep 2023</span></td>
+      <td style="border: 1px solid black;" class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Audition / interview results will be notified to applicants via</span> <span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">email</span></td>
+    </tr>
+  </tbody>
+</table>
+
+
+**For further enquiries, you may contact us at&nbsp; [riverside_ss@moe.edu.sg](mailto:riverside_ss@moe.edu.sg) or 62699631 (General Office).**
