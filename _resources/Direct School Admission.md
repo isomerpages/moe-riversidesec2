@@ -28,8 +28,3 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 * For more details, please refer to MOE website – **[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
     
-
-The application is free-of-charge.
-
-  
-For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
