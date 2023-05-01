@@ -16,9 +16,11 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 **Selection Criteria and Process**
 
-![](/images/dsaselectionprocessa.png)
+<img style="width:80%;" src="/images/dsaselectionprocessa.png">
 
-![](/images/dsaselectionb.png)
+
+<img style="width:80%;" src="/images/dsaselectionb.png">
+
 
 
 *   Detailed information can be downloaded from **[Riverside Secondary School 2023 Direct School Admission Information](/files/riverside%20secondary%20school%202023%20direct%20school%20admission%20information%20(3%20may%202023).pdf)**.
@@ -27,4 +29,3 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 <br>The application is free-of-charge.
 
 * For more details, please refer to MOE website – **[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
-    
