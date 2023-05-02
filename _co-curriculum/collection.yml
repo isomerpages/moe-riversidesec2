@@ -1,0 +1,8 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Character and Citizenship Education.md
+      - Co–Curricular Activities.md
+      - Values in Action.md
+      - MOE Sexuality Education.md

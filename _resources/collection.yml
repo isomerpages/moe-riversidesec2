@@ -1,0 +1,8 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Direct School Admission.md
+      - Students.md
+      - e–Publications.md
+      - Achievements.md
