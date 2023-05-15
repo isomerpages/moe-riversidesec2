@@ -269,5 +269,19 @@ pang_zihao_joshua_timothy@moe.edu.sg</span><br><span style="color:#343434;backgr
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
 ong_yi_lin_eileen@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">amutham_saravana_kumar@moe.edu.sg</span><br></td>
   </tr>
-</tbody>
+	<tr><td class="tg-kp75">Sec 5-1</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Fauzi</span><br><span style="color:#343434;background-color:#FFF">Mdm Nithiyaa Muthu Kumar</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+nur_fauzi_abu_bakar@moe.edu.sgg</span><br><span style="color:#343434;background-color:#FFF">  
+nithiyaa_muthu_kumar@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+	<td class="tg-kp75">Sec 5-2</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm   
+Toh Siew Hoon</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+toh_siew_hoon@moe.edu.sg<br></span></td>
+  </tr>
+  <tr>
+</tr></tbody>
 </table>
