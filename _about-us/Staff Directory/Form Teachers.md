@@ -227,44 +227,54 @@ Year Head (Internal): Mr Alvin Cai (cai_gaoyong_alvin@moe.edu.sg)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kp75">Sec 3 Respect</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Tan Woon Wei</span><br><span style="color:#343434;background-color:#FFF">Mrs Lee-Gan Yen Ping</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tan_woon_wei@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">gan_yen_ping@moe.edu.sg</span><br></td>
+    <td class="tg-kp75">Sec 4 Respect</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Siti Noorbaya</span><br><span style="color:#343434;background-color:#FFF">Mrs Lai-Kok Li Eng, Mendy</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">siti_noorbaya@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">kok_li_eng@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-kp75">Sec 3 Service</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Aisyah</span><br><span style="color:#343434;background-color:#FFF">Mr Joel Lee</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">nur_aisyah_gersali@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">lee_jin_wee@moe.edu.sg</span><br></td>
+    <td class="tg-kp75">Sec 4 Service</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Hesley</span><br><span style="color:#343434;background-color:#FFF">Mr R Balasubramaniam</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">hesley_ismail@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">  
+balasubramaniam_a@moe.edu.sg</span><br>
+   </td>
   </tr>
   <tr>
-    <td class="tg-kp75"><span style="color:#000">Sec 3 Synergy</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mrs Beryl Goh</span><br><span style="color:#343434;background-color:#FFF">Mr Tan Thiam Soon</span><br></td>
-    <td class="tg-kp75">beryl_thum@moe.edu.sg<br><span style="color:#343434;background-color:#FFF">tan_thiam_soon@moe.edu.sg</span></td>
+    <td class="tg-kp75">Sec 4 Passion</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Haslinda Shafawi</span><br><span style="color:#343434;background-color:#FFF">Mr John Yap</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">haslinda_shafawi@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">  
+yap_kok_wai_john@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-kp75">Sec 3 Passion</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mrs Alister Lee</span><br><span style="color:#343434;background-color:#FFF">Mdm Nithya</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">chua_jingyi_alister@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">nithya_sukumaran@moe.edu.sg</span><br></td>
+    <td class="tg-kp75">Sec 4 Integrity</td>
+    <td class="tg-kp75">Mdm Lis Hartini<br><span style="color:#343434;background-color:#FFF">Mr N Balasundram</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+lis_hartini_hut@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">n_balasundaram@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-kp75">Sec 3 Integrity</td>
-    <td class="tg-kp75">Mdm Tan Xing Yu<br><span style="color:#343434;background-color:#FFF">Mrs Kumar</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tan_xing_yu@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">sundaresan_muthuselvi@moe.edu.sg</span><br></td>
+    <td class="tg-kp75">Sec 4 Responsibility</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Haryani Hamidan</span><br><span style="color:#343434;background-color:#FFF">Mrs Teo - Goh Hui Lin</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+haryani_hamidan@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">  
+goh_hui_lin@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-kp75">Sec 3 Responsibility</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Sheron Abraham</span><br><span style="color:#343434;background-color:#FFF">Mdm Liu Liping</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">sheron_abraham_joseph@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">liu_liping@moe.edu.sg</span><br></td>
+    <td class="tg-kp75">Sec 4 Innovation</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Pang Zihao Joshua Timonthy</span><br><span style="color:#343434;background-color:#FFF">Mdm Tong Angela</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+pang_zihao_joshua_timothy@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">tong_geok_him@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-kp75">Sec 3 Innovation</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Liao Jun Jie</span><br><span style="color:#343434;background-color:#FFF">Mdm Nisa</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">liao_junjie@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">nur_khairunisa_johari@moe.edu.sg</span><br></td>
+    <td class="tg-kp75">Sec 4 Tenacity</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mrs Eileen Yap-Ong</span><br><span style="color:#343434;background-color:#FFF">Mdm Amutham Saravana Kumar</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+ong_yi_lin_eileen@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">amutham_saravana_kumar@moe.edu.sg</span><br></td>
   </tr>
+	<tr><td class="tg-kp75">Sec 5-1</td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Fauzi</span><br><span style="color:#343434;background-color:#FFF">Mdm Toh Siew Hoon</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
+nur_fauzi_abu_bakar@moe.edu.sgg</span><br><span style="color:#343434;background-color:#FFF">  
+toh_siew_hoon@moe.edu.sg</span><br>
+  </td></tr>
   <tr>
-    <td class="tg-kp75">Sec 3 Tenacity</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Tang Wai Yin</span><br><span style="color:#343434;background-color:#FFF">Mdm Julaiha</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tang_wai_yin_a@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">julaiha_kumaron@moe.edu.sg</span><br></td>
-  </tr>
-</tbody>
+</tr></tbody>
 </table>
