@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Advertisements.md
       - Direct School Admission.md
       - Students.md
       - e–Publications.md
