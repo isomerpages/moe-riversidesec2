@@ -17,7 +17,7 @@ sections:
       image: /images/student outcomes.png
       alt: Image alt text
   - infopic:
-      title: Follow us on Instagram @RIVERSIDE_SEC
+      title: Follow us on Instagram @riversidesecondaryschool
       button: Click Here
       url: https://www.instagram.com/riversidesecondaryschool/
       image: /images/instagram.jpg
