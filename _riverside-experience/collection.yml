@@ -2,6 +2,7 @@ collections:
   riverside-experience:
     output: true
     order:
+      - STEM.md
       - Personalised Digital Learning Programme.md
       - Full Subject–Based Banding.md
       - Student Leadership.md
