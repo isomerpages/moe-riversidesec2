@@ -23,7 +23,7 @@ The Direct School Admission Exercise (DSA) allows students to seek admission to 
 
 
 
-* Detailed information can be found at our Riverside DSA microsite - **https://sites.google.com/moe.edu.sg/rss-dsa**
+* Detailed information can be found at our Riverside DSA microsite - **[https://sites.google.com/moe.edu.sg/rss-dsa](https://sites.google.com/moe.edu.sg/rss-dsa)**
 
 
     
