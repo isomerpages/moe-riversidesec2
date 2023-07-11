@@ -86,7 +86,7 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Alvin Cai</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Year Head (Internal)</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Year Head</span></td>
     <td class="tg-kp75">cai_gaoyong_alvin<span style="color:#343434;background-color:#FFF">@moe.edu.sg</span></td>
   </tr>
   <tr>
