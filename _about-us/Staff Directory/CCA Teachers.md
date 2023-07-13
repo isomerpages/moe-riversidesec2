@@ -83,8 +83,8 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Football (Boys)</span></td>
-    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Mr Fairiz (1IC)</span><br><span style="color:#343434;background-color:#FFF">Mr Fauzi (2IC)</span><br><span style="color:#343434;background-color:#FFF">Mr Russell Lim</span></td>
-    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">nurul_fairiz_abdellah@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">nur_fauzi_abu_bakar@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">lim_tse_jiang_russell@moe.edu.sg</span></td>
+    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Mr Fauzi (1IC)</span><br><span style="color:#343434;background-color:#FFF">Mr Ho Weng Lun</span><br><span style="color:#343434;background-color:#FFF">Mr Russell Lim</span></td>
+    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">nur_fauzi_abu_bakar@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">ho_weng_lun@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">lim_tse_jiang_russell@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Netball (Girls)</span></td>
@@ -93,8 +93,10 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Softball (Girls)</span></td>
-    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Miss Fairuz (1IC)</span><br><span style="color:#343434;background-color:#FFF">Mdm Amuthum</span></td>
-    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">siti_fairuz_mohamad_ramdan@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">amutham_saravana_kumar@moe.edu.sg</span></td>
+    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Miss Fairuz (1IC)</span><br><span style="color:#343434;background-color:#FFF">Mdm Amuthum
+			</span><br><span style="color:#343434;background-color:#FFF">Mr Lee Tze Hoong</span></td>
+    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">siti_fairuz_mohamad_ramdan@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">amutham_saravana_kumar@moe.edu.sg
+			</span><br><span style="color:#343434;background-color:#FFF">lee_tze_hoong@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -187,8 +189,9 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Dance – Chinese</span></td>
-    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Mdm Chong Pey Yi (1IC)</span><br><span style="color:#343434;background-color:#FFF">Ms Natasha Imran (2IC)</span></td>
-    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">chong_pey_yi@moe.edu.sg </span><br><span style="color:#343434;background-color:#FFF">natasha_imran@moe.edu.sg</span></td>
+    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Mdm Chong Pey Yi (1IC)</span><br><span style="color:#343434;background-color:#FFF">Ms Natasha Imran (2IC)
+			</span><br><span style="color:#343434;background-color:#FFF">Mdm Rafidah Yusoff</span></td>
+    <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">chong_pey_yi@moe.edu.sg </span><br><span style="color:#343434;background-color:#FFF">natasha_imran@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">rafidah_yusoff@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">Dance – Indian</span></td>
