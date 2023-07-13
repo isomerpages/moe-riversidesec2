@@ -125,9 +125,9 @@ third_nav_title: Staff Directory
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">chua_jingyi_alister@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-l7na">Ms Nithiyaa Muthu Kumar</td>
-    <td class="tg-l7na">SH Special Projects/ Innovation</td>
-    <td class="tg-l7na">nithiyaa_muthu_kumar@moe.edu.sg</td>
+    <td class="tg-l7na">Mdm Rafidah Yusoff</td>
+    <td class="tg-l7na">SH English Language</td>
+    <td class="tg-l7na">rafidah_yusoff@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mrs Sim-Wong Yi Jun</span><br></td>
