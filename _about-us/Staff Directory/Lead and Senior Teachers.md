@@ -26,11 +26,7 @@ third_nav_title: Staff Directory
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Lin Shaojie</span><br></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Lead Teacher Mathematics</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">lin_shaojie@moe.edu.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Liu Liping</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Lead Teacher Chinese Language</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">liu _liping@moe.edu.sg</span><br></td>
+
   </tr>
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Haslinda Shafawi</span></td>
