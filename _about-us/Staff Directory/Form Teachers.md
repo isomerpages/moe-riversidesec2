@@ -33,7 +33,6 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Tabitha</span><br><span style="color:#343434;background-color:#FFF">Mr Lee Tze Hoong<br><span style="color:#343434;background-color:#FFF">Mr Hafiz</span></span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tabitha_vicky_rajaratnam@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">lee_tze_hoong@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">muhammad_hafiz_md_said@moe.edu.sg</span><br></td>
   </tr>
-  
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Sec 1 Service</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Job</span><br><span style="color:#343434;background-color:#FFF">Mdm Lee Min Huey</span></td>
