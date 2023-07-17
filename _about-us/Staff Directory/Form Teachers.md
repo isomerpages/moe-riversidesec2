@@ -71,6 +71,9 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
 </tbody>
 </table>
 
+
+
+
 ### Secondary 2
 
 Assistant Year Head: Ms Cindy Chai (chai_chang_wei@moe.edu.sg)
@@ -279,10 +282,3 @@ toh_siew_hoon@moe.edu.sg</span><br>
   <tr>
 </tr></tbody>
 </table>
-
-
-
-
-
-
-
