@@ -18,7 +18,7 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
 .tg .tg-xuzz{background-color:#FFF;color:#343434;text-align:left;vertical-align:middle}
 .tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<br><table class="tg">
 <thead>
   <tr>
     <th class="tg-2ske"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Class</span></th>
@@ -29,9 +29,10 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
 <tbody>
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Sec 1 Respect</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Tabitha</span><br><span style="color:#343434;background-color:#FFF">Mr Fairiz</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tabitha_vicky_rajaratnam@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">nurul_fairiz_abdellah@moe.edu.sg</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Tabitha</span><br><span style="color:#343434;background-color:#FFF">Mr Lee Tze Hoong<br><span style="color:#343434;background-color:#FFF">Mr Hafiz</span></span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tabitha_vicky_rajaratnam@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">lee_tze_hoong@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">muhammad_hafiz_md_said@moe.edu.sg</span><br></td>
   </tr>
+  
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Sec 1 Service</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Job</span><br><span style="color:#343434;background-color:#FFF">Mdm Lee Min Huey</span></td>
@@ -111,8 +112,8 @@ Assistant Year Head: Ms Cindy Chai (chai_chang_wei@moe.edu.sg)
   </tr>
   <tr>
     <td class="tg-kp75">Sec 2 Passion</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Hafiz</span><br><span style="color:#343434;background-color:#FFF">Mrs Sim-Wong Yi Jun</span><br><span style="color:#343434;background-color:#FFF">Ms Carol Wong Hoi Yu</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">muhammad_hafiz_md_said@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">wong_yi_jun@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">carol_wong_hoi_yu@moe.edu.sg</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mrs Sim-Wong Yi Jun</span><br><span style="color:#343434;background-color:#FFF">Ms Carol Wong Hoi Yu</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">wong_yi_jun@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">carol_wong_hoi_yu@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-kp75">Sec 2 Integrity</td>
@@ -187,8 +188,8 @@ Assistant Year Head: Mrs Sim-Lee Xinrong (lee_xinrong@moe.edu.sg)
   </tr>
   <tr>
     <td class="tg-kp75">Sec 3 Responsibility</td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Sheron Abraham</span><br><span style="color:#343434;background-color:#FFF">Mdm Liu Liping</span><br></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">sheron_abraham_joseph@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">liu_liping@moe.edu.sg</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Sheron Abraham</span><br><span style="color:#343434;background-color:#FFF">Mr Ho Weng Lun</span><br></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">sheron_abraham_joseph@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">ho_weng_lun@moe.edu.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-kp75">Sec 3 Innovation</td>
