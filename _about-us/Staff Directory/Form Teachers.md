@@ -67,7 +67,7 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Sec 1 Tenacity</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Tay Wee Soo</span><br><span style="color:#343434;background-color:#FFF">Mdm Rani</span><br><span style="color:#343434;background-color:#FFF">Mr Isaac Hong</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tay_wee_soo@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">arockiadoss_fatima_sahayarani@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">hong_wei_en_isaac@moe.edu.sg</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tay_wee_soo@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">arockiadoss_fatima_sahayarani@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">hong_wei_en_isaac@moe.edu.sg</span><br></td>
   </tr>
 </tbody>
 </table>
