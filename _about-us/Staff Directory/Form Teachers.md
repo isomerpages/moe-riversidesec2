@@ -276,7 +276,7 @@ ong_yi_lin_eileen@moe.edu.sg</span><br><span style="color:#343434;background-col
 	<tr><td class="tg-kp75">Sec 5-1</td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Fauzi</span><br><span style="color:#343434;background-color:#FFF">Mdm Toh Siew Hoon</span><br></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
-nur_fauzi_abu_bakar@moe.edu.sgg</span><br><span style="color:#343434;background-color:#FFF">  
+nur_fauzi_abu_bakar@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">  
 toh_siew_hoon@moe.edu.sg</span><br>
   </td></tr>
   <tr>
