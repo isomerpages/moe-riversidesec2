@@ -16,9 +16,10 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2ske{background-color:#960E12;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-xuzz{background-color:#FFF;color:#343434;text-align:left;vertical-align:middle}
+.tg .tg-kp75{background-color:#FFF;color:#343434;text-align:left;vertical-align:top}
 .tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
 </style>
-<br><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-2ske"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Class</span></th>
