@@ -27,7 +27,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">National Digital Literacy Programme (NDLP)</span><br></td>
-    <td class="tg-wjv8"><a href="http://for.edu.sg/rssndlp"><span style="font-weight:400;text-decoration:underline;color:#4372D6">http://for.edu.sg/rssndlp</span></a><br></td>
+    <td class="tg-wjv8"><a href="http://for.edu.sg/rssndlp"><span style="font-weight:400;text-decoration:underline;color:#4372D6">http://for.edu.sg/rssndlp</span></a><br>
+		</td>
+  </tr>
+  <tr>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Group Personal Accident Insurance for Students</span><br></td>
+    <td class="tg-wjv8"><a href="https://studentgpa.incomegroupins.com.sg"><span style="font-weight:400;text-decoration:underline;color:#4372D6">https://studentgpa.incomegroupins.com.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
