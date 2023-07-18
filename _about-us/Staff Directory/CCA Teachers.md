@@ -145,8 +145,8 @@ third_nav_title: Staff Directory
   </tr>
   <tr>
     <td class="tg-9r35"><span style="color:#343434;background-color:#FFF">NPCC</span></td>
-    <td class="tg-tyn3"><span style="color:#343434">Mr Liao Jun Jie (1IC)</span><br><span style="color:#343434">Mr Joel Lee (2IC)</span><br><span style="color:#343434">Miss Kavitha</span><span style="font-weight:400;color:#000">Mr Jerry Lim</span><br><span style="font-weight:400;color:#000">Ms Pang Tien Feng</span></td>
-    <td class="tg-tyn3"><span style="color:#343434">liao_junjie@moe.edu.sg</span><br><span style="color:#343434">lee_jin_wee@moe.edu.sg</span><br><span style="color:#343434">kavitha_amara_joyce@moe.edu.sg</span><br><span style="color:#343434">lim_jia_hui_a@moe.edu.sg</span><br>pang_tien_feng@moe.edu.sg</td>
+    <td class="tg-tyn3"><span style="color:#343434">Mr Liao Jun Jie (1IC)</span><br><span style="color:#343434">Mr Joel Lee (2IC)</span><br><span style="color:#343434">Miss Kavitha</span><br><span style="font-weight:400;color:#000">Mr Jerry Lim</span><br><span style="font-weight:400;color:#000">Ms Pang Tien Feng</span></td>
+    <td class="tg-tyn3"><span style="color:#343434">liao_junjie@moe.edu.sg</span><br><span style="color:#343434">lee_jin_wee@moe.edu.sg</span><br><span style="color:#343434">kavitha_amara_joyce@moe.edu.sg</span><br><span style="color:#343434">lim_jia_hui_a@moe.edu.sg</span><br><span style="color:#343434">pang_tien_feng@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>

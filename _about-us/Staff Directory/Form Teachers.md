@@ -16,9 +16,10 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2ske{background-color:#960E12;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-xuzz{background-color:#FFF;color:#343434;text-align:left;vertical-align:middle}
+.tg .tg-kp75{background-color:#FFF;color:#343434;text-align:left;vertical-align:top}
 .tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
 </style>
-<br><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-2ske"><span style="font-weight:bold;color:#FFF;background-color:#960E12">Class</span></th>
@@ -32,7 +33,6 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mdm Tabitha</span><br><span style="color:#343434;background-color:#FFF">Mr Lee Tze Hoong<br><span style="color:#343434;background-color:#FFF">Mr Hafiz</span></span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tabitha_vicky_rajaratnam@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">lee_tze_hoong@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">muhammad_hafiz_md_said@moe.edu.sg</span><br></td>
   </tr>
-  
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Sec 1 Service</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Job</span><br><span style="color:#343434;background-color:#FFF">Mdm Lee Min Huey</span></td>
@@ -66,10 +66,13 @@ Year Head: Mrs Lim-Chua Hwee Sze (chua_hwee_sze@moe.edu.sg)
   <tr>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Sec 1 Tenacity</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Tay Wee Soo</span><br><span style="color:#343434;background-color:#FFF">Mdm Rani</span><br><span style="color:#343434;background-color:#FFF">Mr Isaac Hong</span></td>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tay_wee_soo@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">arockiadoss_fatima_sahayarani@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">hong_wei_en_isaac@moe.edu.sg</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">tay_wee_soo@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">arockiadoss_fatima_sahayarani@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">hong_wei_en_isaac@moe.edu.sg</span><br></td>
   </tr>
 </tbody>
 </table>
+
+
+
 
 ### Secondary 2
 
@@ -273,7 +276,7 @@ ong_yi_lin_eileen@moe.edu.sg</span><br><span style="color:#343434;background-col
 	<tr><td class="tg-kp75">Sec 5-1</td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Fauzi</span><br><span style="color:#343434;background-color:#FFF">Mdm Toh Siew Hoon</span><br></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">  
-nur_fauzi_abu_bakar@moe.edu.sgg</span><br><span style="color:#343434;background-color:#FFF">  
+nur_fauzi_abu_bakar@moe.edu.sg</span><br><span style="color:#343434;background-color:#FFF">  
 toh_siew_hoon@moe.edu.sg</span><br>
   </td></tr>
   <tr>
