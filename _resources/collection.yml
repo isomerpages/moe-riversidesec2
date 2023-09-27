@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Achievements/CCA Achievement.md
-      - Achievements/Academic achievements.md
       - Achievements/.keep
+      - Achievements/Academic achievements.md
+      - Achievements/CCA Achievement.md
       - Direct School Admission.md
       - Students.md
       - e–Publications.md
