@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Achievements/.keep
-      - Achievements/Academic achievements.md
+      - Achievements/Academic Achievements.md
       - Achievements/CCA Achievement.md
       - Direct School Admission.md
       - Students.md
