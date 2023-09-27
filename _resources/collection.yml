@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Achievement Academic/Achievements.md
       - Achievement Academic/.keep
       - Direct School Admission.md
       - Students.md
