@@ -1,5 +1,5 @@
 ---
-title: CCA Achievement
+title: CCA Achievements
 permalink: /resources/achievements/permalink/
 description: ""
 third_nav_title: Achievements
