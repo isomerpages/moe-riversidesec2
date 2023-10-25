@@ -14,6 +14,14 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+  - infopic:
+      title: OPEN HOUSE 2023
+      button: Visit our Open House Microsite
+      url: for.edu.sg/rssoh2023
+      image: /images/open house.png
+      alt: Open House
+      description: 9 AM to 1 PM
+      subtitle: Saturday 18 November 2023
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
@@ -22,10 +30,17 @@ sections:
       url: /student-outcomes/a-future-ready-digital-learner/
       image: /images/student outcomes.png
       alt: Image alt text
-  - infopic:
-      title: Follow us on Instagram @riversidesecondaryschool
-      button: Click Here
+  - infobar:
+      id: infobar
+      description: Follow us on our social media pages!
+      button: Facebook
+      url: https://www.facebook.com/RiversideSS
+  - infobar:
+      id: infobar
+      button: Instagram
       url: https://www.instagram.com/riversidesecondaryschool/
-      image: /images/instagram.jpg
-      alt: instagram
+  - infobar:
+      id: infobar
+      button: YouTube
+      url: https://www.youtube.com/channel/UCbOcdm96pv8lWQ-psfGSpbQ/featured
 ---
