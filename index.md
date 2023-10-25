@@ -10,10 +10,6 @@ notification: Riverside Secondary School is holding her Open House on Saturday,
 sections:
   - hero:
       background: /images/bannergif2.gif
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - infopic:
       title: OPEN HOUSE 2023
       button: Visit our Open House Microsite
