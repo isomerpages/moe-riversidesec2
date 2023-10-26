@@ -4,7 +4,7 @@ title: Riverside Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/riverside ss_logo transparent bg.png
 permalink: /
-notification: Riverside Secondary School is holding her Open House on Saturday,
+notification: Riverside Secondary School is holding our Open House on Saturday,
   18 Nov 2023 from 9am to 1pm! To find out more, visit our microsite at
   for.edu.sg/RSSOH2023
 sections:
