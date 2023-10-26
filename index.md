@@ -13,7 +13,7 @@ sections:
   - infopic:
       title: OPEN HOUSE 2023
       button: Visit our Open House Microsite
-      url: for.edu.sg/rssoh2023
+      url: https://www.for.edu.sg/rssoh2023
       image: /images/open house.png
       alt: Open House
       description: 9 AM to 1 PM
