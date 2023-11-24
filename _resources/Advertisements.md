@@ -33,8 +33,8 @@ variant: markdown
 * Contact Person: Mdm Lailee Binte Lamri  
 
 **How to get there?**
-* Nearest MRT: Woodlands MRT (NS9/TE2 line) – 10 minutes walking distance
-* Bus number: 911
+* Nearest MRT: Woodlands MRT (NS9/TE2 line)
+* Nearest Bus Service: 911
 
 **Interest applicants must meet the following criteria:**
 * Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder and stall assistant
