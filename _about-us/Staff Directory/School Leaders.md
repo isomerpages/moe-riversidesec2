@@ -3,6 +3,7 @@ title: School Leaders
 permalink: /about-us/staff-directory/school-leaders/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -28,12 +29,12 @@ third_nav_title: Staff Directory
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">riverside_ss@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Derick Wong</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Chan Kok Tung Tom</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Vice-Principal</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">riverside_ss@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Mr Tom Chan</span></td>
+    <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Ms Hui Ai Lin</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">Vice-Principal</span></td>
     <td class="tg-xuzz"><span style="color:#343434;background-color:#FFF">riverside_ss@moe.edu.sg</span></td>
   </tr>
