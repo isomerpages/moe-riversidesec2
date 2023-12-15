@@ -8,15 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/bannergif2.gif
-  - infopic:
-      title: OPEN HOUSE 2023
-      button: Open House Microsite
-      url: https://www.for.edu.sg/rssoh2023
-      image: /images/open house.png
-      alt: Open House
-      description: Missed our Open House? Visit our microsite to find out more about
-        the Riverside Experience!
-      subtitle: Thank you for visiting!
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
