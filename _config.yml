@@ -3,7 +3,7 @@ url: https://www.riversidesec.moe.edu.sg
 favicon: /images/riverside ss_logo transparent bg.png
 colors:
   primary-color: "#262c5d"
-  secondary-color: "#000000"
+  secondary-color: "#262c5d"
   media-colors:
     - title: media-color-one
       color: "#d0021b"
