@@ -12,7 +12,8 @@ variant: markdown
 * [MOE-FAS Pamphlet (Tamil Language)](/files/document4d_moe%20fas%20pamphet%20tl.pdf)
 
 **Group Personal Accident Insurance for Students**
-* [Income Group Insurance Claims Portal](https://studentgpa.incomegroupins.com.sg)
+* [Product Fact Sheet (Year 2024)](/files/Product_Fact_Sheet_Year_2024.pdf)
+*  [Income Group Insurance Claims Portal](https://studentgpa.incomegroupins.com.sg)
 
 **Links to School-based Microsites**
 * [Home-Based Learning (HBL)](https://go.gov.sg/riversidesechbl)
