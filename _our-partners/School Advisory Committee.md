@@ -27,5 +27,5 @@ _With the commitment of the leadership of the school to build a thinking school 
 
 _Besides the effort to nurture students and developing staff, the school has relentlessly created partnership with the community, parents and alumni; and encouraging staff and students to be involved in volunteer work in the community that further enhance the value of care for the society and character development. …”_
 
-**Dr Daniel Chye** <br>
+**Dr Daniel Chia** <br>
 **SAC Chairman**
