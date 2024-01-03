@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission and Values.md
+      - Crest, Motto and Song.md
+      - School History.md
+      - Staff Directory/.keep
+      - Staff Directory/School Leaders.md
+      - Staff Directory/Key Personnel.md
+      - Staff Directory/Lead and Senior Teachers.md
+      - Staff Directory/Form Teachers.md
+      - Staff Directory/CCA Teachers.md
+      - Staff Directory/Allied Educators.md
+      - Staff Directory/Executive and Administration Staff.md
+      - Contact Us.md

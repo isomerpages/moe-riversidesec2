@@ -1,0 +1,11 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Achievements/.keep
+      - Achievements/Academic Achievements.md
+      - Achievements/CCA Achievements.md
+      - Direct School Admission.md
+      - Students.md
+      - e–Publications.md
+      - Advertisements.md

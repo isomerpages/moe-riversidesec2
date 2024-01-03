@@ -1,0 +1,40 @@
+logo: /images/riverside ss_my best_text_logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: The Riverside Experience
+    collection: riverside-experience
+  - title: Curriculum
+    url: /curriculum/
+    sublinks:
+      - title: Aesthetics
+        url: /curriculum/aesthetics/
+      - title: Design and Technology
+        url: /curriculum/design-and-technology/
+      - title: English Language & Literature
+        url: /curriculum/english-language-and-literature/
+      - title: Humanities
+        url: /curriculum/humanities/
+      - title: Mathematics
+        url: /curriculum/mathematics/
+      - title: Mother Tongue Languages
+        url: /curriculum/mother-tongue-languages/
+      - title: Physical Education
+        url: /curriculum/physical-education/
+      - title: Science
+        url: /curriculum/science/
+  - title: Co-Curriculum
+    url: /co-curriculum/character-and-citizenship-education/
+    sublinks:
+      - title: CCE
+        url: /co-curriculum/character-and-citizenship-education/
+      - title: Co–Curricular Activities
+        url: /co-curriculum/co-curricular-activities/
+      - title: Values in Action
+        url: /co-curriculum/values-in-action/
+      - title: MOE Sexuality Education
+        url: /co-curriculum/moe-sexuality-education/
+  - title: Our Partners
+    collection: our-partners
+  - title: Resources
+    collection: resources
