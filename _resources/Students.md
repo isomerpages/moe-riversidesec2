@@ -2,19 +2,6 @@
 title: Students
 permalink: /resources/students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Ministry of Education Financial Assistance Scheme (MOE-FAS)**
-* [MOE-FAS Riverside Secondary School Application Form](/files/2024%20moe%20fas%20application%20form-riversidess.pdf)
-* [MOE-FAS Pamphlet (English Language)](/files/document4a_moe%20fas%20pamphet%20el.pdf)
-* [MOE-FAS Pamphlet (Chinese Language)](/files/moe%20fas%20-%20chinese%20language.pdf)
-* [MOE-FAS Pamphlet (Malay Language)](/files/document4c_moe%20fas%20pamphet%20ml.pdf)
-* [MOE-FAS Pamphlet (Tamil Language)](/files/document4d_moe%20fas%20pamphet%20tl.pdf)
-
-**Group Personal Accident Insurance for Students**
-* [Product Fact Sheet (Year 2024)](/files/Product_Fact_Sheet_Year_2024.pdf)
-*  [Income Group Insurance Claims Portal](https://studentgpa.incomegroupins.com.sg)
-
-**Links to School-based Microsites**
-* [Home-Based Learning (HBL)](https://go.gov.sg/riversidesechbl)
-* [National Digital Literacy Programme (NDLP)](http://for.edu.sg/rssndlp)
+<p><strong>Principal's Termly Letters</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/Principal_s_Letter__2024_Term_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1</a></p></li></ul><p><strong>Ministry of Education Financial Assistance Scheme (MOE-FAS)</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/2024%20moe%20fas%20application%20form-riversidess.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a></p></li><li><p><a href="/files/document4a_moe%20fas%20pamphet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (English Language)</a></p></li><li><p><a href="/files/moe%20fas%20-%20chinese%20language.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (Chinese Language)</a></p></li><li><p><a href="/files/document4c_moe%20fas%20pamphet%20ml.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (Malay Language)</a></p></li><li><p><a href="/files/document4d_moe%20fas%20pamphet%20tl.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (Tamil Language)</a></p></li></ul><p><strong>Group Personal Accident Insurance for Students</strong></p><ul data-tight="true" class="tight"><li><p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet (Year 2024)</a></p></li><li><p><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">Income Group Insurance Claims Portal</a></p></li></ul><p><strong>Links to School-based Microsites</strong></p><ul data-tight="true" class="tight"><li><p><a href="https://go.gov.sg/riversidesechbl" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a></p></li><li><p><a href="http://for.edu.sg/rssndlp" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a></p></li></ul><p></p>
