@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - School Calendar.md
       - Achievements/.keep
       - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
