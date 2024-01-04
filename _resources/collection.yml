@@ -2,10 +2,11 @@ collections:
   resources:
     output: true
     order:
+      - School Calendar.md
       - Achievements/.keep
       - Achievements/Academic Achievements.md
       - Achievements/CCA Achievements.md
-      - Direct School Admission.md
-      - Students.md
-      - e–Publications.md
       - Advertisements.md
+      - Direct School Admission.md
+      - e–Publications.md
+      - For Students & Parents.md
