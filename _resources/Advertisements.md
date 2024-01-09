@@ -10,8 +10,8 @@ variant: markdown
 
 |No. | Type of Stall | Application Closing Date |
 | -------- | -------- | -------- |
-| 1     | Hot Drinks and Snacks     | 11 Dec 2023     |
-| 2     | Malay Food Stall - Nasi Ayam Penyet and Noodles     | 11 Dec 2023     |
+| 1     | Hot Drinks and Snacks     | 15 Jan 2024     |
+| 2     | Malay Food Stall - Nasi Ayam Penyet and Noodles     | 15 Jan 2024     |
 
 
 #### **Application Procedure**
