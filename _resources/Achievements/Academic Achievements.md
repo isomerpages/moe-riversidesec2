@@ -1,8 +1,9 @@
 ---
 title: Academic Achievements
-permalink: /resources/achievements/
+permalink: /resources/achievements/academic/
 description: ""
 third_nav_title: Achievements
+variant: tiptap
 ---
 <!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
 

@@ -1,6 +1,6 @@
 ---
-title: Feature on German Newspaper Die Zeit
-date: 2023-12-20
+title: Feature by German Newspaper Die Zeit
+date: 2024-01-13
 layout: link
 description: ""
 image: ""
