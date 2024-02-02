@@ -10,15 +10,15 @@ variant: markdown
 
 |No. | Type of Stall | Application Closing Date |
 | -------- | -------- | -------- |
-| 1     | Hot Drinks and Snacks     | 15 Jan 2024     |
-| 2     | Malay Food Stall - Nasi Ayam Penyet and Noodles     | 15 Jan 2024     |
+| 1     | Hot Drinks and Snacks     | 29 Feb 2024     |
+| 2     | Malay Food Stall - Nasi Ayam Penyet and Noodles     | 29 Feb 2024     |
 
 
 #### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Canteen Application Form 2023](/files/Canteen_application_form_2023.pdf)
+[Canteen Application Form 2024](/files/Canteen_application_form_2023.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
