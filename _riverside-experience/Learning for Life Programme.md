@@ -12,5 +12,4 @@ Lower secondary students are provided with opportunities to explore various digi
 
 ### Highlights:
 
-![](/images/LLP1.png)
-![](/images/LLP2.png)![](/images/LLP3.png)
+![](/images/LLP1.png)![](/images/LLP2.png)![](/images/LLP3.png)
