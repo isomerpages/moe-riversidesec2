@@ -2,77 +2,144 @@
 title: Direct School Admission
 permalink: /resources/direct-school-admission/
 description: ""
+variant: tiptap
 ---
-<center><h3>2023 Direct School Admission<br>(For admission to Secondary One in 2024)</h3></center>
-
-The Direct School Admission Exercise (DSA) allows students to seek admission to Riverside Secondary School based on a range of achievements and talents.
-
-If you are a Primary Six pupil, you can be considered for DSA if you are talented in one of the following DSA talent areas:
-
-
-The Direct School Admission Exercise (DSA) allows students to seek admission to Riverside Secondary School based on a range of achievements and talents:
-
-![](/images/dsa2023.png)
-
-**Selection Criteria and Process**
-
-<img style="width:90%;" src="/images/dsaselectionprocessa.png">
-
-
-<img style="width:90%;" src="/images/dsaselectionb.png">
-
-
-
-* Detailed information can be found at our Riverside DSA microsite - **[https://sites.google.com/moe.edu.sg/rss-dsa](https://sites.google.com/moe.edu.sg/rss-dsa)**
-
-
-    
-*   Application for DSA-Sec will be through the online **DSA-Sec Portal**.
-<br>The application is free-of-charge.
-
-* For more details, please refer to MOE website – **[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)**
-
-**Summary of Timeline for DSA Application @ Riverside Secondary School:**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border: 1px solid black;font-family:Arial, sans-serif;font-size:14px;
-	overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border: 1px solid black;font-family:Arial, sans-serif;font-size:14px;
-	font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c9ql{background-color:#D9D9D9;border: 1px solid black;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7btt{border: 1px solid black;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border: 1px solid black;text-align:left;vertical-align:top}
-table, thead, tbody, tr {
-    border: 1px solid black;
-}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c9ql"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Date</span></th>
-    <th class="tg-c9ql"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Events</span></th>
-  </tr>
-</thead>
+<h3>2024 Direct School Admission</h3>
+<h3>(For admission to Secondary One in 2025)</h3>
+<p></p>
+<p>If you are a Primary Six pupil, you can be considered for DSA if you are
+talented in one of the following DSA talent areas:</p>
+<p>&nbsp;</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4 May 2023, 11am - 31 May 2023, 3pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Application period</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">14 July 2023</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Applicants will be notified via </span><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">email</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">24 Jul 2023 - 17 Aug 2023</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Auditions / interviews for short-listed applicants</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">11 Sep 2023</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Audition / interview results will be notified to applicants via </span><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">email</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Main Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DSA Talent Area</strong>
+</p>
+<p><strong>(offered in Riverside Secondary)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programmes, activities and/or opportunities that students can expect to participate in for each talent area</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership and Uniformed Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership and Character</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will:</p>
+<p>• Develop leadership competencies to model, inspire, challenge and enable
+others to act.</p>
+<p>• Have opportunities to be systematically developed through the Riverside
+leadership curriculum.</p>
+<p>• Have opportunities to initiate, lead, plan and execute cohort and school-based
+projects.</p>
+<p>• Learn to influence others positively for a shared goal both in the school
+and in the community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language and Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will:</p>
+<p>• Develop and showcase their diverse talents and to build their interests
+in different fields of Tamil Arts and Literature such as writing, acting,
+short-film-making etc.</p>
+<p>• Have opportunities to take part in external competitions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will:</p>
+<p>• Develop and deepen their knowledge and skills in their talent areas.</p>
+<p>• Represent the school at competitions.</p>
+<p>• Participate in school and external events.</p>
+<p>• Attend workshops.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visual Arts, Design and Media</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will:</p>
+<p>• Hone their skills in photography and videography.</p>
+<p>• Represent the school at competitions.</p>
+<p>• Attend workshops.</p>
+<p>• Support major school events.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering and Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will:</p>
+<p>• Enhance their coding literacy.</p>
+<p>• Develop problem-solving skills and design solutions to real-world problems.</p>
+<p>• Be developed as stewards of environment and changemakers in sustainability.</p>
+<p>• Represent the school at national robotics competitions.</p>
+<p>• Demonstrate leadership capabilities.</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-**For further enquiries, you may contact us at&nbsp; [riverside_ss@moe.edu.sg](mailto:riverside_ss@moe.edu.sg) or 62699631 (General Office).**
+<p><strong>&nbsp;</strong>
+</p>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May.</p>
+<p>For more information on DSA-Sec, please refer to the MOE's website at
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
