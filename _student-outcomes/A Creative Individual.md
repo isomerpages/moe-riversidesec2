@@ -6,7 +6,7 @@ variant: markdown
 ---
 Developing students’ agility in thinking and adaptability are core competencies to navigate the changing world. Self-expression, empathetic intelligence and creativity play a critical role in a child’s holistic development. 
 
-Every Riversidian is provided with opportunities to develop their creativity leveraging on technology and the arts to express themselves and explore different interests and passions
+Every Riversidian is provided with opportunities to develop their creativity leveraging on technology and the arts to express themselves and explore different interests and passions.
 
 Click here to read more about :
 1. [Learning for Life Programme](/the-riverside-experience/learning-for-life-programme)
