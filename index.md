@@ -14,7 +14,7 @@ sections:
       id: infopic
       description: Interested to find out more about our DSA Talent Areas?
       button: Visit our Microsite
-      url: for.edu.sg/rssdsa2024
+      url: https://for.edu.sg/rssdsa2024
       image: /images/Copy_of_OH_Banner_with_P_Talk__169_.png
       alt: Image alt text
   - resources:
