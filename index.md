@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/bannergif2.gif
+  - infopic:
+      title: Virtual Tour
+      subtitle: Direct School Admission 2024
+      id: infopic
+      description: Interested to find out about Riverside's DSA Talent Areas and our
+        Riverside Experience?
+      button: Visit our Microsite Here
+      url: for.edu.sg/rssdsa2024
+      image: /images/Copy_of_OH_Banner_with_P_Talk__169_.png
+      alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
@@ -29,14 +39,4 @@ sections:
       id: infobar
       button: YouTube
       url: https://www.youtube.com/channel/UCbOcdm96pv8lWQ-psfGSpbQ/featured
-  - infopic:
-      title: Virtual Tour
-      subtitle: Direct School Admission 2024
-      id: infopic
-      description: Interested to find out about Riverside's DSA Talent Areas and our
-        Riverside Experience?
-      button: Visit our Microsite Here
-      url: for.edu.sg/rssdsa2024
-      image: /images/Copy_of_OH_Banner_with_P_Talk__169_.png
-      alt: Image alt text
 ---
