@@ -2,12 +2,11 @@
 title: A Creative Individual
 permalink: /student-outcomes/a-creative-individual/
 description: ""
+variant: markdown
 ---
-Self-expression and creativity play a critical role in a child’s holistic development. Engaging with the arts helps students develop empathic intelligence, which enhances their emotional engagement, commitment and persistence. This can build their confidence as well as their sense of identity.
+Developing students’ agility in thinking and adaptability are core competencies to navigate the changing world. Self-expression, empathetic intelligence and creativity play a critical role in a child’s holistic development. 
 
-  
-
-Every Riversidian is provided with opportunities to develop their appreciation for the arts and to learn how to express themselves through a broad expression of arts.
+Every Riversidian is provided with opportunities to develop their creativity leveraging on technology and the arts to express themselves and explore different interests and passions
 
 Click here to read more about :
 1. [Learning for Life Programme](/the-riverside-experience/learning-for-life-programme)
