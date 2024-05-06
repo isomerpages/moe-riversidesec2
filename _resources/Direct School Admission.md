@@ -10,7 +10,13 @@ variant: tiptap
 <p>If you are a Primary Six pupil, you can be considered for DSA if you are
 talented in one of the following DSA talent areas:</p>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,8 +144,8 @@ short-film-making etc.</p>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May.</p>
+<p>To find out more about the selection criteria and selection process for
+the various talent areas, click <a href="/files/Riverside_Secondary_School_2024_Direct_School_Admission_Information__6_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>For more information on DSA-Sec, please refer to the MOE's website at
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
