@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Tham_PM.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Tham_PM.jpg">
 </div>
 <p>Since its humble beginnings in 1987, Riverside Secondary School has grown
 to become a choice school in the north with its excellent track record.
