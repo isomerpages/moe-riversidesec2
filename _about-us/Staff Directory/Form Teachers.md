@@ -616,13 +616,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr John Yap</p>
-<p></p>
-<p>Mdm Shen Lifeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kok_wai_john@moe.edu.sg</a>
-</p>
-<p><a href="mailto:shen_lifeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shen_lifeng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
