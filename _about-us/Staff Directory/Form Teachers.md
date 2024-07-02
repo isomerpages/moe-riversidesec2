@@ -30,7 +30,7 @@ variant: tiptap
 <p>Sec 1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Haryani Hamidah</p>
+<p>Ms Haryani Hamidan</p>
 <p>Mr Yuen Jia Jun</p>
 </td>
 <td rowspan="1" colspan="1">
