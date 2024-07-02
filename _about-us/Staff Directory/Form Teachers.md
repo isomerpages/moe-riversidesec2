@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h3>Secondary 1</h3>
 <p>Assistant Year Head: Mrs Sim-Lee Xinrong (<a href="mailto:lee_xinrong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xinrong@moe.edu.sg</a>)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -84,12 +89,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Yi Lin Eileen</p>
-<p>Mdm Nithya Sukumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_yi_lin_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yi_lin_eileen@moe.edu.sg</a>
-</p>
-<p><a href="mailto:nithya_sukumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nithya_sukumaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -145,7 +147,12 @@ variant: tiptap
 <h3>Secondary 2</h3>
 <p>Year Head: Mrs Lim-Chua Hwee Sze (<a href="mailto:chua_hwee_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hwee_sze@moe.edu.sg</a>)</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -167,12 +174,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Tze Hoong</p>
-<p>Mr Muhammad Hafiz</p>
+<p>Ms Vasagi Arumugan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_tze_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tze_hoong@moe.edu.sg</a>
 </p>
-<p><a href="mailto:muhammad_hafiz_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_md_said@moe.edu.sg</a>
+<p><a href="mailto:vasagi_s_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vasagi_s_arumugam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -214,15 +221,10 @@ variant: tiptap
 <p>Sec 2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Fairuz</p>
-<p></p>
 <p>Mr Hafidz Azmin</p>
 <p>Ms Eng Jie Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_fairuz_mohamad_ramdan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_fairuz_mohamad_ramdan@moe.edu.sg</a>
-</p>
-<p></p>
 <p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hafidz_azmin@moe.edu.sg</a>
 </p>
 <p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a>
@@ -249,12 +251,9 @@ variant: tiptap
 <p>Sec 2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chee Jih Heong</p>
 <p>Ms Chong Pey Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chee_jih_heong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_jih_heong@moe.edu.sg</a>
-</p>
 <p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_pey_yi@moe.edu.sg</a>
 </p>
 </td>
@@ -295,7 +294,12 @@ variant: tiptap
 </table>
 <h3>Secondary 3</h3>
 <p>Assistant Year Head: Ms Cindy Chai (<a href="mailto:chai_chang_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_chang_wei@moe.edu.sg</a>)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -316,13 +320,13 @@ variant: tiptap
 <p>Sec 3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Fauzi</p>
+<p>Mr Lim Ding Han</p>
 <p>Mr N Balasundaram
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fauzi_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fauzi_abu_bakar@moe.edu.sg</a>
+<p><a href="mailto:ding_han_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_han_lim@moe.edu.sg</a>
 </p>
 <p></p>
 <p><a href="mailto:n_balasundaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">n_balasundaram@moe.edu.sg</a> 
@@ -446,7 +450,12 @@ variant: tiptap
 </table>
 <h3>Secondary 4 &amp; 5</h3>
 <p>Year Head: Mr Alvin Cai (<a href="mailto:cai_gaoyong_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_gaoyong_alvin@moe.edu.sg</a>)</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -467,16 +476,10 @@ variant: tiptap
 <p>Sec 4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Gan Yen Ping
-<br>
-</p>
-<p>Mr R. Balasubramaniam</p>
+<p>Mrs Lee-Gan Yen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_yen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yen_ping@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:balasubramaniam_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">balasubramaniam_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
