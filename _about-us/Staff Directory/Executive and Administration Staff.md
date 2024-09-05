@@ -35,7 +35,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lailee_lamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lailee_lamri@moe.edu.sg</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -59,9 +58,21 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manokaran_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">manokaran_arumugam@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:manokaran_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">manokaran_arumugam@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communications Technology Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_buck_khoon_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_buck_khoon_adrian@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,9 +80,7 @@ variant: tiptap
 <p>Mdm Nur Idayu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive
-<br>
-</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_idayu_atan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_idayu_atan@moe.edu.sg</a>
@@ -83,7 +92,7 @@ variant: tiptap
 <p>Mr Muhammad Hakim Shariff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Executive</p>
+<p>Information &amp; Communications Technology Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hakim_shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hakim_shariff@moe.edu.sg</a>
@@ -95,7 +104,7 @@ variant: tiptap
 <p>Mr Muhammad Amienudin Dinoh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Executive</p>
+<p>Information &amp; Communications Technology Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_amienudin_dinoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amienudin_dinoh@moe.edu.sg</a>
