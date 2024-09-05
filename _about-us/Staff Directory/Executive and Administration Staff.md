@@ -97,6 +97,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto: tan_li_san_candice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_san_candice@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
