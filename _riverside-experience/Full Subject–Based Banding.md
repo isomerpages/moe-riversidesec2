@@ -6,7 +6,7 @@ variant: markdown
 ---
 Riverside Secondary embarked on subject-based banding (SBB) from 2017, as part of schools in Phase 1. SBB allows greater flexibility of subject offerings to students who perform well in subjects such as English, Mother Tongue, Mathematics and Science.
 
-To further customise learning to each student’s needs, MOE announced the remaking of secondary school pathways in the form of Full Subject-Based Banding (Full SBB) in 2019. For more information on remaking of pathways, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
+To further customize learning to each student's needs, MOE announced the remaking of secondary school pathways in the form of Full Subject-Based Banding (Full SBB) in 2019. For more information on remaking of pathways, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
 
   
 
