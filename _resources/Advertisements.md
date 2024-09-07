@@ -6,8 +6,9 @@ variant: markdown
 ---
 ### **Available Canteen Stalls (Closed)**
 
-**Application Procedure**
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+###### **Application Procedure**
+
+1 ) Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
 * [Canteen Application Form 2024](https://www.riversidesec.moe.edu.sg/files/Canteen_application_form_2023.pdf)
 
@@ -16,7 +17,7 @@ Attached the following documents together with the application form:
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-2. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+2 ) Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
 * Address: 3 Woodlands Street 81 S(738524)
 * Contact No: 62699631
