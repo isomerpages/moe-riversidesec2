@@ -9,7 +9,7 @@ variant: markdown
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Canteen Application Form 2024](https://www.riversidesec.moe.edu.sg/files/Canteen_application_form_2023.pdf)
+* [Canteen Application Form 2024](https://www.riversidesec.moe.edu.sg/files/Canteen_application_form_2023.pdf)
 
 Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
