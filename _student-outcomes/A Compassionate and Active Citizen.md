@@ -2,6 +2,7 @@
 title: A Compassionate and Active Citizen
 permalink: /student-outcomes/a-compassionate-and-active-citizen/
 description: ""
+variant: markdown
 ---
 Social-emotional skills such as empathy, self-awareness, responsibility and respect for others are becoming as essential as cognitive skills as classrooms and workplaces become more diverse. Together with values which form the core of students’ character, these skills serve as a guiding compass in their lives. 
 
@@ -18,4 +19,4 @@ Click here to read more about :
 References:
 
 1.  [MOE 21st Century Competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies#:~:text=21st%20Century%20Competencies%20for%20a,Communication%2C%20Collaboration%20and%20Information%20Skills) 
-2.  [The OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/learning-compass-2030/)
+2.  [The OECD Learning Compass 2030](https://www.oecd.org/en/data/tools/oecd-learning-compass-2030.html)
