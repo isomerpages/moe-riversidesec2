@@ -19,8 +19,8 @@ Attached the following documents together with the application form:
 
 2 ) Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
-* Address: 3 Woodlands Street 81 S(738524)
-* Contact No: 62699631
+* Address: 3 Woodlands Street 81 Singapore (738524)
+* Contact No: 6269 9631
 * Email: riverside_ss@moe.edu.sg
 * Contact Person: Mdm Lailee Binte Lamri
 
