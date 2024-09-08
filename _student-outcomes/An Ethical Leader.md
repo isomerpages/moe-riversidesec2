@@ -2,6 +2,7 @@
 title: An Ethical Leader
 permalink: /student-outcomes/an-ethical-leader/
 description: ""
+variant: markdown
 ---
 Students have the ability and the will to positively influence their own lives and the world around them. As the world becomes more complex, it is increasingly important for students to uphold sound beliefs and moral values, and make responsible decisions that impact themselves and those around them in their daily lives. 
 
@@ -19,4 +20,4 @@ Click here to read more about :
 References:
 
 1.  [MOE 21st Century Competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies#:~:text=21st%20Century%20Competencies%20for%20a,Communication%2C%20Collaboration%20and%20Information%20Skills) 
-2.  [The OECD Learning Compass 2030](https://www.oecd.org/education/2030-project/teaching-and-learning/learning/learning-compass-2030/)
+2.  [The OECD Learning Compass 2030](https://www.oecd.org/en/data/tools/oecd-learning-compass-2030.html)
