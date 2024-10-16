@@ -2,6 +2,7 @@
 title: Co–Curricular Activities
 permalink: /co-curriculum/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 <h2><center>Clubs &amp; Societies</center></h2>
 
@@ -77,8 +78,9 @@ description: ""
     <td class="tg-0lax">I’ve had such an amazing experience being in basketball! Even though the training sessions were rigorous, I saw  improvements in my skills. Being in basketball also helped me make good friends whom I can trust and enjoy the CCA with. I appreciate the opportunity to help my juniors and for me to grow as a basketball player together with the team. I will never forget all the memorable and fun moments during the training sessions. - Amirah Raihanah Binte Abdul Halim </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Football</h3></center></td>
-    <td class="tg-0lax"><center><h3>Netball</h3></center></td>
+    <td class="tg-0lax"><center><h3>Football </h3>
+Football CCA will not be offered to Sec 1s in 2025</center></td>
+<td class="tg-0lax"><center><h3>Netball</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/physical-sports/football/">
@@ -195,7 +197,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><center><h3>Concert Band</h3></center></td>
-    <td class="tg-0lax"><center><h3>Chinese Dance</h3></center></td>
+    <td class="tg-0lax"><center><h3>Multi-Cultural Dance Society– Chinese Dance</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/concert-band/">
@@ -208,8 +210,8 @@ description: ""
     <td class="tg-0lax">I have had opportunities to learn various Chinese dances with my peers. In the process of learning these dances, we also learned a lot about our history and culture. My friends and I had to overcome all kinds of difficulties and improve our coordination as we participated in dance performances and competitions. This is significant in our journey together to be better dancers. I'm proud to be a part of Riverside's Chinese Dance! - Jiang Kai Mung</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><center><h3>Indian Dance</h3></center></td>
-    <td class="tg-0lax"><center><h3>Malay Dance</h3></center></td>
+    <td class="tg-0lax"><center><h3>Multi-Cultural Dance Society– Indian Dance</h3></center></td>
+    <td class="tg-0lax"><center><h3>Multi-Cultural Dance Society– Malay Dance</h3></center></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/co-curriculum/co-curricular-activities/visual-and-performing-arts/indian-dance/">
