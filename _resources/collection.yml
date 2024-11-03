@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Secondary 1 Registration 2025/Full Subject Based Banding.md
-      - Secondary 1 Registration 2025/Home.md
       - Secondary 1 Registration 2025/.keep
+      - Secondary 1 Registration 2025/Home.md
+      - Secondary 1 Registration 2025/Full Subject Based Banding.md
       - School Calendar.md
       - Achievements/National Examinations.md
       - Achievements/.keep
