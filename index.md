@@ -10,10 +10,6 @@ sections:
       background: /images/bannergif2.gif
   - resources:
       title: ANNOUNCEMENTS
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
   - infopic:
       title: Riverside Open House 2024
       subtitle: Sat 16 Nov, 9AM to 1PM
