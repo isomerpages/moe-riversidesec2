@@ -58,8 +58,8 @@ third_nav_title: Secondary 1 Registration 2025
         <tr>
             <td><strong>Things to bring</strong></td>
             <td colspan="2">
-                <ul data-tight="true" class="tight">
-                    <li>Writing materials</li>
+<ul>
+										<li>Writing materials</li>
                     <li>Water bottle</li>
                     <li>A storybook</li>
                     <li>Money for recess breaks</li>
