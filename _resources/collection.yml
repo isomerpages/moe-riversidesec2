@@ -2,18 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Secondary 1 Registration 2025/.keep
-      - Secondary 1 Registration 2025/Home.md
-      - Secondary 1 Registration 2025/Full Subject Based Banding.md
-      - Secondary 1 Registration 2025/Mother Tongue Languages.md
-      - Secondary 1 Registration 2025/Purchase of School Uniform, Books,
-        Stationery and Other School Supplies.md
-      - Secondary 1 Registration 2025/MOE Financial Assistance Scheme (FAS)
-        Application.md
-      - Secondary 1 Registration 2025/Appeal To Transfer Into Riverside.md
-      - Secondary 1 Registration 2025/Start it right and Secondary One
-        Orientation Programme.md
-      - Secondary 1 Registration 2025/Other Enquiries.md
       - School Calendar.md
       - Achievements/National Examinations.md
       - Achievements/.keep
