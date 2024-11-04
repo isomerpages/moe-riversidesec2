@@ -20,7 +20,7 @@ sections:
       id: infopic
       button: Visit Our Microsite
       url: for.edu.sg/RSSOH2024
-      image: /images/2024_Open_House_Poster_1.png
+      image: /images/2024_Open_House_Poster1.jpg
       alt: Image alt text
   - infopic:
       title: THE RIVERSIDIAN
