@@ -10,6 +10,18 @@ sections:
       background: /images/bannergif2.gif
   - resources:
       title: ANNOUNCEMENTS
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+  - infopic:
+      title: Riverside Open House 2024
+      subtitle: Sat 16 Nov, 9AM to 1PM
+      id: infopic
+      button: Visit Our Microsite
+      url: https://for.edu.sg/RSSOH2024
+      image: /images/Image001.png
+      alt: Image alt text
   - infopic:
       title: THE RIVERSIDIAN
       button: find out more
