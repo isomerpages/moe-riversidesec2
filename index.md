@@ -37,4 +37,14 @@ sections:
       id: infobar
       button: YouTube
       url: https://www.youtube.com/channel/UCbOcdm96pv8lWQ-psfGSpbQ/featured
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Purchase of School Uniform & Textbooks
+          date: 04 November 2024
+          announcement: More information below
+          link_text: https://www.riversidesec.moe.edu.sg/resources/students/
+          link_url: /resources/students/
 ---
