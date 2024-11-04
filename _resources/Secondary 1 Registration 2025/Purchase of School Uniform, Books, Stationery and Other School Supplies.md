@@ -9,15 +9,16 @@ third_nav_title: Secondary 1 Registration 2025
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click here to view the instructions from our uniform vendor, KH Uniform.</p>
+<p>Click <a href="/files/Secondary 1 Registration 2025/Purchase_of_School_Uniform__Sec_1__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the instructions from our uniform vendor, KH Uniform.</p>
 </li>
 </ul>
 <p><u>(II) Books, Stationery and Other School Supplies</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click here to view the purchase guide of our bookshop vendor, Pacific
-Bookstores.</p>
+<p>Click <a href="/files/Secondary 1 Registration 2025/Pacific_Bookstores_Purchase_Guide_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the purchase guide of our bookshop vendor, Pacific Bookstores.</p>
 </li>
 <li>
 <p>Click here to view the Secondary one book list.</p>
@@ -27,7 +28,7 @@ Bookstores.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents are strongly encouraged to make their purchases online via <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a> 
+<p>Parents are strongly encouraged to make their purchases online via <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 </li>
 <li>
