@@ -19,7 +19,7 @@ sections:
       subtitle: Sat 16 Nov, 9AM to 1PM
       id: infopic
       button: Visit Our Microsite
-      url: for.edu.sg/RSSOH2024
+      url: https://for.edu.sg/RSSOH2024
       image: /images/Image001.png
       alt: Image alt text
   - infopic:
