@@ -21,7 +21,7 @@ view the instructions from our uniform vendor, KH Uniform.</p>
 view the purchase guide of our bookshop vendor, Pacific Bookstores.</p>
 </li>
 <li>
-<p>Click here to view the Secondary one book list.</p>
+<p>Click here to view the Secondary One book list.</p>
 </li>
 </ul>
 <p><u>Online Purchase</u>
