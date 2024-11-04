@@ -28,9 +28,22 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>Ministry of Education Financial Assistance Scheme (MOE-FAS)</strong>
+<p><strong>Purchase of School Uniform &amp; Textbook</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Purchase_School_Uniform.pdf" rel="noopener nofollow" target="_blank">Purchase of School Uniform</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Purchase_Guide_for_Pacific_Bookstores.pdf" rel="noopener nofollow" target="_blank">Purchase Guide for Pacific Bookstores</a>
+</p>
+<p></p>
+</li>
+<li>
+<p><strong>Ministry of Education Financial Assistance Scheme (MOE-FAS)</strong>
+</p>
+</li>
 <li>
 <p><a href="/files/2024%20moe%20fas%20application%20form-riversidess.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a>
 </p>
