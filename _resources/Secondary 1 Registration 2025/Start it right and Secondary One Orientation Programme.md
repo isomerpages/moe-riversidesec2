@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
-<table style="min-width: 75px; border-collapse: collapse; width: 100%; border: 1px solid lightgrey;">
+<table style="border-collapse: collapse; width: 100%; border: 1px solid lightgrey;">
     <colgroup>
         <col style="border-right: 1px solid lightgrey;">
         <col style="border-right: 1px solid lightgrey;">
