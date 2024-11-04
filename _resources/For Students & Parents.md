@@ -32,9 +32,6 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
 <p><a href="/files/Purchase_Guide_for_Pacific_Bookstores.pdf" rel="noopener nofollow" target="_blank">Purchase Guide for Pacific Bookstores</a>
 </p>
 </li>
