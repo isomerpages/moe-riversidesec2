@@ -17,15 +17,18 @@ third_nav_title: Secondary 1 Registration 2025
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start it right!</p>
+<p><strong>Start it right!</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary One Orientation Programme</p>
+<p><strong>Secondary One Orientation Programme</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Date</p>
+<p><strong>Date</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd</sup> – 3<sup>rd</sup> Jan 2025</p>
@@ -36,7 +39,8 @@ third_nav_title: Secondary 1 Registration 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.25am – 12.30pm</p>
@@ -47,7 +51,8 @@ third_nav_title: Secondary 1 Registration 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reporting Venue</p>
+<p><strong>Reporting Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Classroom of the student's form class</p>
@@ -57,7 +62,8 @@ third_nav_title: Secondary 1 Registration 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Attire</p>
+<p><strong>Attire</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Uniform with black shoes and black socks</p>
@@ -68,7 +74,8 @@ third_nav_title: Secondary 1 Registration 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -91,7 +98,8 @@ third_nav_title: Secondary 1 Registration 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Things to bring</p>
+<p><strong>Things to bring</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
@@ -112,7 +120,8 @@ third_nav_title: Secondary 1 Registration 2025
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Remarks</p>
+<p><strong>Remarks</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>As the first four days of school will be days of orientation and administration,
