@@ -5,6 +5,176 @@ variant: tiptap
 description: ""
 ---
 <h2>Key School Events</h2>
+<h4>2024 Term 4</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term/Week</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/1 - 4/2, 4/4 - 4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 – 19 Sep, 30 Sep – 8 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N Level Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/2 - 4/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Sep – 4 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – 3 End-of-Year Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 Graduation Day and Last Day of School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/4 - 4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2, 7, 10 and 15 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level Science Practical Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 - 8 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3 Student Release Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3 Promotion Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6-10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Oct - 11 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O Level Examination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 - 23 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Riverside Integrated Skills Experience III (RISE III): Learning Activities
+for Sec 1, 2 &amp; 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last Day of School for Sec 1 - 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent-Child-Teacher Conference (For selected students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 Graduation Night</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Riverside Open House</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4>2024 Term 3</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -203,7 +373,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <h4>2024 Term 2</h4>
 <table style="minWidth: 75px">
