@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Riverside Secondary School
-description: An Isomer site of the Singapore Government
+description: Riverside Secondary School - A School of Distinction since 1987
 image: /images/riverside ss_logo transparent bg.png
 permalink: /
 notification: ""
