@@ -21,9 +21,7 @@ and connection between our parents and students.</p>
 <p>At the annual PSG bonding event, our parents and Riversidians enjoyed
 a day of fun and games. It takes a village to raise a child and our PSG
 is proud to be able to facilitate this event to build a positive family
-culture with our Riversidians. organised a workshop titled "Building a
-Positive Digital Family Culture Together."</p>
-<p></p>
+culture with our Riversidians.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent_Child_Bonding_activity_2.jpg">
 </div>
