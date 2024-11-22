@@ -18,7 +18,7 @@ contact for your child will receive a notification via Parents Gateway
 please acknowledge the PG notification by 24<sup>th</sup> December 2024,
 11:00am.</p>
 <p>If you require any assistance, please call the school at 6269 9631 during
-office hours or email to <a rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>.</p>
+office hours or email to <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>.</p>
 <p>Yours sincerely,
 <br>Ms Tham Yoke Chun
 <br>Principal</p>
