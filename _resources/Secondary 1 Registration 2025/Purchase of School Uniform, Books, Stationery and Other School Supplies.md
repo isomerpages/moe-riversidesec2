@@ -29,7 +29,7 @@ view the Secondary One book list.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents are strongly encouraged to make their purchases online via <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+<p>Parents are strongly encouraged to make their purchases online via <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 </li>
 <li>
