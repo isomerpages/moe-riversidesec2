@@ -12,7 +12,7 @@ contact the school:</p>
 <p>Call us at 6269 9631 during office hours</p>
 </li>
 <li>
-<p>Email us at <a rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>
+<p>Email us at <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>
 </p>
 </li>
 </ul>
