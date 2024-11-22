@@ -6,13 +6,9 @@ description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
 <table style="border-collapse: collapse; width: 100%; border: 1px solid lightgrey;"><colgroup>
-
 </colgroup><colgroup><col style="border-right: 1px solid lightgrey;">
-
 </colgroup><colgroup><col style="border-right: 1px solid lightgrey;">
-
 </colgroup><colgroup><col>
-
 </colgroup><tbody><tr><td>&nbsp;</td><td><strong>Start it right!</strong></td><td><strong>Secondary One Orientation Programme</strong></td></tr><tr><td><strong>Date</strong></td><td>2<sup>nd</sup> – 3<sup>rd</sup> Jan 2025</td><td>6<sup>th</sup> – 7<sup>th</sup> Jan 2025</td></tr><tr><td><strong>Time</strong></td><td>7.25am – 12.30pm</td><td>7.25am – 2.00pm</td></tr><tr><td><strong>Reporting Venue</strong></td><td colspan="2">Classroom of the student's form class <br>(Note: You can check your child/ward’s form class via Parents Gateway (PG) on 31 Dec 2024)</td></tr><tr><td style="border-bottom: none;"><strong>Attire</strong></td><td style="border-bottom: none;">School Uniform with black shoes and black socks</td><td style="border-bottom: none;">PE Attire</td></tr><tr><td>&nbsp;</td><td>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <div class="isomer-image-wrapper">
@@ -54,7 +50,6 @@ third_nav_title: Secondary 1 Registration 2025
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr><td><strong>Remarks</strong></td><td colspan="2">As the first four days of school will be days of orientation and administration, it is not necessary to bring any textbooks to school.</td></tr></tbody>
 
 </table>
-
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 
 &nbsp;&nbsp;&nbsp; 
@@ -133,4 +128,4 @@ third_nav_title: Secondary 1 Registration 2025
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; 
