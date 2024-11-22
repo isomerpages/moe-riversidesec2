@@ -5,3 +5,86 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
+<p><u>(I) School Uniform</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click <a href="/files/Secondary%201%20Registration%202025/Purchase_of_School_Uniform__Sec_1__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the instructions from our uniform vendor, KH Uniform.</p>
+</li>
+</ul>
+<p><u>(II) Books, Stationery and Other School Supplies</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click <a href="/files/Secondary%201%20Registration%202025/Pacific_Bookstores_Purchase_Guide_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the purchase guide of our bookshop vendor, Pacific Bookstores.</p>
+</li>
+<li>
+<p>Click here to view the Secondary One book list.</p>
+</li>
+</ul>
+<p><u>Online Purchase</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents are strongly encouraged to make their purchases online via <a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+</p>
+</li>
+<li>
+<p>Payment can be made via VISA, MASTERCARD credit/ debit cards, or PayNow,
+NTUC BTS Fund (e-voucher).</p>
+</li>
+<li>
+<p>Parents can opt for home delivery or self-collection of the ordered books
+and stationery. For home delivery, a delivery charge of $14.90 applies.
+Alternatively, parents can collect the purchased books and stationery from
+the school between 27<sup>th</sup> Dec and 29<sup>th</sup> Dec 2024.</p>
+</li>
+<li>
+<p>Please note that the last date for online purchase is tentatively 24<sup>th</sup> December
+2024.</p>
+</li>
+<li>
+<p>Please place order early. Home delivery and self-collection slots are
+available on first-come-first-serve basis.</p>
+</li>
+</ul>
+<p><u>Walk-in Purchase</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you are making the purchase on-site (in the school), please be advised
+that there may be long queues with longer waiting time.</p>
+</li>
+<li>
+<p>Please refer to the booklist for bookshop operating hours.</p>
+</li>
+<li>
+<p>Payment for walk-in purchases can be made via cash, PayNow, NTUC BTS Fund
+(e-voucher) and CDAC voucher.</p>
+</li>
+</ul>
+<p><u>Students granted Financial Assistance for 2025</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students whose application for financial assistance have been approved
+must make an appointment with school before collecting books and stationery.
+Please contact school via <a rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> or
+call 62699631 during office hours to make an appointment. The tentative
+dates for collection are from 22 Dec to 23 Dec 2024; or from 27 Dec and
+30 Dec 2024, subject to confirmation by school.</p>
+</li>
+</ul>
+<p><u>Cancellation/ Exchange Policy</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All purchases are final and no cancellation will be accepted.</p>
+</li>
+<li>
+<p>No refund allowed and only exchange will be entertained.</p>
+</li>
+</ul>
+<p></p>
