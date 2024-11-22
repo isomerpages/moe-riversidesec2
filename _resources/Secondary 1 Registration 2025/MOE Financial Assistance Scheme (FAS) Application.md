@@ -23,6 +23,6 @@ the school at 62699631.</p>
 <p>Tip: <em>If you have children in different government or government-aided schools, you just need to submit one application form to any of their schools. The school that receives the application form will inform you of the outcome.</em>
 </p>
 <p>For students who have received MOE FAS Approval from your primary school,
-please submit the approval letter to <a rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> with
-Subject Heading “<em>FAS Approval Lette</em>r” and indicating your contact
-number in the email. You do not need to submit the application form.</p>
+please submit the approval letter to <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> with Subject
+Heading “<em>FAS Approval Lette</em>r” and indicating your contact number
+in the email. You do not need to submit the application form.</p>
