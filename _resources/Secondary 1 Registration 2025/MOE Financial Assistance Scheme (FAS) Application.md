@@ -10,7 +10,8 @@ third_nav_title: Secondary 1 Registration 2025
 students from government and government-aided schools.</p>
 <p>To qualify for financial assistance, the family's Gross Household Income
 or Per Capita Income must not exceed $3000 per month or $750 respectively.
-Please download MOE FAS Pamphlet 2025 <a href="/files/MOE_FAS_Pamphlet.pdf" rel="noopener nofollow" target="_blank">here</a> to find out more.</p>
+Please download MOE FAS Pamphlet 2025 <a href="/files/2025 Secondary 1 Registration/moe_fas_pamphlet_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
+find out more.</p>
 <p>To apply for financial assistance, you can submit <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener noreferrer nofollow" target="_blank">online</a>. Alternatively,
 you can download the MOE FAS application form <a href="https://www.moe.gov.sg/financial-matters/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 collect a copy from the General Office. You can submit the completed form
