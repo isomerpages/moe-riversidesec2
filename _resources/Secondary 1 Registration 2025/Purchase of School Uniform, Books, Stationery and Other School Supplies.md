@@ -9,7 +9,7 @@ third_nav_title: Secondary 1 Registration 2025
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="/files/S1_Purchase_of_School_Uniform_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2025 Secondary 1 Registration/S1_Purchase_of_School_Uniform_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the instructions from our uniform vendor, KH Uniform.</p>
 </li>
 </ul>
@@ -17,11 +17,11 @@ view the instructions from our uniform vendor, KH Uniform.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="/files/S1_Purchase_Guide_for_Pacific_Bookstores.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2025 Secondary 1 Registration/S1_Purchase_Guide_for_Pacific_Bookstores.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the purchase guide of our bookshop vendor, Pacific Bookstores.</p>
 </li>
 <li>
-<p>Click <a href="/files/S1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/2025 Secondary 1 Registration/S1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view the Secondary One book list.</p>
 </li>
 </ul>
