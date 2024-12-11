@@ -58,25 +58,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Mak</p>
+<p>Ms Samantha Gan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English &amp; (Covering) School Staff Developer</p>
+<p>English Language &amp; Literature (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mak_wei_yi_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mak_wei_yi_rachel@moe.edu.sg</a>
+<p><a href="mailto:samantha_gan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_gan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Tey Ai Hoon</p>
+<p>Ms Joanne Choy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tey_ai_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey_ai_hoon@moe.edu.sg</a>
+<p><a href="mailto:tey_ai_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_hui_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -128,6 +128,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheoh_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheoh_pin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Mak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mak_wei_yi_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mak_wei_yi_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -211,6 +223,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Joel Lee Jin Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21st Century Competencies (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Sim-Lee Xinrong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,6 +271,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Eng Jie Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Eugene Guo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,34 +295,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rafidah Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rafidah_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rafidah_yusoff@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Samantha Gan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_gan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_gan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Joshua Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Humanities (Internal)</p>
+<p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_zihao_joshua_timothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_zihao_joshua_timothy@moe.edu.sg</a>
@@ -298,7 +310,7 @@ variant: tiptap
 <p>Mdm Natrah Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language (Internal)</p>
+<p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natrah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natrah_ibrahim@moe.edu.sg</a>
@@ -334,7 +346,7 @@ variant: tiptap
 <p>Mr Liao Jun Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Leadership (Internal)</p>
+<p>Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liao_junjie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liao_junjie@moe.edu.sg</a>
@@ -346,7 +358,7 @@ variant: tiptap
 <p>Mdm Nurdiana Rosidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Well-Being (Internal)</p>
+<p>Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurdiana_rosidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurdiana_rosidi@moe.edu.sg</a>
