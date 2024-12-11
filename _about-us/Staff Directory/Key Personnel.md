@@ -229,7 +229,7 @@ variant: tiptap
 <p>21st Century Competencies (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a> 
+<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -277,7 +277,7 @@ variant: tiptap
 <p>Chinese Language (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a> 
+<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
