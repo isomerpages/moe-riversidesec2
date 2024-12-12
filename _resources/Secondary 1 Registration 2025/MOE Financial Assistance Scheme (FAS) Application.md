@@ -25,5 +25,5 @@ the school at 62699631.</p>
 </p>
 <p>For students who have received MOE FAS Approval from your primary school,
 please submit the approval letter to <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> with Subject
-Heading “<em>FAS Approval Lette</em>r” and indicating your contact number
+Heading “<em>FAS Approval Lette</em>r” and indicate your contact number
 in the email. You do not need to submit the application form.</p>
