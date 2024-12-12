@@ -5,20 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Registration 2025
 ---
-<p>Parents who are appealing for transfer due to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Serious Medical Conditions</p>
-</li>
-</ol>
-<p>Please refer to MOE's&nbsp;<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">website</a>&nbsp;for
-further information</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>For Other Reasons</p>
-</li>
-</ol>
-<p>Kindly submit an appeal <strong><u>NEED LINK</u></strong> by 22<sup>nd</sup> Dec
-2024, 5PM. Your child’s PSLE score must meet the school’s cut-off point
-(COP). This ensures that the Sec 1 Posting remains fair, transparent and
-objective to all who participated.</p>
+<p>Students who wish to appeal to transfer into Riverside Secondary School
+are to submit an application <a href="https://form.gov.sg/675a3febfd07c46356b528fa" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/675a3febfd07c46356b528fa</a> by
+23<sup>rd</sup> Dec 2024, 5PM. The applicant's PSLE score must meet the
+school’s cut-off point (COP). This ensures that the Sec 1 Posting remains
+fair, transparent and objective to all who participated.</p>
