@@ -355,6 +355,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Brian Nguyen Wei Jieh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:brian_nguyen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brian_nguyen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nurdiana Rosidi</p>
 </td>
 <td rowspan="1" colspan="1">
