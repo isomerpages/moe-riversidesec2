@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher Mathematics</p>
+<p>Lead Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_shaojie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shaojie@moe.edu.sg</a> 
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mdm Haslinda Shafawi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Geography</p>
+<p>Senior Teacher (Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_shafawi@moe.edu.sg</a> 
@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher English / English Literature</p>
+<p>Senior Teacher (English / English Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hesley_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesley_ismail@moe.edu.sg</a> 
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Ms Tang Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Biology</p>
+<p>Senior Teacher (Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
@@ -89,7 +89,7 @@ variant: tiptap
 <p>Senior Teacher (STEM/Lower Sec Science) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a> 
+<p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
