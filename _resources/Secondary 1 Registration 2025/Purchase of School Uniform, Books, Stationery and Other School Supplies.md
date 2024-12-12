@@ -73,9 +73,9 @@ that there may be long queues with longer waiting time.</p>
 <p>Students whose application for financial assistance have been approved
 must make an appointment with school before collecting books and stationery.
 Please contact school via <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> or call
-62699631 during office hours to make an appointment. The tentative dates
-for collection are from 22 Dec to 23 Dec 2024; or from 27 Dec and 30 Dec
-2024, subject to confirmation by school.</p>
+6269 9631 during office hours to make an appointment. The dates for collection
+are on 23 Dec 2024; or from 27 Dec and 30 Dec 2024, subject to confirmation
+by school.</p>
 </li>
 </ul>
 <p><u>Cancellation/ Exchange Policy</u>
