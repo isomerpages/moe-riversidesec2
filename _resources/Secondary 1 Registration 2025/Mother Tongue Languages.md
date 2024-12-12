@@ -38,7 +38,7 @@ Tongue starting in Secondary 2. Please encourage your child to continue
 putting effort into Mother Tongue Language.</p>
 <p><u>(II) Third Language</u>
 <br>Eligible students who have applied will be notified of their application
-outcome through Parents Gateway on&nbsp;21<sup>st</sup> December 2024.</p>
+outcome through Parents Gateway on&nbsp;19<sup>th</sup> December 2024.</p>
 <p>Successful applicants assigned to Malay Special Programme (MSP)/ Chinese
 Special Programme (CSP) zonal centres or Ministry of Education Language
 Center (MOELC) should refer to the respective zonal centre or MOELC website
