@@ -24,7 +24,7 @@ PSLE
 <br>or</p>
 </li>
 <li>
-<p>Students with an overall PSLE score of 9 to 14 (inclusive) and obtained
+<p>Students with an overall PSLE score of 9 to 14 (inclusive) and attained
 AL1/AL2 in MTL or Distinction/Merit in HMTL</p>
 </li>
 </ul>
