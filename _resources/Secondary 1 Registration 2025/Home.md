@@ -14,7 +14,7 @@ learning, self-discovery, leadership, and service to the community.</p>
 <p>Please note that the Secondary One Registration process is fully online.
 There is no need to visit the school in person for registration. The primary
 contact for your child will receive a notification via Parents Gateway
-(PG) starting 21<sup>st</sup> December 2024&nbsp;. To complete the registration,
+(PG) starting 19<sup>th</sup> December 2024&nbsp;. To complete the registration,
 please acknowledge the PG notification by 24<sup>th</sup>&nbsp;December
 2024, 11:00am.</p>
 <p>If you require any assistance, please call the school at 6269 9631 during
