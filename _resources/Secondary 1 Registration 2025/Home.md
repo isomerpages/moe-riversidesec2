@@ -22,5 +22,3 @@ office hours or email to <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener 
 <p>Yours sincerely,
 <br>Ms Tham Yoke Chun
 <br>Principal</p>
-<p>&nbsp;</p>
-<p>S1 Posting is released on 18 Dec.</p>
