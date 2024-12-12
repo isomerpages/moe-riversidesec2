@@ -43,7 +43,7 @@ Alternatively, parents can collect the purchased books and stationery from
 the school between 27<sup>th</sup> Dec and 29<sup>th</sup> Dec 2024.</p>
 </li>
 <li>
-<p>Please note that the last date for online purchase is tentatively 24<sup>th</sup> December
+<p>Please note that the last date for online purchase is 24<sup>th</sup> December
 2024.</p>
 </li>
 <li>
