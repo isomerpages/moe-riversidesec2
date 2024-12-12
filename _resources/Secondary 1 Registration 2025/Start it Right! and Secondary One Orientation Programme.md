@@ -14,7 +14,7 @@ third_nav_title: Secondary 1 Registration 2025
     <tbody>
         <tr>
             <td>&nbsp;</td>
-            <td><strong>Start it right!</strong></td>
+            <td><strong>Start it Right!</strong></td>
             <td><strong>Secondary One Orientation Programme</strong></td>
         </tr>
         <tr>
@@ -34,7 +34,7 @@ third_nav_title: Secondary 1 Registration 2025
         <tr>
             <td style="border-bottom: none;"><strong>Attire</strong></td>
             <td style="border-bottom: none;">School Uniform with black shoes and black socks</td>
-            <td style="border-bottom: none;">PE Attire</td>
+            <td style="border-bottom: none;">PE Attire – PE shirt and PE shorts with black shoes and black socks</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -58,7 +58,7 @@ third_nav_title: Secondary 1 Registration 2025
         <tr>
             <td><strong>Things to bring</strong></td>
             <td colspan="2">
-										• Writing materials<br>
+										• Writing materials and notebook<br>
                     • Water bottle<br>
                     • A storybook<br>
                     • Money for recess breaks
