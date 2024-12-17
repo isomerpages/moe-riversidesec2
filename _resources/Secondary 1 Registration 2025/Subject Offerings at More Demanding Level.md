@@ -65,7 +65,7 @@ at a more demanding level on&nbsp;19<sup>th</sup> December 2024, 12.00 pm.&nbsp;
 <p>Do&nbsp;consider discussing with your&nbsp;child/ward&nbsp;what FSBB entails
 and to&nbsp;strongly encourage them to accept the offer.&nbsp;</p>
 <p>Parents/legal guardians will be required to respond through the PG consent
-forms by&nbsp;24<sup>th</sup> December 2024, 12:00am.</p>
+forms by&nbsp;24<sup>th</sup> December 2024, 12:00 pm.</p>
 <p>Do remember to purchase the correct learning resources, if you are unsure
 of the level (G1, G2 or G3) your child/ward is taking for a particular
 subject, please do not write their name on the purchased books yet.</p>
