@@ -2,8 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Secondary 1 Registration 2025/Sec 1 Parents Engagement Session.md
-      - Secondary 1 Registration 2025/	Sec 1 Parents Engagement Session.md
+      - Secondary 1 Registration 2025/.keep
       - Secondary 1 Registration 2025/Home.md
       - Secondary 1 Registration 2025/Subject Offerings at More Demanding
         Level.md
@@ -15,8 +14,9 @@ collections:
       - Secondary 1 Registration 2025/Appeal To Transfer Into Riverside.md
       - Secondary 1 Registration 2025/Start it Right! and Secondary One
         Orientation Programme.md
+      - Secondary 1 Registration 2025/Sec 1 Parents Engagement Session.md
       - Secondary 1 Registration 2025/Other Enquiries.md
-      - Secondary 1 Registration 2025/.keep
+      - Secondary 1 Registration 2025/	Sec 1 Parents Engagement Session.md
       - School Calendar.md
       - Achievements/National Examinations.md
       - Achievements/.keep
