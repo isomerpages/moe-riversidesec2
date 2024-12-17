@@ -31,7 +31,7 @@ AL1/AL2 in MTL or Distinction/Merit in HMTL</p>
 <p>For students who are eligible (meet MOE's criteria) to offer HMTL, the
 MOE HMTL option form will be sent via Parents Gateway. Parents/legal guardians
 will be required to respond through the PG consent forms by&nbsp;24<sup>th</sup> December
-2024, 12:00am.</p>
+2024, 12:00 pm.</p>
 <p><u>Students who are successful in their Third Language application</u>
 </p>
 <p>Students who are successful in their Third Language application, including
