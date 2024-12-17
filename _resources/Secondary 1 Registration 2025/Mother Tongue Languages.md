@@ -31,17 +31,16 @@ AL1/AL2 in MTL or Distinction/Merit in HMTL</p>
 <p>For students who are eligible (meet MOE's criteria) to offer HMTL, the
 MOE HMTL option form will be sent via Parents Gateway. Parents/legal guardians
 will be required to respond through the PG consent forms by&nbsp;24<sup>th</sup> December
-2024, 11:00am.</p>
-<p>Students who perform well in G3 MTL during Secondary 1 and show a strong
-interest in the subject will have the opportunity to take Higher Mother
-Tongue starting in Secondary 2. Please encourage your child to continue
-putting effort into Mother Tongue Language.</p>
-<p><u>(II) Third Language</u>
-<br>Eligible students who have applied will be notified of their application
-outcome through Parents Gateway on&nbsp;19<sup>th</sup> December 2024.</p>
-<p>Successful applicants assigned to Malay Special Programme (MSP)/ Chinese
-Special Programme (CSP) zonal centres or Ministry of Education Language
-Center (MOELC) should refer to the respective zonal centre or MOELC website
-for registration instructions to accept their offer. Students who do not
-register by the specified deadline will have their spots reallocated to
-applicants on the waiting list.</p>
+2024, 12:00am.</p>
+<p><u>Students who are successful in their Third Language application</u>
+</p>
+<p>Students who are successful in their Third Language application, including
+Malay Special Programme (MSP)/ Chinese Special Programme (CSP), will be
+notified through Parents Gateway on 19<sup>th</sup> December 2024, 12.00
+pm.</p>
+<p>Successful applicants should refer to the MOELC website (<a href="https://www.moelc.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>)
+for registration instructions to accept their offer.</p>
+<p>Students who do not register by the deadline specified on the MOELC website
+will have their spots reallocated to applicants on the waiting list.
+<br>
+</p>
