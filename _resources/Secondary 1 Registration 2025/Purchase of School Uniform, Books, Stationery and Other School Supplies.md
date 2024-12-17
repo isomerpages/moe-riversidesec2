@@ -74,8 +74,7 @@ that there may be long queues with longer waiting time.</p>
 must make an appointment with school before collecting books and stationery.
 Please contact school via <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> or call
 6269 9631 during office hours to make an appointment. The dates for collection
-are on 23 Dec 2024; or from 27 Dec and 30 Dec 2024, subject to confirmation
-by school.</p>
+are 27 Dec or 30 Dec 2024, subject to confirmation by school.</p>
 </li>
 </ul>
 <p><u>Cancellation/ Exchange Policy</u>
