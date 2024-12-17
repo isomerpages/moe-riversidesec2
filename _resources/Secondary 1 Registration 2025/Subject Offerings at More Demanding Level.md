@@ -10,13 +10,12 @@ nurture the joy of learning and develop multiple pathways to cater to the
 different strengths and interests of our students.</p>
 <p>With FSBB, we are moving towards a secondary school education where students
 learn each subject at the level that best caters to their overall strengths,
-interests and learning needs. Under FSBB, there will no longer be separate
-Express, N(A), and N(T) streams, and students will be in mixed form classes
-where they can interact with peers of different strengths and interests.</p>
-<p>At the start of Secondary One, eligible students can offer&nbsp;English
-Language, Mother Tongue Languages, Mathematics and Science&nbsp;at a more
-demanding level based on their PSLE Achievement Level (AL) for each of
-these subjects.</p>
+interests and learning needs.</p>
+<p>Eligible students can offer&nbsp;<strong>English Language, Mother Tongue Languages, Mathematics and Science</strong>&nbsp;at
+a more demanding level based on their PSLE Achievement Level (AL) for each
+of these subjects.</p>
+<p></p>
+<p></p>
 <p>Please refer to MOE’s <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html" rel="noopener noreferrer nofollow" target="_blank">website</a> for
 further information on Full SBB.</p>
 <p><u>For eligible students ONLY</u>
