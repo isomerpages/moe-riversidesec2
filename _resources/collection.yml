@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
-      - Secondary 1 Registration 2025/Third Language.md
       - Secondary 1 Registration 2025/.keep
       - Secondary 1 Registration 2025/Home.md
       - Secondary 1 Registration 2025/Subject Offerings at More Demanding
         Level.md
       - Secondary 1 Registration 2025/Mother Tongue Languages.md
+      - Secondary 1 Registration 2025/Third Language.md
       - Secondary 1 Registration 2025/Purchase of School Uniform, Books,
         Stationery and Other School Supplies.md
       - Secondary 1 Registration 2025/MOE Financial Assistance Scheme (FAS)
