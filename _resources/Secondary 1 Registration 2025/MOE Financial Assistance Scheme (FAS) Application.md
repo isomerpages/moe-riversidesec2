@@ -17,7 +17,9 @@ you can download the MOE FAS application form <a href="https://www.moe.gov.sg/fi
 collect a copy from the General Office. You can submit the completed form
 with all required supporting documents at the General Office between 9.00
 am and 4.00 pm, on Mondays to Fridays (excluding public holidays and eve
-of public holidays).</p>
+of public holidays). For FAS applicants to receive their textbooks and
+uniforms before the start of the school year, please submit the FAS application
+by 23<sup>rd</sup> December 2024, 5.00 pm.</p>
 <p>Parents/ guardians will be notified of the outcome via phone and email.
 If you do not receive any call or email after 3 working days, please contact
 the school at 62699631.</p>
