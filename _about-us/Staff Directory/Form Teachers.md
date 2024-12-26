@@ -89,21 +89,6 @@ variant: tiptap
 <p>Sec 1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Hui Shi</p>
-<p>Mr Chua Kok Weng Lawrance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_hui_shi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_hui_shi_a@moe.edu.sg</a>
-</p>
-<p><a href="mailto:chua_kok_weng_lawrance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kok_weng_lawrance@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Natrah</p>
 <p></p>
 <p>Mr Alvin Chua</p>
@@ -113,6 +98,18 @@ variant: tiptap
 </p>
 <p></p>
 <p><a href="mailto:chua_zhen_tao_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_zhen_tao_alvin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Pey Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_pey_yi@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -346,7 +343,7 @@ variant: tiptap
 <p>Ms Sheron Abraham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a> 
+<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a>
 </p>
 <p></p>
 <p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheron_abraham_joseph@moe.edu.sg</u></a>
@@ -431,7 +428,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khairunisa_johari@moe.edu.sg</a>
 </p>
-<p><a href="mailto:yeo_gim_sng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_gim_sng@moe.edu.sg</a> 
+<p><a href="mailto:yeo_gim_sng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_gim_sng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
