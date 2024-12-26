@@ -196,7 +196,7 @@ host and share with our prospective primary six parents.</p>
 <img style="width:85%" height="auto" width="100%" src="/images/psg-9%20.png">
 </div>
 <p></p>
-<h4><strong>PSG Executive Committee 2024</strong></h4>
+<h4><strong>PSG Executive Committee 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -213,9 +213,7 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cecile Lim
-<br>
-</p>
+<p>Mdm Lenny Surianie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -223,7 +221,7 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Phua Heng Jone</p>
+<p>Mr Lee Choon Tuck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -231,9 +229,7 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lenny Surianie
-<br>
-</p>
+<p>Ms Tan Su Hui Andrea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -249,14 +245,6 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chu May Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Yoon Myint Moh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -265,7 +253,7 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Linda Lim</p>
+<p>Mdm Linda Lim Sai Huay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
@@ -273,7 +261,23 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Choon Tuck</p>
+<p>Mdm Gwen Tok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Grace Concepcion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EXCO Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Shun Vui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
