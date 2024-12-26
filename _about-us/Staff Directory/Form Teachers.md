@@ -295,8 +295,163 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Secondary 3</h3>
+<p><strong>Year Head: Mr Alvin Cai</strong> (<a href="mailto:cai_gaoyong_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_gaoyong_alvin@moe.edu.sg</a>)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Wee Soo</p>
+<p></p>
+<p>Mdm Nurdiana Rosidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
+</p>
+<p></p>
+<p><a href="mailto:nurdiana_rosidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurdiana_rosidi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Lee</p>
+<p></p>
+<p>Ms Sheron Abraham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a> 
+</p>
+<p></p>
+<p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheron_abraham_joseph@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Synergy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Brian Nguyen</p>
+<p></p>
+<p>Ms Nurul Izzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:brian_nguyen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brian_nguyen@moe.edu.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_izzah_mohamad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Passion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Aisyah</p>
+<p></p>
+<p>Ms Kor Jia Her</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_aisyah_gersali@moe.edu.sg</u></a> 
+<br><a href="mailto:kor_jia_her@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_jia_her@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee - Chua Jingyi Alister</p>
+<p></p>
+<p>Mr Hafidz Azmin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_jingyi_alister@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_jingyi_alister@moe.edu.sg</u></a>
+</p>
+<p></p>
+<p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammad_hafidz_azmin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee-Gan Yen Ping</p>
+<p></p>
+<p>Mrs Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gan_yen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gan_yen_ping@moe.edu.sg</u></a>
+</p>
+<p></p>
+<p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sundaresan_muthuselvi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Innovation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Khairunisa</p>
+<p></p>
+<p>Mr Yeo Gim Sng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khairunisa_johari@moe.edu.sg</a>
+</p>
+<p><a href="mailto:yeo_gim_sng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_gim_sng@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Tenacity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Wai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Secondary 4 &amp; 5</h3>
-<p>Assistant Year Head: Ms Cindy Chai (<a href="mailto:chai_chang_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_chang_wei@moe.edu.sg</a>)</p>
+<p><strong>Assistant Year Head: Ms Cindy Chai</strong> (<a href="mailto:chai_chang_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_chang_wei@moe.edu.sg</a>)</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -468,180 +623,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Secondary 4 &amp; 5</h3>
-<p>Year Head: Mr Alvin Cai (<a href="mailto:cai_gaoyong_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cai_gaoyong_alvin@moe.edu.sg</a>)</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee-Gan Yen Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gan_yen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yen_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Service</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Aisyah</p>
-<p>Mr Joel Lee
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_gersali@moe.edu.sg</a>
-</p>
-<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Synergy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Goh - Thum Beryl</p>
-<p>Mr Russell Lim
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:beryl_thum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beryl_thum@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:lim_tse_jiang_russell@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tse_jiang_russell@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Passion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee - Chua Jingyi Alister</p>
-<p>Mdm Natasha Imran
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_jingyi_alister@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jingyi_alister@moe.edu.sg</a> 
-<br>
-<br><a href="mailto:natasha_imran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_imran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Xing Yu
-<br>
-</p>
-<p>Mrs Kumar
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_xing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xing_yu@moe.edu.sg</a>
-</p>
-<p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sheron Abraham</p>
-<p>Mr Ho Weng Lun
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheron_abraham_joseph@moe.edu.sg</a>
-</p>
-<p><a href="mailto:ho_weng_lun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_weng_lun@moe.edu.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Liao Jun Jie</p>
-<p>Mdm Nur Khairunisa
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liao_junjie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liao_junjie@moe.edu.sg</a>
-</p>
-<p><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khairunisa_johari@moe.edu.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Tenacity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tang Wai Yin</p>
-<p>Mdm Julaiha
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
-</p>
-<p><a href="mailto:julaiha_kumaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_kumaron@moe.edu.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 5-1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr John Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kok_wai_john@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3></h3>
 <p></p>
