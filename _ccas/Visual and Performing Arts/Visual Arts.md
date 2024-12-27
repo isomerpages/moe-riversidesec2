@@ -3,7 +3,9 @@ title: Visual Arts
 permalink: /co-curriculum/co-curricular-activities/visual-and-performing-arts/visual-arts/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
+*This CCA will not be offered to Sec 1s from 2024
 ### Aims
 
 Visual Arts aims to:  
