@@ -3,7 +3,9 @@ title: Football
 permalink: /co-curriculum/co-curricular-activities/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
+*This CCA will not be offered to Sec 1s from 2025.
 ### Aims
 
 Football aims to:  
