@@ -212,7 +212,7 @@ variant: tiptap
 <p>Sec 2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kavita Amara Joyce</p>
+<p>Mdm Kavita</p>
 <p></p>
 <p>Mr Ho Weng Lun</p>
 </td>
@@ -244,7 +244,7 @@ variant: tiptap
 <p>Sec 2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Kok Weng Lawrance</p>
+<p>Mr Lawrance Chua</p>
 <p></p>
 <p>Ms Goh Hui Shi</p>
 </td>
@@ -374,11 +374,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Aisyah</p>
 <p></p>
+<p></p>
 <p>Ms Kor Jia Her</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_aisyah_gersali@moe.edu.sg</u></a> 
-<br><a href="mailto:kor_jia_her@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_jia_her@moe.edu.sg</a>
+<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_aisyah_gersali@moe.edu.sg</u></a>
+</p>
+<p><a href="mailto:kor_jia_her@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_jia_her@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -527,7 +529,7 @@ variant: tiptap
 <p>Sec 4 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Albert Teo Gui Xiong</p>
+<p>Mr Albert Teo</p>
 <p></p>
 <p>Mdm Arockiadoss Fatima Sahayarani</p>
 </td>
