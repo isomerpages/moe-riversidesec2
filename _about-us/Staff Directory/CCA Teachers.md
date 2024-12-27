@@ -33,13 +33,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lawrance Chua (1st IC)</p>
-<p>Mdm Nurdiana Rosidi (2nd IC)</p>
+<p></p>
+<p>Ms Nurul Izzah (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_kok_weng_lawrance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kok_weng_lawrance@moe.edu.sg</a>
 </p>
-<p>
-<br><a href="mailto:nurdiana_rosidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurdiana_rosidi@moe.edu.sg</a>
+<p></p>
+<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -49,13 +50,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Min Huey (1st IC)</p>
-<p>Mdm Tan Xing Yu (2nd IC)</p>
+<p>Mrs Goh - Thum Beryl (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 </p>
-<p>
-<br><a href="mailto:tan_xing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xing_yu@moe.edu.sg</a>
+<p></p>
+<p><a href="mailto:beryl_thum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>beryl_thum@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -64,14 +65,15 @@ variant: tiptap
 <p>Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Pang (1st IC)</p>
-<p>Ms Sheron Abraham (2nd IC)</p>
+<p>Ms Sheron Abraham (1st IC)</p>
+<p></p>
+<p>Mr Jerry Lim (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_zihao_joshua_timothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_zihao_joshua_timothy@moe.edu.sg</a>
+<p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheron_abraham_joseph@moe.edu.sg</a>
 </p>
-<p>
-<br><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheron_abraham_joseph@moe.edu.sg</a>
+<p></p>
+<p><a href="mailto:lim_jia_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_jia_hui_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -81,21 +83,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr John Yap (IC)</p>
-<p></p>
-<p></p>
-<p>Mr Russell Lim
-<br>
-</p>
-<p>Mr Jerry Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_kok_wai_john@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:lim_tse_jiang_russell@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tse_jiang_russell@moe.edu.sg</a>
-<br>
-</p>
-<p><a href="mailto:lim_jia_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_hui_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -277,7 +267,7 @@ variant: tiptap
 <br>
 <br><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
 </p>
-<p><a href="mailto:kock_si_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kock_si_peng@moe.edu.sg</a> 
+<p><a href="mailto:kock_si_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kock_si_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -430,13 +420,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_tse_jiang_russell@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tse_jiang_russell@moe.edu.sg</a>
 </p>
-<p><a href="mailto:lim_ding_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ding_han@moe.edu.sg</a> 
+<p><a href="mailto:lim_ding_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ding_han@moe.edu.sg</a>
 </p>
 <p></p>
 <p><a href="mailto:toh_siew_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_siew_hoon@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:law_yue_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_yue_tian@moe.edu.sg</a> 
+<p><a href="mailto:law_yue_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_yue_tian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
