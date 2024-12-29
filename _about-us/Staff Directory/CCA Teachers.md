@@ -167,11 +167,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Hafidz Azmin (1st IC)</p>
 <p>Mr Ho Weng Lun (2nd IC)</p>
+<p>Mr Desmond Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hafidz_azmin@moe.edu.sg</a>
 </p>
 <p><a href="mailto:ho_weng_lun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_weng_lun@moe.edu.sg</a>
+</p>
+<p><a href="mailto:chee_chye_leng_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_chye_leng_desmond@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -196,14 +199,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joel Lee (1st IC)</p>
-<p>Mrs Amuthum Saravana Kumar (2nd IC)
+<p>Ms Natasha Nadia (2nd IC)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a>
 </p>
-<p><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amutham_saravana_kumar@moe.edu.sg</a>
+<p><a href="mailto:natasha_nadia_razman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natasha_nadia_razman@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
