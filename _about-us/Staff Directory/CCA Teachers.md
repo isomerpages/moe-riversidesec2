@@ -50,6 +50,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Min Huey (1st IC)</p>
+<p></p>
 <p>Mrs Goh - Thum Beryl (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,6 +120,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jamie Chong (1st IC)</p>
+<p></p>
 <p>Mr Shannon Ling (2nd IC)
 <br>
 </p>
