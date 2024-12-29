@@ -119,7 +119,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jamie Chong (1st IC)</p>
-<p>Ms Lim Hui Hung (2nd IC)
+<p>Mr Shannon Ling (2nd IC)
 <br>
 </p>
 <p>Mdm Julaiha</p>
@@ -127,7 +127,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_jamie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jamie@moe.edu.sg</a>
 </p>
-<p><a href="mailto:lim_hui_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_hung@moe.edu.sg</a> 
+<p></p>
+<p><a href="mailto:lim_hui_hung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_shannon@moe.edu.sg</a> 
 <br>
 </p>
 <p><a href="mailto:julaiha_kumaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_kumaron@moe.edu.sg</a>
