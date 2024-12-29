@@ -63,7 +63,7 @@ variant: tiptap
 <p><a href="mailto:beryl_thum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>beryl_thum@moe.edu.sg</u></a>
 </p>
 <p></p>
-<p><a href="mailto:natasha_nadia_razman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_nadia_razman@schools.gov.sg</a>
+<p><a href="mailto:natasha_nadia_razman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_nadia_razman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
