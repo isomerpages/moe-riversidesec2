@@ -389,7 +389,7 @@ variant: tiptap
 <p>Sec 3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee - Chua Jingyi Alister</p>
+<p>Mrs Alister Lee - Chua</p>
 <p></p>
 <p>Mr Hafidz Azmin</p>
 </td>
