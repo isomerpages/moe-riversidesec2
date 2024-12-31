@@ -338,23 +338,6 @@ variant: tiptap
 <p>Sec 3 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Lee</p>
-<p></p>
-<p>Ms Sheron Abraham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheron_abraham_joseph@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Synergy</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Brian Nguyen</p>
 <p></p>
 <p>Ms Nurul Izzah</p>
@@ -369,7 +352,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Passion</p>
+<p>Sec 3 Synergy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Aisyah</p>
@@ -386,24 +369,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Integrity</p>
+<p>Sec 3 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alister Lee - Chua</p>
-<p></p>
-<p>Mr Hafidz Azmin</p>
+<p>Ms Tang Wai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_jingyi_alister@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_jingyi_alister@moe.edu.sg</u></a>
-</p>
-<p></p>
-<p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammad_hafidz_azmin@moe.edu.sg</u></a>
+<p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.eu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Responsibility</p>
+<p>Sec 3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lee-Gan Yen Ping</p>
@@ -415,6 +393,23 @@ variant: tiptap
 </p>
 <p></p>
 <p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sundaresan_muthuselvi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Lee</p>
+<p></p>
+<p>Ms Sheron Abraham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheron_abraham_joseph@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -439,10 +434,15 @@ variant: tiptap
 <p>Sec 3 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Wai Yin</p>
+<p>Mrs Alister Lee - Chua</p>
+<p></p>
+<p>Mr Hafidz Azmin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
+<p><a href="mailto:chua_jingyi_alister@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_jingyi_alister@moe.edu.sg</u></a>
+</p>
+<p></p>
+<p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammad_hafidz_azmin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
