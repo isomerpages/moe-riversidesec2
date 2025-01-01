@@ -361,7 +361,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:brian_nguyen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brian_nguyen@moe.edu.sg</a>
+<p><a href="mailto:nguyen_wei_jieh_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nguyen_wei_jieh_brian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
