@@ -4,7 +4,61 @@ permalink: /resources/schoolcalendar/
 variant: tiptap
 description: ""
 ---
-<h2>Key School Events</h2>
+<h2>MOE School Calendar</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Semester 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu 2 Jan<sup> </sup>to Fri 14 Mar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon 24 Mar to Fri 30 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Semester 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon 30 Jun to Fri 5 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon 15 Sep to Fri 21 Nov (for students taking the O Level examinations)</p>
+<p></p>
+<p>Mon 15 Sep to Fri 24 Oct (for all other students)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>School Events</h2>
 <h4>2025 Term 1</h4>
 <table style="minWidth: 75px">
 <colgroup>
