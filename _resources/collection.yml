@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - School Calendar.md
+      - Acadamic Calendar.md
       - Achievements/.keep
       - Achievements/National Examinations.md
       - Achievements/Academic Achievements.md
