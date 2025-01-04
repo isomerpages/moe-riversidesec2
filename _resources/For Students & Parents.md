@@ -8,41 +8,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Principal_s_Letter__2024_Term_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 (All levels)</a>
+<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_1.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 (All Levels)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_2_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 (Sec 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_2_S2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 (Sec 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_2_S3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 (Sec 3)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_2_S4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 (Sec 4 &amp; 5)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_3__S1_3__28_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 (Sec 1 to 3)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_3__S4_5__28_Jun.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 (Sec 4 &amp; 5)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_4__S1_3__11_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 4 (Sec 1 to 3)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Termly Letters/Principal_s_letter_Term_4__S45__11_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 4 (Sec 4 &amp; 5)</a>
-</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Purchase of School Uniform &amp; Textbook</strong>
