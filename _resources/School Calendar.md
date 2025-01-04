@@ -5,6 +5,162 @@ variant: tiptap
 description: ""
 ---
 <h2>Key School Events</h2>
+<h4>2025 Term 1</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term/Week</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 3 Jan</p>
+<p>6 – 7 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start it Right Programme</p>
+<p></p>
+<p>Secondary 1 Orientation Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of 2024 GCE O-Levels results</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 CCA Fair</p>
+<p></p>
+<p>Sec 1 Parent Engagement Session (face-to-face)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lunar New Year Celebrations</p>
+<p><em>(Students will be dismissed early)</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 - 30 Jan</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lunar New Year holiday</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-based Learning Day (HBL Day)</p>
+<p></p>
+<p><em>(Students do not need to report to school)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commemoration of Total Defence Day</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Home-based Learning Day (HBL Day)</p>
+<p></p>
+<p><em>(Students do not need to report to school)</em>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/7</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 - 5 Parent Engagement Session (online)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1/8 - 1/9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Feb – 7 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment 1</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2024 Term 4</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -546,206 +702,6 @@ for Sec 1, 2 &amp; 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 &amp; 5 Supplementary Lessons</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<h4>2024 Term 1</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Term/Week</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Activity</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 – 3 Jan</p>
-<p>4 – 5 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start it Right Programme</p>
-<p></p>
-<p>Secondary 1 Orientation Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Parents Engagement Session &amp; CCA Fair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 – 15 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Release of 2023 GCE O-Levels results</p>
-<p></p>
-<p><em>(Exact date to be confirmed)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-<p></p>
-<p><em>(Students do not need to report to school)</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 – 8 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Riverside Integrated Skills Experience I &nbsp;(RISE I): Sec 3 Cohort
-Camp</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 – 8 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Riverside Integrated Skills Experience I (RISE I): Learning Activities
-for Sec 1, 2, 4 &amp; 5</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lunar New Year Celebrations</p>
-<p><em>(Students will be dismissed early)</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Feb</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lunar New Year holiday</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 – 12 Feb</p>
-<p></p>
-<p>13 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lunar New Year holiday</p>
-<p></p>
-<p>School holiday</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Total Defence Day</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/8</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19 Feb – 23 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-<p></p>
-<p><em>(Students do not need to report to school)</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 Feb – 1 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment 1</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
