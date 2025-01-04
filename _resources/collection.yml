@@ -2,6 +2,14 @@ collections:
   resources:
     output: true
     order:
+      - School Calendar.md
+      - Achievements/.keep
+      - Achievements/National Examinations.md
+      - Achievements/Academic Achievements.md
+      - Achievements/CCA Achievements.md
+      - Advertisements.md
+      - Direct School Admission.md
+      - e–Publications.md
       - Secondary 1 Registration 2025/.keep
       - Secondary 1 Registration 2025/Home.md
       - Secondary 1 Registration 2025/Subject Offerings at More Demanding
@@ -17,12 +25,4 @@ collections:
         Orientation Programme.md
       - Secondary 1 Registration 2025/Sec 1 Parents Engagement Session.md
       - Secondary 1 Registration 2025/Other Enquiries.md
-      - School Calendar.md
-      - Achievements/National Examinations.md
-      - Achievements/.keep
-      - Achievements/Academic Achievements.md
-      - Achievements/CCA Achievements.md
-      - Advertisements.md
-      - Direct School Admission.md
-      - e–Publications.md
       - For Students & Parents.md
