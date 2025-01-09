@@ -11,7 +11,7 @@ variant: tiptap
 Ordinary Level (GCE O-Level) examination will be released on <strong>Friday, 10 January 2025, 2.30pm.</strong>
 </p>
 <p></p>
-<p>Students are to report to the <strong>school hall</strong> between <strong>1.30pm to 2.00pm</strong>.
+<p>Students are to report to the <strong>school hall</strong> between <strong>1.45pm to 2.00pm</strong>.
 All students must be dressed in full school uniform with proper school
 shoes and socks. Students are also to ensure that their grooming is in
 line with the school's code of conduct (e.g. no dyed hair).</p>
