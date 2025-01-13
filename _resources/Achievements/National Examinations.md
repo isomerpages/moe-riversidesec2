@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3><strong>Our National Examination Results</strong></h3>
-<h4><strong>2023 GCE O Level Examinations</strong></h4>
+<h4><strong>2024 GCE O Level Examinations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,7 +40,7 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4 Express - 34%</strong>
+<p><strong>Sec 4 Express - 48%</strong>
 </p>
 </td>
 </tr>
