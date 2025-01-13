@@ -15,7 +15,7 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>% Students eligible for post-secondary education</strong>
+<p><strong>% Students eligible for post-secondary education (JC/Polytechnic/ITE)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -24,23 +24,21 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students eligible for JC/Polytechnic/ITE</strong>
+<p><strong>% Students with 5 or more distinctions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4 Express - 99%</strong>
-</p>
-<p><strong>Sec 5 Normal Academic - 100%</strong>
+<p><strong>48%</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students with 5 or more distinctions</strong>
+<p><strong>% Students with 6 or more distinctions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4 Express - 48%</strong>
+<p><strong>32%</strong>
 </p>
 </td>
 </tr>
