@@ -30,7 +30,7 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 Express - 99%</strong>
 </p>
-<p><strong>Sec 5 Normal Academic - 72%</strong>
+<p><strong>Sec 5 Normal Academic - 100%</strong>
 </p>
 </td>
 </tr>
@@ -56,6 +56,16 @@ third_nav_title: Achievements
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>% Students with 3 or more distinctions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>54%</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>% Students eligible for Polytechnic Foundation Programme (PFP)</strong>
 </p>
@@ -70,7 +80,7 @@ third_nav_title: Achievements
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>93%</strong>
+<p><strong>94%</strong>
 </p>
 </td>
 </tr>
