@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3><strong>Our National Examination Results</strong></h3>
-<h4><strong>2023 GCE O Level Examinations</strong></h4>
+<h4><strong>2024 GCE O Level Examinations</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -15,7 +15,7 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>% Students eligible for post-secondary education</strong>
+<p><strong>% Students eligible for post-secondary education (JC/Polytechnic/ITE)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -24,23 +24,21 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students eligible for JC/Polytechnic/ITE</strong>
+<p><strong>% Students with 5 or more distinctions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4 Express - 99%</strong>
-</p>
-<p><strong>Sec 5 Normal Academic - 72%</strong>
+<p><strong>48%</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students with 5 or more distinctions</strong>
+<p><strong>% Students with 6 or more distinctions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4 Express - 34%</strong>
+<p><strong>32%</strong>
 </p>
 </td>
 </tr>
@@ -56,6 +54,16 @@ third_nav_title: Achievements
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>% Students eligible for Direct Entry Scheme to Polytechnic Programme (DPP)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>94%</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>% Students eligible for Polytechnic Foundation Programme (PFP)</strong>
 </p>
@@ -66,11 +74,11 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students eligible for Direct Entry Scheme to Polytechnic Programme (DPP)</strong>
+<p><strong>% Students with 3 or more distinctions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>93%</strong>
+<p><strong>54%</strong>
 </p>
 </td>
 </tr>
