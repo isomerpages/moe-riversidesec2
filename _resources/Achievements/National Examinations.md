@@ -55,11 +55,11 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students with 3 or more distinctions</strong>
+<p><strong>% Students eligible for Direct Entry Scheme to Polytechnic Programme (DPP)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>54%</strong>
+<p><strong>94%</strong>
 </p>
 </td>
 </tr>
@@ -74,11 +74,11 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>% Students eligible for Direct Entry Scheme to Polytechnic Programme (DPP)</strong>
+<p><strong>% Students with 3 or more distinctions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>94%</strong>
+<p><strong>54%</strong>
 </p>
 </td>
 </tr>
