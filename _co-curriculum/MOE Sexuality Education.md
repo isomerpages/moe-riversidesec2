@@ -45,7 +45,7 @@ ones.</p>
 information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<h3>Overview of RIVERSIDE Secondary School’s Sexuality Education Programme for 2025</h3>
+<h3>Overview of Riverside Secondary School’s Sexuality Education Programme for 2025</h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
