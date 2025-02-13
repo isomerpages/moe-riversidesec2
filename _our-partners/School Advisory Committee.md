@@ -16,14 +16,14 @@ and enhances our connections with the larger community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_SAC_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Mr_Jaffar.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_SAC_2.png">
 </div>
-<p></p>
 <h4><strong>Message from our SAC Chairman</strong></h4>
 <p><em>"… Through the leadership of the principal, the dedication and commitment of the teachers and the hard work of the students, the school has become the premier school in the north of Singapore.</em>
 </p>
