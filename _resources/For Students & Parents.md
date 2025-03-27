@@ -11,6 +11,22 @@ variant: tiptap
 <p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_1.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 (All Levels)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S1_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S2_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 2)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S3_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 3)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S4_5_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 4 &amp; 5)</a>
+</p>
+</li>
 </ul>
 <p><strong>Purchase of School Uniform &amp; Textbook</strong>
 </p>
