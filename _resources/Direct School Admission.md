@@ -35,8 +35,7 @@ talented in one of the following DSA talent areas:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1</strong>
-</p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leadership and Uniformed Groups</p>
@@ -58,8 +57,7 @@ and in the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2</strong>
-</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Language and Humanities</p>
@@ -77,8 +75,7 @@ short-film-making etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3</strong>
-</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts</p>
@@ -98,8 +95,7 @@ short-film-making etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4</strong>
-</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Visual Arts, Design and Media</p>
@@ -117,8 +113,7 @@ short-film-making etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
-</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Science, Technology, Engineering and Mathematics</p>
