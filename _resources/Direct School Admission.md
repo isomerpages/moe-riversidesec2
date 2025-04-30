@@ -25,9 +25,7 @@ talented in one of the following DSA talent areas:&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DSA Talent Area</strong>
-</p>
-<p><strong>(offered in Riverside Secondary)</strong>
+<p><strong>DSA Talent Area (offered in Riverside Secondary)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
