@@ -134,6 +134,7 @@ short-film-making etc.</p>
 </table>
 <p></p>
 <h4><strong>&nbsp;Selection Criteria and Process</strong>&nbsp;</h4>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -311,6 +312,7 @@ contexts such as STEM competitions or projects in school/external events
 </li>
 </ul>
 <h4><strong>DSA Timeline</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
