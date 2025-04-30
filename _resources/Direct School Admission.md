@@ -270,8 +270,8 @@ contexts (e.g. competitions, school/public showcases).</p>
 <p>• Applicant must be able to demonstrate strong interest and talent in
 an area of STEM (e.g. robotics/programming, Math and Science), beyond the
 abilities of students in the same age group.</p>
-<p>The school will refer to:</p>
-<p>• School reports - Academic ability and conduct indicated in school reports
+<p>The school will refer to:
+<br>• School reports - Academic ability and conduct indicated in school reports
 and other specific teacher reports.</p>
 <p>• Qualification(s) in robotics/programming (Lego EV3, Mindstorms, Spike
 Prime), e.g., relevant certificates (if any).</p>
