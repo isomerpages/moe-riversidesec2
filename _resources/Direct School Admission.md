@@ -306,7 +306,7 @@ contexts such as STEM competitions or projects in school/external events
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Detailed information can be downloaded from <em><u>Riverside Secondary School 2025 Direct School Admission Information</u></em>.</p>
+<p>Detailed information can be downloaded from <em><a href="/files/Riverside_Secondary_School_2025_Direct_School_Admission_Information__updated_27_April_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Riverside Secondary School 2025 Direct School Admission Information</u></a></em>.</p>
 </li>
 <li>
 <p>Application for DSA-Sec will be through the online DSA-Sec Portal.
