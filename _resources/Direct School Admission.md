@@ -44,8 +44,8 @@ talented in one of the following DSA talent areas:&nbsp;</p>
 <p>Leadership and Character</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<p>• Develop leadership competencies to model, inspire, challenge and enable
+<p>Students will:
+<br>• Develop leadership competencies to model, inspire, challenge and enable
 others to act.</p>
 <p>• Have the opportunities to be systematically developed through the Riverside
 leadership curriculum.</p>
@@ -66,8 +66,8 @@ and in the community.</p>
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<p>• Develop and showcase their diverse talents and to build their interests
+<p>Students will:
+<br>• Develop and showcase their diverse talents and to build their interests
 in different fields of Tamil Arts and Literature such as writing, acting,
 short-film-making etc.</p>
 <p>• Have the opportunities to take part in external competitions.</p>
@@ -86,8 +86,8 @@ short-film-making etc.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<p>• Develop and deepen their knowledge and skills in their talent areas.</p>
+<p>Students will:
+<br>• Develop and deepen their knowledge and skills in their talent areas.</p>
 <p>• Represent the school at competitions.</p>
 <p>• Participate in school and external events.</p>
 <p>• Attend workshops.</p>
@@ -104,8 +104,8 @@ short-film-making etc.</p>
 <p>Media</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<p>• Hone their skills in photography and videography.</p>
+<p>Students will:
+<br>• Hone their skills in photography and videography.</p>
 <p>• Represent the school at competitions.</p>
 <p>• Attend workshops.</p>
 <p>• Support major school events.</p>
@@ -122,8 +122,8 @@ short-film-making etc.</p>
 <p>STEM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will:</p>
-<p>• Enhance their coding literacy.</p>
+<p>Students will:
+<br>• Enhance their coding literacy.</p>
 <p>• Develop problem-solving skills and design solutions to real-world problems.</p>
 <p>• Be developed as stewards of environment and changemakers in sustainability.</p>
 <p>• Represent the school at national robotics competitions.</p>
