@@ -383,5 +383,5 @@ contexts such as STEM competitions or projects in school/external events
 </tr>
 </tbody>
 </table>
-<p>For further enquiries, you may contact us at &nbsp;<a href="riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> or
-62699631 (General Office).</p>
+<p>For further enquiries, you may contact us at <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a> or 62699631
+(General Office).</p>
