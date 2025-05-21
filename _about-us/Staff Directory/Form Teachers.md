@@ -51,7 +51,7 @@ variant: tiptap
 <p><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a> 
+<p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -119,7 +119,7 @@ variant: tiptap
 <p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_pey_yi@moe.edu.sg</u></a>
 </p>
 <p></p>
-<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a><u> </u>
+<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -404,7 +404,7 @@ variant: tiptap
 <p>Ms Chan Wen Qi Janay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.eu.sg</a>
+<p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
 </p>
 <p></p>
 <p><a href="mailto:chan_wen_qi_janay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wen_qi_janay@moe.edu.sg</a>
