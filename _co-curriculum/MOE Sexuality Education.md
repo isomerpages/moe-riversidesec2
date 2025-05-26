@@ -807,7 +807,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Riverside Secondary School, the eTeens programme will be implemented as follows in 2024:</strong>
+<p><strong>At Riverside Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
