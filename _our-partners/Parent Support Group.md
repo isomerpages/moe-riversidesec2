@@ -232,7 +232,7 @@ host and share with our prospective primary six parents.</p>
 <p>Ms Tan Su Hui Andrea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
+<p>EXCO Member</p>
 </td>
 </tr>
 <tr>
