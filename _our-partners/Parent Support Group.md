@@ -9,7 +9,7 @@ of the students through deeper parental involvement in school programmes
 and activities. The PSG also provides a platform for communication and
 networking among parents.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg%20group%20photo%20png.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG_1265.jpg">
 </div>
 <p>Experience the Riverside community by exploring the memorable events held
 by our PSG over the years! From our Riverside Family reunion to our Teachers'
