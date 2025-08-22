@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bannergif2.gif
+      background: /images/20250808_RiversideSec_NDP_06152.jpg
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
