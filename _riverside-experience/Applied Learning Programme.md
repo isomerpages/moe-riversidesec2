@@ -20,12 +20,11 @@ to be agents of change</p>
 <h3>Highlights:</h3>
 <p><u>Riverside Model United Nations (RSMUN)</u>
 </p>
-<p>In 2022, the theme for RSMUN was ‘Building an Inclusive Society’. Students
-assumed the role of prominent figures to discuss contemporary issues relevant
-to the global and local contexts such as meritocracy, race and social class.
-Through the discussions, students came up with resolutions to address these
-issues and gained a better understanding of how they play a part to build
-a more inclusive society in Singapore.</p>
+<p>The 2025 RSMUN theme, <em>“Innovation and Inclusion: Forging a Progressive Nation,”</em> encouraged
+students to engage with timely debates on how technology, sustainability,
+and social integration can move societies forward. Representing key figures,
+they examined both global and local perspectives, formulating resolutions
+that highlighted their role in co-creating Singapore’s progressive future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp1.png">
 </div>
