@@ -26,14 +26,14 @@ to the global and local contexts such as meritocracy, race and social class.
 Through the discussions, students came up with resolutions to address these
 issues and gained a better understanding of how they play a part to build
 a more inclusive society in Singapore.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp3.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp3.png">
 </div>
 <p></p>
