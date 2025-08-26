@@ -4,10 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Tham_PM.jpg">
-</div>
 <p>Since its humble beginnings in 1987, Riverside Secondary School has grown
 to become a choice school in the north with its excellent track record.
 In 2009 and 2015, the school received the prestigious MOE School Distinction
