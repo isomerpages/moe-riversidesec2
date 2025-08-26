@@ -28,6 +28,9 @@ issues and gained a better understanding of how they play a part to build
 a more inclusive society in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp1.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp3.png">
 </div>
 <div class="isomer-image-wrapper">
