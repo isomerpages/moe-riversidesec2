@@ -25,11 +25,13 @@ students to engage with timely debates on how technology, sustainability,
 and social integration can move societies forward. Representing key figures,
 they examined both global and local perspectives, formulating resolutions
 that highlighted their role in co-creating Singapore’s progressive future.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp-2 .png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp3.png">
 </div>
 <p></p>
