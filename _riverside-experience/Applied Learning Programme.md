@@ -36,5 +36,5 @@ that highlighted their role in co-creating Singapore’s progressive future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp2.png">
 </div>
-<p><sup>In a United Nations-style forum, students brought to life the voices of different stakeholders, debating perspectives on social equity, technology, and the challenges of a changing workforce.</sup>
+<p><em><sup>In a United Nations-style forum, students brought to life the voices of different stakeholders, debating perspectives on social equity, technology, and the challenges of a changing workforce.</sup></em>
 </p>
