@@ -21,13 +21,23 @@ foster innovation and video production to enhance their communication skills.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/llp1.png">
 </div>
+<p><em><sup>Secondary 1 students discovered how Generative AI can spark imagination, developing both creative expression and digital confidence through Canva AI.</sup></em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/llp2.png">
 </div>
+<p><em><sup>Through discussions and presentations on gaming addiction, media influence and cyber bullying, our Secondary 2 students built the confidence to be upstanders and advocates for a safer online community.</sup></em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/llp3.png">
 </div>
+<p><em><sup>By practising the Cornell Note-Taking method, students strengthened their ability to take structured and meaningful notes in class.</sup></em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/llp4.png">
 </div>
-<p></p>
+<p><em><sup>During the June holidays, students expanded their digital horizons at Republic Polytechnic, experiencing vibe coding with GitHub Copilot in Microsoft Visual Studio and developing future-ready coding confidence.</sup></em>
+</p>
