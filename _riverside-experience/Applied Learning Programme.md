@@ -31,7 +31,9 @@ that highlighted their role in co-creating Singapore’s progressive future.</p>
 </div>
 <p><em><sub>Executive Director of Project Dignity, Mr Koh Seng Choon, inspired students with his keynote address at RSMUN, highlighting both the struggles and joys of building an inclusive enterprise.</sub></em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp2.png">
 </div>
-<p></p>
+<p><sub>In a United Nations-style forum, students brought to life the voices of different stakeholders, debating perspectives on social equity, technology, and the challenges of a changing workforce.</sub>
+</p>
