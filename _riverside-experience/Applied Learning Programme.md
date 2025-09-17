@@ -2,7 +2,7 @@
 title: Applied Learning Programme
 permalink: /the-riverside-experience/applied-learning-programme/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>Aims:</h3>
 <p>Our Applied Learning Programme, Global Citizenship Education Through Critical
@@ -27,9 +27,14 @@ they examined both global and local perspectives, formulating resolutions
 that highlighted their role in co-creating Singapore’s progressive future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp-2 .png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp1.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp_4.png">
-</div>
+<p style="line-height: 1;"><em><sup>Executive Director of Project Dignity, Mr Koh Seng Choon, inspired students with his keynote address at RSMUN, highlighting both the struggles and joys of building an inclusive enterprise.</sup></em>
+</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Riverside Experience/alp2.png">
+</div>
+<p style="line-height: 1;"><em><sup>In a United Nations-style forum, students brought to life the voices of different stakeholders, debating perspectives on social equity, technology, and the challenges of a changing workforce.</sup></em>
+</p>
