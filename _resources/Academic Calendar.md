@@ -59,7 +59,7 @@ description: ""
 </tbody>
 </table>
 <h2>School Events</h2>
-<h4>2025 Term 1</h4>
+<h4>2025 Term 4</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -83,133 +83,147 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/1</p>
+<p>4/1 to 4/2</p>
+<p>4/4 to 4/5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 – 3 Jan</p>
-<p>6 – 7 Jan</p>
+<p>15 – 25 Sep</p>
+<p>6 – 14 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start it Right Programme</p>
-<p></p>
-<p>Secondary 1 Orientation Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Release of 2024 GCE O-Levels results</p>
+<p>N Level Examinations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/2</p>
+<p>4/2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jan</p>
+<p>26 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 CCA Fair</p>
-<p></p>
-<p>Sec 1 Parent Engagement Session (face-to-face)</p>
+<p>Sec 4 &amp; 5 Graduation Ceremony</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/4</p>
+<p>4/2, 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Jan</p>
+<p>23 Sep - 3 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunar New Year Celebrations</p>
-<p><em>(Students will be dismissed early)</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
+<p>Sec 1 - 3 End-of-Year Examinations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/4</p>
+<p>4/3 to 4/5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 - 30 Jan</p>
-<p>&nbsp;</p>
+<p>1, 6, 9 &amp; 14 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunar New Year holiday</p>
-<p>&nbsp;</p>
+<p>O-Level Science Practical Examinations</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/5</p>
+<p>4/4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Feb</p>
+<p>6 - 7 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-<p></p>
-<p><em>(Students do not need to report to school)</em>
-</p>
+<p>Sec 1 - 3 Student Release Days</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/6</p>
+<p>4/5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Feb</p>
+<p>15 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commemoration of Total Defence Day</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1/7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-<p></p>
-<p><em>(Students do not need to report to school)</em>
-</p>
-<p>&nbsp;</p>
+<p>Sec 1 -3 Promotion Day</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/7</p>
-<p>&nbsp;</p>
+<p>4/5 to 4/9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Feb</p>
+<p>16 Oct - 10 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 - 5 Parent Engagement Session (online)</p>
+<p>O-Level Examinations&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1/8 - 1/9</p>
+<p>4/6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Feb – 7 Mar</p>
+<p>20 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weighted Assessment 1</p>
-<p>&nbsp;</p>
+<p>Deepavali Public Holiday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 - 22 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3 Riverside Integrated Skills Experience II</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last Day of School&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3 Parent-Child-Teacher Conference (for selected students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5 Graduation Night</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4/9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Riverside Open House</p>
 </td>
 </tr>
 </tbody>
