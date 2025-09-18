@@ -212,7 +212,7 @@ description: ""
 <p>12 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5 Graduation Night</p>
+<p>Sec 4 &amp; 5 Graduation Day</p>
 </td>
 </tr>
 <tr>
