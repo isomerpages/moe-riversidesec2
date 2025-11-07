@@ -14,7 +14,7 @@ sections:
       title: THE RIVERSIDIAN
       button: find out more
       url: /student-outcomes/a-future-ready-digital-learner/
-      image: /images/RSS_Student_Outcomes_2.png
+      image: /images/Homepage/Refreshed_Student_Outcomes.png
       alt: Image alt text
   - infobar:
       id: infobar
