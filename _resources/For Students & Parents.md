@@ -60,11 +60,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Purchase_Guide_for_Pacific_Bookstores.pdf" rel="noopener nofollow" target="_blank">Purchase Guide for Pacific Bookstores</a>
+<p><a href="/files/Books &amp; School Uniform/Purchase_Guide_for_Pacific_Bookstores_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Purchase Guide for Pacific Bookstores for Year 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Purchase_of_School_Uniform.pdf" rel="noopener nofollow" target="_blank">Purchase of School Uniform</a>
+<p><a href="/files/Books &amp; School Uniform/Purchase_of_School_Uniform_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Purchase of School Uniform for Year 2026</a>
 </p>
 <p></p>
 </li>
