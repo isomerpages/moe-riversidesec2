@@ -39,28 +39,23 @@ third_nav_title: Secondary 1 Registration 2026
     </tr>
     <tr>
       <td style="border-bottom: none;"><strong>Attire</strong></td>
-      <td style="border-bottom: none;">School Uniform with black shoes and black socks</td>
+      <td style="border-bottom: none;" colspan="2">School Uniform with black shoes and black socks</td>
       <td style="border-bottom: none;">PE Attire – PE shirt and PE shorts with black shoes and black socks</td>
       <td style="border-bottom: none;">&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>
-        
+      <td colspan="2"> 
         <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 1" src="/images/Photo_1.png">
+          <img style="width: 100%;" height="auto" width="100%" alt="Photo 1" src="/images/School_Uniform__Boy_.png">
         </div>
         <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 2" src="/images/Photo_2.png">
+          <img style="width: 100%;" height="auto" width="100%" alt="Photo 2" src="/images/School_Uniform__Girl_.png">
         </div>
       </td>
       <td>
-        
         <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 3" src="/images/Photo_3.png">
-        </div>
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 4" src="/images/Photo_4.png">
+          <img style="width: 100%;" height="auto" width="100%" alt="Photo 3" src="/images/PE_Uniform.png">
         </div>
       </td>
       <td>&nbsp;</td>
