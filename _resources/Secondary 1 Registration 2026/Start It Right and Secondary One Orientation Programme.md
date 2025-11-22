@@ -51,7 +51,7 @@ third_nav_title: Secondary 1 Registration 2026
       <img style="width: 100%; height: 83%; object-fit: contain;" alt="Photo 1" src="/images/S1%20Registration/School_Uniform__Boy_.png">
     </div>
     <div style="flex: 1;" class="isomer-image-wrapper">
-      <img style="width: 100%; height: 100%; object-fit: contain; margin-top: -15px;" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
+      <img style="width: 100%; height: 100%; object-fit: contain; margin-top: -30px;" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
     </div>
   </div>
 </td>
