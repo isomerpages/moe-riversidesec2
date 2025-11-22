@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/document4a_moe%20fas%20pamphet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (English Language)</a>
+<p><a href="/files/MOE FAS/document4a_moe fas pamphet el.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Pamphlet (English Language)</a>
 </p>
 </li>
 <li>
