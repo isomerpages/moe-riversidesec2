@@ -43,23 +43,25 @@ third_nav_title: Secondary 1 Registration 2026
       <td style="border-bottom: none;">PE Attire – PE shirt and PE shorts with black shoes and black socks</td>
       <td style="border-bottom: none;">&nbsp;</td>
     </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td colspan="2"> 
-        <div class="isomer-image-wrapper">
-          <img style="width: 50%;" height="auto" width="50%" alt="Photo 1" src="/images/S1%20Registration/School_Uniform__Boy_.png">
-        </div>
-        <div class="isomer-image-wrapper">
-          <img style="width: 50%;" height="auto" width="50%" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
-        </div>
-      </td>
-      <td>
-        <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
-        </div>
-      </td>
-      <td>&nbsp;</td>
-    </tr>
+<tr>
+  <td>&nbsp;</td>
+  <td colspan="2">
+    <div style="display: flex; gap: 8px;">
+      <div style="flex: 1;" class="isomer-image-wrapper">
+        <img style="width: 100%; height: auto;" alt="Photo 1" src="/images/S1%20Registration/School_Uniform__Boy_.png">
+      </div>
+      <div style="flex: 1;" class="isomer-image-wrapper">
+        <img style="width: 100%; height: auto;" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
+      </div>
+    </div>
+  </td>
+  <td>
+    <div class="isomer-image-wrapper">
+      <img style="width: 100%; height: auto;" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
+    </div>
+  </td>
+  <td>&nbsp;</td>
+</tr>
     <tr>
       <td><strong>Things to bring</strong></td>
       <td colspan="3">
