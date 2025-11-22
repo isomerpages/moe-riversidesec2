@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024%20moe%20fas%20application%20form-riversidess.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a>
+<p><a href="/files/MOE FAS/2024 moe fas application form-riversidess.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a>
 </p>
 </li>
 <li>
