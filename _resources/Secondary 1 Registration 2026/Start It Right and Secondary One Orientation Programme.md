@@ -57,7 +57,7 @@ third_nav_title: Secondary 1 Registration 2026
 </td>
   <td>
     <div class="isomer-image-wrapper">
-      <img style="width: 70%; height: auto;" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
+      <img style="width: 80%; height: auto;" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
     </div>
   </td>
   <td>&nbsp;</td>
