@@ -23,8 +23,8 @@ examination for HMTL in Sec 4.&nbsp;</p>
 </li>
 </ul>
 <p>For students who are eligible (meet MOE's criteria) to offer HMTL, MOE
-HMTL option form will be sent via Parents Gateway. Parents/legal guardians
-will be required to respond through the PG consent forms by&nbsp;24<sup>th</sup>&nbsp;December
+HMTL option form will be sent via Parents Gateway. Parents/guardians will
+be required to respond through the PG consent forms by&nbsp;24<sup>th</sup>&nbsp;December
 2025, 12:00 pm.</p>
 <p>Students who perform well in G3 MTL during Secondary 1 and show a strong
 interest in the subject will have the opportunity to take Higher Mother
