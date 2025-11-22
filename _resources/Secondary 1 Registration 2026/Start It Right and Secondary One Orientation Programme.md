@@ -47,15 +47,15 @@ third_nav_title: Secondary 1 Registration 2026
       <td>&nbsp;</td>
       <td colspan="2"> 
         <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 1" src="/images/School_Uniform__Boy_.png">
+          <img style="width: 100%;" height="auto" width="100%" alt="Photo 1" src="/images/S1%20Registration/School_Uniform__Boy_.png">
         </div>
         <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 2" src="/images/School_Uniform__Girl_.png">
+          <img style="width: 100%;" height="auto" width="100%" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
         </div>
       </td>
       <td>
         <div class="isomer-image-wrapper">
-          <img style="width: 100%;" height="auto" width="100%" alt="Photo 3" src="/images/PE_Uniform.png">
+          <img style="width: 100%;" height="auto" width="100%" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
         </div>
       </td>
       <td>&nbsp;</td>
