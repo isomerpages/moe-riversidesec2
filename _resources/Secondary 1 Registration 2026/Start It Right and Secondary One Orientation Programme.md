@@ -40,7 +40,7 @@ third_nav_title: Secondary 1 Registration 2026
     <tr>
       <td style="border-bottom: none;"><strong>Attire</strong></td>
       <td style="border-bottom: none;" colspan="2">School Uniform with black shoes and black socks</td>
-      <td style="border-bottom: none;">PE Attire – PE shirt and PE shorts with black shoes and black socks</td>
+      <td style="border-bottom: none;">PE Attire</td>
       <td style="border-bottom: none;">&nbsp;</td>
     </tr>
 <tr>
