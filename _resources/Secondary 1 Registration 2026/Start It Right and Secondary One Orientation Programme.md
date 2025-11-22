@@ -7,8 +7,8 @@ third_nav_title: Secondary 1 Registration 2026
 ---
 <table style="border-collapse: collapse; width: 100%; border: 1px solid lightgrey;">
   <colgroup>
-    <col style="border-right: 1px solid lightgrey;">
-    <col style="border-right: 1px solid lightgrey;">
+    <col style="border-right: 0.5px solid lightgrey;">
+    <col style="border-right: 0.5px solid lightgrey;">
     <col style="border-right: 1px solid lightgrey;">
     <col>
   </colgroup>
