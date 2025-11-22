@@ -48,16 +48,16 @@ third_nav_title: Secondary 1 Registration 2026
 <td colspan="2">
   <div style="display: flex; gap: 8px;" class="uniform-pair">
     <div style="flex: 1;" class="isomer-image-wrapper">
-      <img style="width: 100%; height: 85%; object-fit: contain;" alt="Photo 1" src="/images/S1%20Registration/School_Uniform__Boy_.png">
+      <img style="width: 100%; height: 83%; object-fit: contain;" alt="Photo 1" src="/images/S1%20Registration/School_Uniform__Boy_.png">
     </div>
     <div style="flex: 1;" class="isomer-image-wrapper">
-      <img style="width: 100%; height: 100%; object-fit: contain;" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
+      <img style="width: 100%; height: 100%; object-fit: contain; margin-top: -10px;" alt="Photo 2" src="/images/S1%20Registration/School_Uniform__Girl_.png">
     </div>
   </div>
 </td>
   <td>
     <div class="isomer-image-wrapper">
-      <img style="width: 100%; height: auto;" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
+      <img style="width: 80%; height: auto;" alt="Photo 3" src="/images/S1%20Registration/PE_Uniform.png">
     </div>
   </td>
   <td>&nbsp;</td>
