@@ -34,7 +34,7 @@ third_nav_title: Secondary 1 Registration 2026
       <td><strong>Reporting Venue</strong></td>
       <td colspan="3">
         Classroom of the student's form class <br>
-        (Note: You can check your child/ward’s form class via Parents Gateway (PG) on 31 Dec 2025)
+        (Note: You can check your child/ward’s form class via Parents Gateway (PG) on 31<sup>st</sup> Dec 2025)
       </td>
     </tr>
     <tr>
