@@ -1,5 +1,5 @@
 ---
-title: Direct School Admission
+title: Direct School Admission 2025
 permalink: /resources/direct-school-admission/
 description: ""
 variant: tiptap

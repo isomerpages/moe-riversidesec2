@@ -1,9 +1,9 @@
 ---
 title: Other Enquiries
-permalink: /sec-1-registration-2025/other-enquiries/
+permalink: /sec-1-registration-2026/other-enquiries/
 variant: tiptap
 description: ""
-third_nav_title: Secondary 1 Registration 2025
+third_nav_title: Secondary 1 Registration 2026
 ---
 <p>If you have any other questions regarding Sec 1 Registration, you may
 contact the school:</p>

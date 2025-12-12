@@ -73,23 +73,23 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024%20moe%20fas%20application%20form-riversidess.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a>
+<p><a href="/files/MOE FAS/2024 moe fas application form-riversidess.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/document4a_moe%20fas%20pamphet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (English Language)</a>
+<p><a href="/files/MOE FAS/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Pamphlet (English Language)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/moe%20fas%20-%20chinese%20language.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (Chinese Language)</a>
+<p><a href="/files/MOE FAS/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Pamphlet (Chinese Language)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/document4c_moe%20fas%20pamphet%20ml.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (Malay Language)</a>
+<p><a href="/files/MOE FAS/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Pamphlet (Malay Language)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/document4d_moe%20fas%20pamphet%20tl.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE-FAS Pamphlet (Tamil Language)</a>
+<p><a href="/files/MOE FAS/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Pamphlet (Tamil Language)</a>
 </p>
 </li>
 </ul>
@@ -97,7 +97,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet (Year 2025)</a>
+<p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025)</a>
 </p>
 </li>
 <li>
@@ -109,11 +109,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://for.edu.sg/rsshbl2024" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a>
+<p><a href="http://for.edu.sg/rsshbl2025" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a>
 </p>
 </li>
 <li>
-<p><a href="http://for.edu.sg/rssndlp" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a>
+<p><a href="https://sites.google.com/rss.edu.sg/ndlp-riverside/home" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme (NDLP)</a>
 </p>
 </li>
 </ul>
