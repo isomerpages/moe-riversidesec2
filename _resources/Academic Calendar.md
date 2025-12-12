@@ -51,7 +51,7 @@ description: ""
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon 14 Sep to Fri 20 Nov (for students taking the O Level examinations)</p>
+<p>Mon 14 Sep to Fri 20 Nov (for students taking the O-Level examinations)</p>
 <p></p>
 <p>Mon 14 Sep to Fri 23 Oct (for all other students)</p>
 </td>
