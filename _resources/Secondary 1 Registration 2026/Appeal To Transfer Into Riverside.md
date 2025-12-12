@@ -6,5 +6,5 @@ description: ""
 third_nav_title: Secondary 1 Registration 2026
 ---
 <p>Students who wish to appeal to transfer into Riverside Secondary School
-are to submit their application via <a href="https://go.gov.sg/rss-s1-appeal" rel="noopener nofollow" target="_blank">this link</a> by 26<sup>th</sup> Dec
-2025, 12.00 pm.</p>
+are to submit their application via <a href="https://go.gov.sg/rss2026s1" rel="noopener nofollow" target="_blank">this link</a> by 26<sup>th</sup> Dec 2025,
+12.00 pm.</p>
