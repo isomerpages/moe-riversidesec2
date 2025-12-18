@@ -37,7 +37,7 @@ in Secondary 2, so the teacher can provide support and guidance.</p>
 </p>
 <p>Eligible students who have applied will be notified of their application
 outcome through Parents Gateway on 19<sup>th</sup>&nbsp;December 2025,
-12.00 pm.&nbsp;</p>
+6.00 pm.&nbsp;</p>
 <p>Successful applicants assigned to Malay Special Programme (MSP)/ Chinese
 Special Programme (CSP)&nbsp; zonal centres or Ministry of Education Language
 Center (MOELC) should refer to the respective zonal centre or MOELC website
