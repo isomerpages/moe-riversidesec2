@@ -12,7 +12,7 @@ Secondary School.</p>
 <p>Please note that the Secondary One Registration process is fully online.
 There is no need to visit the school in person for registration.</p>
 <p>The primary contact for your child will receive a notification via Parents
-Gateway (PG) on 19<sup>th</sup>&nbsp;December 2025, 12.00 pm.</p>
+Gateway (PG) on 19<sup>th</sup>&nbsp;December 2025, 6.00 pm.</p>
 <p><strong>Please read through the contents and acknowledge the notification by 24<sup>th</sup>&nbsp;December 2025, 12.00 pm, in order to complete the Secondary One Registration process.</strong>
 </p>
 <p>If you require any assistance, please call the school at 6269 9631 during
