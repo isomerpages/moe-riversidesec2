@@ -61,7 +61,7 @@ further information on Full SBB.</p>
 <p><u>For eligible students ONLY</u>
 <br>Parents/guardians will be receiving a&nbsp;Parent Gateway (PG) consent
 form&nbsp;for each subject&nbsp;that your child/ward is eligible to take
-at a more demanding level on&nbsp;19<sup>th</sup> December 2025, 12.00 pm.&nbsp;</p>
+at a more demanding level on&nbsp;19<sup>th</sup> December 2025, 6.00 pm.&nbsp;</p>
 <p>Do&nbsp;consider discussing with your&nbsp;child/ward&nbsp;what FSBB entails
 and to&nbsp;strongly encourage them to accept the offer.&nbsp;</p>
 <p>Parents/guardians will be required to respond through the PG consent
