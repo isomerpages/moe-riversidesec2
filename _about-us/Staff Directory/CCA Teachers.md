@@ -414,7 +414,7 @@ variant: tiptap
 <p></p>
 <p>Mrs Amutham Saravana Kumar (2nd IC)</p>
 <p></p>
-<p>Mr Yeo Gim Sng</p>
+<p>Mr Seiva Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rafidah_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafidah_yusoff@moe.edu.sg</u></a>
@@ -423,7 +423,7 @@ variant: tiptap
 <p><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amutham_saravana_kumar@moe.edu.sg</u></a>
 </p>
 <p></p>
-<p><a href="mailto:yeo_gim_sng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_gim_sng@moe.edu.sg</u></a>
+<p><a href="mailto:seiva_subramaniam_ramiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seiva_subramaniam_ramiah@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -432,15 +432,15 @@ variant: tiptap
 <p>English Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hesley Ismail (1st IC)</p>
+<p>Mdm Wong Yuen Yu (1st IC)</p>
 <p></p>
-<p>Ms Wong Yuen Yu (2nd IC)</p>
+<p>Ms Janay Chan (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hesley_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hesley_ismail@moe.edu.sg</a>
+<p><a href="mailto:wong_yuen_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_yuen_yu@moe.edu.sg</u></a>
 </p>
 <p></p>
-<p><a href="mailto:wong_yuen_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_yuen_yu@moe.edu.sg</u></a>
+<p><a href="mailto:chan_wen_qi_janay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_wen_qi_janay@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -481,7 +481,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kumar (1st IC)</p>
+<p>Mrs Kumar-Sundaresan Muthuselvi (1st IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a>
@@ -495,7 +495,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Natasha (1st IC)</p>
+<p>Mdm Natasha Imran (1st IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natasha_imran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_imran@moe.edu.sg</a>
