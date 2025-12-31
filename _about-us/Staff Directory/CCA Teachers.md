@@ -313,17 +313,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tay Wee Soo (1st IC)</p>
 <p>Ms Chai Suk Ching (2nd IC)</p>
-<p>Ms Eng Jie Ling</p>
 <p>Mr Khoo Eng Wei</p>
+<p>Mr Darren Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_wee_soo@moe.edu.sg</a>
 </p>
 <p><a href="mailto:chai_suk_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_suk_ching@moe.edu.sg</a>
 </p>
-<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a>
-</p>
 <p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a>
+</p>
+<p><a href="mailto:darren_chin_yong_chiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>darren_chin_yong_chiang@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
