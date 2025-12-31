@@ -482,9 +482,7 @@ variant: tiptap
 <p>Mr Joshua Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_a</u></a>
-</p>
-<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>isyah_gersali@moe.edu.sg</u></a>
+<p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_gersali@moe.edu.sg</a>
 </p>
 <p><a href="mailto:pang_zihao_joshua_timothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pang_zihao_joshua_timothy@moe.edu.sg</u></a>
 </p>
