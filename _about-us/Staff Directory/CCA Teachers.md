@@ -218,8 +218,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:natasha_nadia_razman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natasha_nadia_razman@moe.edu.sg</u></a>
 </p>
-<p></p>
-<p><a href="mailto:muhammad_syarqawi_buhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syarqawi_buhari@moe.edu.sg</a>
+<p>
+<br><a href="mailto:muhammad_syarqawi_buhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syarqawi_buhari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
