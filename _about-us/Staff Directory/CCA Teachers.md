@@ -262,7 +262,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_gui_xiong_albert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_gui_xiong_albert@moe.edu.sg</a>
 </p>
-<p><a href="mailto:lim_ding_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ding_han@moe.edu.sg</a>
+<p>
+<br><a href="mailto:lim_ding_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ding_han@moe.edu.sg</a>
 </p>
 <p><a href="mailto:yuen_jia_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuen_jia_jun@moe.edu.sg</a>
 </p>
