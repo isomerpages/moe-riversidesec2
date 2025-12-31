@@ -47,7 +47,7 @@ variant: tiptap
 <p>Design &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_kaining_nelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_kaining_nelly@moe.edu.sg</a> 
+<p><a href="mailto:guo_kaining_nelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_kaining_nelly@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,7 +328,7 @@ variant: tiptap
 <p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_thiam_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_soon@moe.edu.sg</a> 
+<p><a href="mailto:tan_thiam_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_soon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
