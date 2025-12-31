@@ -190,11 +190,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Haryani Hamidan(1st IC)</p>
 <p></p>
+<p>Ms Eng Jie Ling (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_hamidan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haryani_hamidan@moe.edu.sg</a>
 </p>
 <p></p>
+<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eng_jie_ling@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
