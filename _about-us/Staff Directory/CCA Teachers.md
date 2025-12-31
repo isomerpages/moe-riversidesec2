@@ -407,8 +407,8 @@ variant: tiptap
 <p></p>
 <p><a href="mailto:law_yue_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_yue_tian@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
