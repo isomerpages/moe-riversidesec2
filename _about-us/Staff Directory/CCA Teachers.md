@@ -327,7 +327,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:chai_suk_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_suk_ching@moe.edu.sg</a>
 </p>
-<p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a>
+<p>
+<br><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a>
 </p>
 <p><a href="mailto:darren_chin_yong_chiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>darren_chin_yong_chiang@moe.edu.sg</u></a>
 </p>
