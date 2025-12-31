@@ -122,7 +122,7 @@ variant: tiptap
 <p>Mr Shannon Ling (1st IC)
 <br>
 </p>
-<p>Ms Nur Ashikin (2nd IC)</p>
+<p>Mdm Nur Ashikin (2nd IC)</p>
 <p></p>
 <p>Ms Nurul Izzah</p>
 </td>
@@ -166,7 +166,7 @@ variant: tiptap
 <p>Football (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafidz Azmin (1st IC)</p>
+<p>Mr Mohammad Hafidz (1st IC)</p>
 <p></p>
 <p>Mdm Siti Hajar (2nd IC)</p>
 <p></p>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Netball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Haryani Hamidan(1st IC)</p>
+<p>Ms Haryani Hamidan (1st IC)</p>
 <p></p>
 <p>Ms Eng Jie Ling (2nd IC)</p>
 </td>
