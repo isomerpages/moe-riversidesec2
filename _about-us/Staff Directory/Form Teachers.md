@@ -52,8 +52,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rafidah_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafidah_yusoff@moe.edu.sg</u></a>
 </p>
-<p></p>
-<p><a href="mailto:wong_jing_zher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_jing_zher@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:wong_jing_zher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_jing_zher@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -131,7 +131,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_amara_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kavitha_amara_joyce@moe.edu.sg</u></a>
 </p>
-<p><a href="mailto:yuen_jia_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yuen_jia_jun@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:yuen_jia_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yuen_jia_jun@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
