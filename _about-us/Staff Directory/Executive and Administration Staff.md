@@ -102,6 +102,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Amienudin Dinoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communications Technology Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_amienudin_dinoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amienudin_dinoh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Muhammad Hakim Shariff</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,18 +121,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hakim_shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hakim_shariff@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Amienudin Dinoh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information &amp; Communications Technology Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_amienudin_dinoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_amienudin_dinoh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
