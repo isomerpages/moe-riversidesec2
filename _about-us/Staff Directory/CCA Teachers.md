@@ -124,7 +124,7 @@ variant: tiptap
 </p>
 <p>Ms Nur Ashikin (2nd IC)</p>
 <p></p>
-<p>Mr Ryan Wong</p>
+<p>Ms Nurul Izzah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_shannon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_shannon@moe.edu.sg</a> 
@@ -133,7 +133,7 @@ variant: tiptap
 <p><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashikin_bte_fisall@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:wong_pee_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pee_wah@moe.edu.sg</a>
+<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -147,7 +147,7 @@ variant: tiptap
 <p></p>
 <p>Mdm Haslinda Shafawi</p>
 <p></p>
-<p>Mdm Siti Hajar
+<p>
 <br>
 </p>
 <p></p>
@@ -160,8 +160,7 @@ variant: tiptap
 <p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_shafawi@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:siti_hajar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_ali@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -171,10 +170,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Hafidz Azmin (1st IC)</p>
 <p></p>
-<p>Mr Desmond Chee (2nd IC)</p>
+<p>Mdm Siti Hajar (2nd IC)</p>
+<p></p>
+<p>Mr Desmond Chee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_hafidz_azmin@moe.edu.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:siti_hajar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_ali@moe.edu.sg</a>
 </p>
 <p></p>
 <p><a href="mailto:chee_chye_leng_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_chye_leng_desmond@moe.edu.sg</a>
