@@ -122,7 +122,7 @@ variant: tiptap
 <p>Mr Shannon Ling (1st IC)
 <br>
 </p>
-<p>Mdm Julaiha (2nd IC)</p>
+<p>Ms Nur Ashikin (2nd IC)</p>
 <p></p>
 <p>Mr Ryan Wong</p>
 </td>
@@ -130,7 +130,7 @@ variant: tiptap
 <p><a href="mailto:ling_shannon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_shannon@moe.edu.sg</a> 
 <br>
 </p>
-<p><a href="mailto:julaiha_kumaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_kumaron@moe.edu.sg</a>
+<p><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashikin_bte_fisall@moe.edu.sg</a>
 </p>
 <p></p>
 <p><a href="mailto:wong_pee_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pee_wah@moe.edu.sg</a>
@@ -187,13 +187,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Haryani Hamidan(1st IC)</p>
-<p>Ms Nur Ashikin (2nd IC)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_hamidan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haryani_hamidan@moe.edu.sg</a>
 </p>
-<p><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashikin_bte_fisall@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
