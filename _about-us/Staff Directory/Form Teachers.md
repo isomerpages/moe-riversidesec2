@@ -344,7 +344,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Xing Yu</p>
-<p>Ms Natasha Imran</p>
+<p>Mdm Natasha Imran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_xing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_xing_yu@moe.edu.sg</u></a>
