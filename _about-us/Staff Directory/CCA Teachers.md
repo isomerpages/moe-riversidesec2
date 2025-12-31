@@ -426,8 +426,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rafidah_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafidah_yusoff@moe.edu.sg</u></a>
 </p>
-<p></p>
-<p><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amutham_saravana_kumar@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amutham_saravana_kumar@moe.edu.sg</u></a>
 </p>
 <p></p>
 <p><a href="mailto:seiva_subramaniam_ramiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seiva_subramaniam_ramiah@moe.edu.sg</u></a>
