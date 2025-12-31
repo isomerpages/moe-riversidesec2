@@ -29,20 +29,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information Technology &amp; Digital Media Club</p>
+<p>Digital Media Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lawrance Chua (1st IC)</p>
 <p></p>
-<p>Ms Nurul Izzah (2nd IC)</p>
-<p></p>
-<p>Mdm Khairunisa</p>
+<p>Mdm Khairunisa (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_kok_weng_lawrance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kok_weng_lawrance@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
 </p>
 <p></p>
 <p><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_khairunisa_johari@moe.edu.sg</a>
@@ -56,7 +51,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Min Huey (1st IC)</p>
 <p></p>
-<p>Mrs Goh - Thum Beryl (2nd IC)</p>
+<p>Mrs Beryl Goh-Thum (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
@@ -138,7 +133,7 @@ variant: tiptap
 <p><a href="mailto:julaiha_kumaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julaiha_kumaron@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:wong_pee_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pee_wah@moe.edu.sg</a> 
+<p><a href="mailto:wong_pee_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pee_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -165,7 +160,7 @@ variant: tiptap
 <p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_shafawi@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:siti_hajar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_ali@moe.edu.sg</a> 
+<p><a href="mailto:siti_hajar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -275,7 +270,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Kor Jia Her (1st IC)</p>
 <p></p>
-<p>Ms Carol Wong Hoi Yu (2nd IC)</p>
+<p>Ms Carol Wong (2nd IC)</p>
 <p>Ms Kock Si Peng</p>
 <p></p>
 <p></p>
@@ -332,7 +327,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a>
 </p>
-<p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a> 
+<p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_eng_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
