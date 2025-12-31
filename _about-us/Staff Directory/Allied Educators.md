@@ -55,7 +55,7 @@ variant: tiptap
 <p>Mdm Neethu Balakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEN Officer</p>
+<p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neethu_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neethu_balakrishnan@moe.edu.sg</a>
