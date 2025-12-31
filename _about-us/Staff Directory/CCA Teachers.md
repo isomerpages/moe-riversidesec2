@@ -519,7 +519,6 @@ variant: tiptap
 <p></p>
 <p><a href="mailto:kock_si_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kock_si_peng@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
