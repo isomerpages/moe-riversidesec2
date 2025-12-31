@@ -271,21 +271,16 @@ variant: tiptap
 <p>Ms Kor Jia Her (1st IC)</p>
 <p></p>
 <p>Ms Carol Wong (2nd IC)</p>
-<p>Ms Kock Si Peng</p>
 <p></p>
 <p></p>
-<p>Mdm Toh Siew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kor_jia_her@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_jia_her@moe.edu.sg</a>
 <br>
 <br><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
 </p>
-<p><a href="mailto:kock_si_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kock_si_peng@moe.edu.sg</a>
-</p>
 <p></p>
-<p><a href="mailto:toh_siew_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_siew_hoon@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -517,14 +512,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tang Wai Yin (1st IC)</p>
 <p></p>
-<p>Mdm Arockiadoss Fatima Sahayarani (2nd IC)</p>
+<p>Ms Kock Si Peng (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:arockiadoss_fatima_sahayarani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arockiadoss_fatima_sahayarani@moe.edu.sg</u></a>
+<p><a href="mailto:kock_si_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kock_si_peng@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
