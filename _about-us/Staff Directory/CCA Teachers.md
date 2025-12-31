@@ -132,8 +132,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ashikin_bte_fisall@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -179,8 +179,8 @@ variant: tiptap
 <p></p>
 <p><a href="mailto:siti_hajar_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hajar_ali@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:chee_chye_leng_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_chye_leng_desmond@moe.edu.sg</a>
+<p>
+<br><a href="mailto:chee_chye_leng_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_chye_leng_desmond@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -196,8 +196,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_hamidan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haryani_hamidan@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eng_jie_ling@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eng_jie_ling@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
