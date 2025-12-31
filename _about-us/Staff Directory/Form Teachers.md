@@ -454,7 +454,8 @@ variant: tiptap
 <p>
 <br><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
 </p>
-<p></p>
+<p><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lis_hartini_hut@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
