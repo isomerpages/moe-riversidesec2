@@ -451,8 +451,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurdiana_rosidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurdiana_rosidi@moe.edu.sg</u></a>
 </p>
-<p><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
