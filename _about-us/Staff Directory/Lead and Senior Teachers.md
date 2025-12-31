@@ -70,13 +70,13 @@ variant: tiptap
 <p>Senior Teacher (Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_shafawi@moe.edu.sg</a> 
+<p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_shafawi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Min Huey</p>
+<p>Mdm Lee Min Huey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (STEM - Biology)</p>
