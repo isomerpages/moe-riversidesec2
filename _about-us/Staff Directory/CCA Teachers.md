@@ -336,9 +336,7 @@ variant: tiptap
 <p>Ms Pang Tien Feng (2nd IC)
 <br>
 </p>
-<p>Ms Kavitha Amara Joyce</p>
-<p></p>
-<p>Mr Koh Hong Kai</p>
+<p>Mdm Kavitha Amara Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liao_junjie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liao_junjie@moe.edu.sg</a>
@@ -346,9 +344,6 @@ variant: tiptap
 <p><a href="mailto:pang_tien_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_tien_feng@moe.edu.sg</a> 
 <br>
 <br><a href="mailto:kavitha_amara_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_amara_joyce@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hong_kai_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -393,17 +388,20 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Yen Ping (1st IC)</p>
+<p>Mdm Lai Meei Ju (1st IC)</p>
 <p></p>
-<p>Ms Law Yue Tian (2nd IC)
-<br>
-</p>
+<p>Ms Law Yue Tian (2nd IC)</p>
+<p></p>
+<p>Mr Koh Hong Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_yen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yen_ping@moe.edu.sg</a>
+<p><a href="mailto:lai_meei_ju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lai_meei_ju@moe.edu.sg</u></a>
 </p>
 <p></p>
 <p><a href="mailto:law_yue_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_yue_tian@moe.edu.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
