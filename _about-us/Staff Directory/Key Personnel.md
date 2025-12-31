@@ -29,23 +29,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rekha Veliappan
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aesthetics
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rekha_veliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_veliappan@moe.edu.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Landy Chin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,10 +41,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nelly Guo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design &amp; Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guo_kaining_nelly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_kaining_nelly@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Samantha Gan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language &amp; Literature (Covering)</p>
+<p>English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samantha_gan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_gan@moe.edu.sg</a>
@@ -82,28 +77,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Silvesta Ng</p>
+<p>Mr Eugene Guo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communications Technology</p>
+<p>Information &amp; Communications Technology (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jing_hao_silvesta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jing_hao_silvesta@moe.edu.sg</a>
+<p><a href="mailto:guo_youjun_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_youjun_eugene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angie Tan-Yeo</p>
+<p>Mrs Mendy Lai-Kok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics
-<br>
-</p>
+<p>Mathematics (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_su_lin_angie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_su_lin_angie@moe.edu.sg</a>
-<br>
+<p><a href="mailto:kok_li_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kok_li_eng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -133,6 +125,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Angie Tan-Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_su_lin_angie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_su_lin_angie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Rachel Mak</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,14 +149,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Thiam Soon</p>
+<p>Ms Andrea Tok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science (Covering)</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_thiam_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_soon@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:tok_chia_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_chia_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -226,7 +229,7 @@ variant: tiptap
 <p>Mr Joel Lee Jin Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21st Century Competencies (Internal)</p>
+<p>21st Century Competencies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jin_wee@moe.edu.sg</a>
@@ -235,25 +238,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sim-Lee Xinrong</p>
+<p>Ms Cindy Chai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_xinrong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xinrong@moe.edu.sg</a>
+<p><a href="mailto:chai_chang_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_chang_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Chai</p>
+<p>Mrs Sim-Lee Xinrong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chai_chang_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_chang_wei@moe.edu.sg</a>
+<p><a href="mailto:lee_xinrong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xinrong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -283,13 +286,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Guo</p>
+<p>Mr Ow Yeong Wai Kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Educational Technology</p>
+<p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_youjun_eugene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_youjun_eugene@moe.edu.sg</a>
+<p><a href="mailto:ow_yeong_wai_kit@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ow_yeong_wai_kit@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -319,13 +322,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Mendy Lai-Kok</p>
+<p>Mr Tan Thiam Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p>Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kok_li_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok_li_eng@moe.edu.sg</a>
+<p><a href="mailto:tan_thiam_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_soon@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -346,7 +349,7 @@ variant: tiptap
 <p>Mr Liao Jun Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Leadership</p>
+<p>Student Leadership &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liao_junjie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liao_junjie@moe.edu.sg</a>
@@ -355,7 +358,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Nguyen Wei Jieh</p>
+<p>Mr Brian Nguyen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Management</p>
