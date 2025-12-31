@@ -73,8 +73,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheron_abraham_joseph@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:lim_jia_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_jia_hui_a@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:lim_jia_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_jia_hui_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
