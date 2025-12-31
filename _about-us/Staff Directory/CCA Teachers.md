@@ -272,7 +272,7 @@ variant: tiptap
 <p></p>
 <p>Ms Carol Wong (2nd IC)</p>
 <p></p>
-<p></p>
+<p>Mdm Arockiadoss Fatima Sahayarani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kor_jia_her@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kor_jia_her@moe.edu.sg</a>
@@ -280,7 +280,8 @@ variant: tiptap
 <br><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
 </p>
 <p></p>
-<p></p>
+<p><a href="mailto:arockiadoss_fatima_sahayarani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arockiadoss_fatima_sahayarani@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
