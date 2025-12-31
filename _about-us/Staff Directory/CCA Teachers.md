@@ -56,8 +56,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:beryl_thum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>beryl_thum@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:beryl_thum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>beryl_thum@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
