@@ -147,10 +147,7 @@ variant: tiptap
 <p></p>
 <p>Mdm Haslinda Shafawi</p>
 <p></p>
-<p>
-<br>
-</p>
-<p></p>
+<p>Mr Ryan Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_tze_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tze_hoong@moe.edu.sg</a>
@@ -160,7 +157,8 @@ variant: tiptap
 <p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_shafawi@moe.edu.sg</a>
 </p>
 <p></p>
-<p></p>
+<p><a href="mailto:wong_pee_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_pee_wah@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
