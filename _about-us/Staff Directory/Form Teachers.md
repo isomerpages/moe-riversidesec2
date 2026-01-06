@@ -410,7 +410,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ding_han_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ding_han_lim@moe.edu.sg</u></a>
 </p>
-<p><a href="mailto:farhana_zulkifli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farhana_zulkifli@moe.edu.sg</u></a>
+<p><a href="mailto:farhana_zulkifli_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhana_zulkifli_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -470,7 +470,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nguyen_wei_jieh_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nguyen_wei_jieh_brian@moe.edu.sg</u></a>
 </p>
-<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
+<p><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
