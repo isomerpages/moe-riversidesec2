@@ -174,7 +174,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 </p>
-<p></p>
+<p><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
