@@ -4,18 +4,27 @@ permalink: /resources/advertisements/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Available Canteen Stalls (Closed)</strong></h3>
-<p><strong>Application Procedure</strong>
+<h3><strong>Available Canteen Stalls</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Type of stall: &nbsp;Rice (Halal)</p>
+</li>
+<li>
+<p>Type of stall: Noodles (Halal)</p>
+</li>
+</ol>
+<p><strong><u>Application procedure</u></strong>
 </p>
 <p>1 ) Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Canteen/Canteen_application_form_2023.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form 2024</a>
+<p><em>Link</em>
 </p>
 </li>
 </ul>
-<p>Attached the following documents together with the application form:</p>
+<p>Applicants to attach the following documents together with the application
+form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -38,11 +47,11 @@ via email OR to the School’s General Office.</p>
 <p>Contact No: 6269 9631</p>
 </li>
 <li>
-<p>Email: <a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>
+<p>Email:&nbsp;<a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Contact Person: Mdm Lailee Binte Lamri</p>
+<p>Contact Person: Mdm Lailee</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
@@ -59,31 +68,32 @@ via email OR to the School’s General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Citizen (SC) or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant</p>
+<p>Must be a Singapore Citizen or Singapore Permanent Resident;</p>
 </li>
 <li>
-<p>Able to provide good service and quality food with prices determined in
-consultation with the school</p>
+<p>Able to provide food/ drinks that meet the health/nutritional standards
+under the “<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme</a>”
+(HMSP) set by the Health Promotion Board (HPB);</p>
 </li>
 <li>
-<p>Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the “<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme</a>”
-guidelines</p>
+<p>Able to provide good service and quality food/drinks at reasonable prices;</p>
 </li>
 <li>
-<p>Able to maintain high standard of food safety and personal hygiene</p>
+<p>Able to observe a high standard of food/drinks and personal hygiene;</p>
 </li>
 <li>
-<p>Healthy and fit to operate the stall</p>
+<p>Must be in personal attendance at the stall during operating hours;</p>
+</li>
+<li>
+<p>Consideration for the financial position of the applicants upon meeting
+all the criteria above.</p>
 </li>
 </ul>
 <p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
+<p>Successful applicant and stall assistant(s) must possess the <u>WSQ Basic Food Hygiene Certificate</u>.</p>
 </li>
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
