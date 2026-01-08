@@ -147,23 +147,20 @@ description: ""
 <p>29-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Parents Engagement Session (online)</p>
+<p>Sec 2 Parents Engagement Session<em> (online)</em>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1/5</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>3-Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Students do not need to report to school)</p>
+<p>Home-based Learning Day (HBL Day) <em>(Students do not need to report to school)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -178,19 +175,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1/7</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>16-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunar New Year Celebrations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Students will be dismissed early)</p>
+<p>Lunar New Year Celebrations <em>(Students will be dismissed early)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +216,8 @@ description: ""
 <p>26-Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 – 5 Parents Engagement Session (online)</p>
+<p>Sec 3 – 5 Parents Engagement Session <em>(online)</em>
+</p>
 </td>
 </tr>
 <tr>
