@@ -69,7 +69,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://for.edu.sg/rsshbl2025" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a>
+<p><a href="https://sites.google.com/moe.edu.sg/riversidesechbl" rel="noopener noreferrer nofollow" target="_blank">Home-Based Learning (HBL)</a>
 </p>
 </li>
 <li>
