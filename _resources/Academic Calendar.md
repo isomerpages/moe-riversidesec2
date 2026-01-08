@@ -180,7 +180,7 @@ description: ""
 <p>1/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16-Jan</p>
+<p>16-Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lunar New Year Celebrations
@@ -193,7 +193,7 @@ description: ""
 <p>1/7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 – 18 Jan</p>
+<p>17 – 18 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lunar New Year holiday</p>
