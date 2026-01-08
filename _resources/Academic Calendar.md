@@ -134,8 +134,8 @@ description: ""
 <p>22-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-<p><em>(Students do not need to report to school)</em>
+<p>Home-based Learning Day (HBL Day)
+<br><em>(Students do not need to report to school)</em>
 </p>
 </td>
 </tr>
@@ -159,7 +159,8 @@ description: ""
 <p>3-Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day) <em>(Students do not need to report to school)</em>
+<p>Home-based Learning Day (HBL Day)
+<br><em>(Students do not need to report to school)</em>
 </p>
 </td>
 </tr>
@@ -182,7 +183,8 @@ description: ""
 <p>16-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lunar New Year Celebrations <em>(Students will be dismissed early)</em>
+<p>Lunar New Year Celebrations
+<br><em>(Students will be dismissed early)</em>
 </p>
 </td>
 </tr>
@@ -228,7 +230,8 @@ description: ""
 <p>5-Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day) <em>(Students do not need to report to school)</em>
+<p>Home-based Learning Day (HBL Day)
+<br><em>(Students do not need to report to school)</em>
 </p>
 </td>
 </tr>
