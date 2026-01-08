@@ -8,51 +8,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_1.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 (All Levels)</a>
+<p><a href="/files/2026 Termly Letters/Principal_s_Letter_Term_1_S1.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 (Sec 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S1_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S2_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S3_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 3)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_Letter_Term_2__S4_5_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 (Sec 4 &amp; 5)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_3__S1_.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 (Sec 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_3__S2_.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 (Sec 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_3__S3_.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 (Sec 3)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_3__S4_5_.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 (Sec 4 &amp; 5)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_4__S1_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 4 (Sec 1 to 3)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_4__S4N_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 4 (Sec 4N)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2025 Termly Letters/Principal_s_letter_Term_4__S4E5N_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 4 (Sec 4E5N)</a>
+<p><a href="/files/2026 Termly Letters/Principal_s_Letter_Term_1_S2_5.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 (Sec 2 to 5)</a>
 </p>
 </li>
 </ul>
