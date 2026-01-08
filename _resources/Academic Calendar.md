@@ -221,19 +221,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1/9</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>5-Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-based Learning Day (HBL Day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>(Students do not need to report to school)</p>
+<p>Home-based Learning Day (HBL Day) <em>(Students do not need to report to school)</em>
+</p>
 </td>
 </tr>
 <tr>
