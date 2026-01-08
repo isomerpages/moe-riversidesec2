@@ -94,7 +94,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Jan</p>
+<p>1/1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 – 7 Jan</p>
@@ -105,7 +105,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Feb</p>
+<p>1/2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14-Jan</p>
@@ -116,35 +116,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Feb</p>
+<p>1/2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Fair and Sec 1 Parents’ Engagement Session (face-to-face in school)</p>
+<p>CCA Fair and Sec 1 Parents’ Engagement Session <em>(face-to-face in school)</em>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>1-Mar</p>
+<td rowspan="1" colspan="1">
+<p>1/3</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>22-Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Home-based Learning Day (HBL Day)</p>
-<p>(Students do not need to report to school)</p>
+<p><em>(Students do not need to report to school)</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-Apr</p>
+<p>1/4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>29-Jan</p>
@@ -155,7 +152,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>1-May</p>
+<p>1/5</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>3-Feb</p>
@@ -171,7 +168,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Jun</p>
+<p>1/6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>13-Feb</p>
@@ -182,7 +179,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>1-Jul</p>
+<p>1/7</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>16-Jan</p>
@@ -198,7 +195,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Jul</p>
+<p>1/7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17 – 18 Jan</p>
@@ -220,7 +217,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Aug</p>
+<p>1/8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26-Feb</p>
@@ -231,7 +228,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>1-Sep</p>
+<p>1/9</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>5-Mar</p>
@@ -247,24 +244,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-Oct</p>
+<p>1/10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 – 13 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 Riverside Model United Nations (RS MUN)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
