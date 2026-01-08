@@ -19,7 +19,7 @@ variant: tiptap
 a hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Link</em>
+<p><a href="/files/Canteen Stalls/Application_Form_for_Canteen_Stalls_at_Riverside_Secondary.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a>
 </p>
 </li>
 </ul>
