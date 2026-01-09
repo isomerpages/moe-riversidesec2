@@ -705,8 +705,6 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At Riverside Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -736,18 +734,15 @@ are the key messages.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
-on:</p>
-<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+on:
+<br>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
-and impact</p>
-<p>&nbsp;</p>
-<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
-assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
-<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+and impact
+<br>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)
+<br>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
 way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -760,8 +755,7 @@ way, including avenues for help-seeking.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
 of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
-<p>&nbsp;</p>
+decision-making.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -769,17 +763,7 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Information for Parents</strong>
+<p><strong>&nbsp;Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
 the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
