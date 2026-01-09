@@ -346,3 +346,180 @@ CCA mates. - Murugesan Vaishnavi</p>
 </tbody>
 </table>
 <p></p>
+<h2>Visual and Performing Arts</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Visual Arts</h3>
+<p>(This CCA will not be offered to Sec 1s from 2024)</p>
+</td>
+<td rowspan="1" colspan="1">
+<h3>Choir</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_389.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_04032024_622_Enhanced_NR.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visual Arts opened a window of opportunities for me to expand my passion
+in the arts. I am able to explore art mediums that I wouldn’t normally
+have a chance to use. I’ve been given opportunities to learn from amazing
+individuals by asking about and observing their unique styles of art. I’ve
+learnt more about myself and the art that I want to create and express
+to others. I love that in Visual Arts everyone has a role and no one is
+left out. - Tess Lim Xinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In choir, I find myself always busy yet fulfilled. I have learned more
+about music, singing and voice projection. I also had the chance to communicate
+with different types of people. I learned about my strengths and weaknesses
+which helped me improve myself. I have also had various exciting opportunities
+such as taking part in camps, performing to a live audience and making
+music videos! - Ananda Liew Fang Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Concert Band</h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3>Multi-Cultural Dance Society– Chinese Dance</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_403_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_552_Enhanced_NR__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preparing for every band performance is always exciting. There are many
+parts to the performance but everyone never fails to come together to put
+up a splendid performance. Problems such as instrument mastery and pandemic
+measures were challenges but our band overcame these challenges with teamwork,
+motivating one another to give our best. My journey in Riverside Concert
+Band has some lows but many more highs. I would not have it any other way
+as it has grown me into a more resilient person. - Joey Lim Zhi Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I have had opportunities to learn various Chinese dances with my peers.
+In the process of learning these dances, we also learned a lot about our
+history and culture. My friends and I had to overcome all kinds of difficulties
+and improve our coordination as we participated in dance performances and
+competitions. This is significant in our journey together to be better
+dancers. I'm proud to be a part of Riverside's Chinese Dance! - Jiang Kai
+Mung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Multi-Cultural Dance Society– Indian Dance</h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3>Multi-Cultural Dance Society– Malay Dance</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_537_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_04032024_680_Enhanced_NR.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance has given me many opportunities to grow as a dancer and a
+leader. My fellow dancers and I learned the different types of choreography
+for dance performances. Our training sessions that led up to our performances
+were sometimes fraught with challenges. However, we continued to train
+hard and did not give up. At the end of each day, we would still put up
+a riveting performance. I feel so proud to be a part of Riverside’s Indian
+Dance! - Anandakannan Rezma</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>My CCA experience with Malay Dance has been very enriching. Firstly, my
+CCA members are very fun to be with. I have forged many beautiful memories
+with them. Secondly, as the vice-chairperson of Malay Dance, I am given
+many opportunities to lead my fellow dancers at various events and performances.
+This has helped me to understand what leadership is. I am thankful for
+all these opportunities to pursue my passion in Malay Dance. - Naimi Irdina
+Binti Mohamed Isfar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Modern Dance</h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3>English Drama</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_415_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_533_Enhanced_NR.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>It has been a great pleasure to be part of modern dance. I treasure the
+moments and friendship forged during CCA the most. As our dance motto goes,
+‘Dance to express, not to impress’. Dancing provides me an outlet to express
+myself in different art forms. Being in modern dance has taught me resilience
+and perseverance, and helped me to sharpen my leadership skills as an individual
+too. - Pearlynn Chan Zi Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>My experience in English Drama has definitely been very enriching and
+unforgettable, as I got to forge new bonds with my fellow members and picked
+up new skills, especially leadership skills. In addition, I learned other
+useful skills such as production management which includes looking into
+characters' costumes, lines, props and giving stage directions. Overall,
+being in Drama has been an exciting experience, and I hope that our future
+Drama members will also have fun during CCA sessions. - Ng Zi Hern</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
