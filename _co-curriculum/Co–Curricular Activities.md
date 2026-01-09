@@ -22,13 +22,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="av crew" src="/images/av%20crew%20.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_18032024_012_Enhanced_NR.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:350px" height="auto" width="100%" alt="media club" src="/images/media%20club%20.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_422_Enhanced_NR.jpg">
 </div>
 </td>
 </tr>
