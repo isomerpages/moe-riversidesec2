@@ -775,6 +775,5 @@ to complete an opt-out form on Parents Gateway by 06 Feb 2026.</p>
 3 children out of the&nbsp;<strong>eTeens programme</strong>&nbsp;need
 to complete an opt-out form on Parents Gateway by 06 Feb 2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a rel="noopener noreferrer nofollow" target="_blank"><u>riverside_ss@moe.edu.sg</u>
-</a>for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<a href="mailto:riverside_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riverside_ss@moe.edu.sg</a>for discussion or to seek clarification about
+the school’s Sexuality Education programme.</p>
