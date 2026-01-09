@@ -81,8 +81,6 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -139,16 +137,14 @@ online and offline.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of monitoring
-and managing our emotional reactions, in helpful ways that are reflective
-of our values and principles</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are different
-forms of love (e.g. familial, platonic, romantic love)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the importance of, and
-understand what builds healthy and supportive relationships, both online
-and offline</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand what dating is, and recognise
-that the readiness and interest in dating vary among individuals</p>
+<p>·&nbsp;recognise the importance of monitoring and managing our emotional
+reactions, in helpful ways that are reflective of our values and principles</p>
+<p>·&nbsp;recognise that there are different forms of love (e.g. familial,
+platonic,romanticlove)</p>
+<p>·&nbsp;recognise the importance of, and understand what builds healthy
+and supportive relationships, both online and offline</p>
+<p>·&nbsp;understand what dating is, and recognise that the readiness and
+interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
@@ -172,9 +168,9 @@ of self.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that physical and psychological
-abuse from others, especially those we know and trust, can have strong
-negative effects on a person’s self-concept</p>
+<p>·&nbsp;understand that physical and psychological abuse from others, especially
+those we know and trust, can have strong negative effects on a person’s
+self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 3</p>
