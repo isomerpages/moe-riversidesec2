@@ -63,14 +63,10 @@ one of the EXCO members. - Bilah Izzah Bahirah Binte Mohammad Noor</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="robotics" src="/images/robotics%202.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" alt="environmental science club" src="/images/environmental%20science%20club%20thumbnail.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,14 +109,10 @@ Chau King, Ehren</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:88%" height="auto" width="100%" alt="badminton" src="/images/badminton%202.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="basketball" src="/images/basketball%202.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -153,14 +145,10 @@ Raihanah Binte Abdul Halim</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="football" src="/images/football%20.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="netball" src="/images/netball%20.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -194,9 +182,7 @@ the goals we have set for the team. - Oh Li En</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="softball" src="/images/softball%20.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -234,14 +220,10 @@ work harder to achieve our goal as a team. - Kok Jing Wen, Rinzen</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:97%" height="auto" width="100%" alt="boys brigade" src="/images/boys'%20brigade.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="girls brigade" src="/images/gg%202%20%20.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -273,14 +255,10 @@ Ananya Kiran</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:86%" height="auto" width="100%" alt="ncc sea" src="/images/ncc%20-%20sea-min.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="ncdcc" src="/images/ncdcc%20%20.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -311,9 +289,7 @@ in the squad for not giving up and working together as a team! - Andrei</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="npcc" src="/images/npcc%20%20%20.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -352,14 +328,10 @@ CCA mates. - Murugesan Vaishnavi</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:97%" height="auto" width="100%" alt="visual arts" src="/images/visual%20arts%20.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="choir" src="/images/choir%20%20.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -391,14 +363,10 @@ music videos! - Ananda Liew Fang Ling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:97%" height="auto" width="100%" alt="concert band" src="/images/concert%20band%20.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="chinese dance" src="/images/chinese%20dance%20.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -431,14 +399,10 @@ Mung</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:97%" height="auto" width="100%" alt="indian dance" src="/images/indian%20dance.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="malay dance" src="/images/malay%20dance.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -471,14 +435,10 @@ Binti Mohamed Isfar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:97%" height="auto" width="100%" alt="modern dance" src="/images/modern%20dance.jpeg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:400px" height="auto" width="100%" alt="drama" src="/images/english%20drama%20.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
