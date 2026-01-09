@@ -253,15 +253,12 @@ stereotypes are (e.g. males traditionally as breadwinners and females traditiona
 as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
-nurses.</p>
-<p></p>
-<p>Students learn to focus on their personal strengths to pursue their interests
-and build their self- confidence.</p>
-<p></p>
-<p>Students will also learn about the definitions of biological sex, gender
+nurses.
+<br>Students learn to focus on their personal strengths to pursue their interests
+and build their self- confidence.
+<br>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;know that one’s understanding of gender roles should not be limited
