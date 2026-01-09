@@ -181,7 +181,166 @@ the captain of Riverside Football! - Iqbal Haqim</p>
 <td rowspan="1" colspan="1">
 <p>I've had many memorable experiences playing netball in Riverside. Being
 in netball introduced me to the skills of the game and also to a new group
-of friends. My teammates and I have formed strong bonds and even play netba</p>
+of friends. My teammates and I have formed strong bonds and even play netball
+together beyond the training sessions. I experienced some highs and lows
+during my CCA sessions. However, with the support of my teachers and teammates,
+I persevered. My teammates and I always strive to do our best to achieve
+the goals we have set for the team. - Oh Li En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Softball</h3>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_18032024_420_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Softball has definitely made an impact on me. Becoming Vice-captain of
+the team has brought me out of my comfort zone. Throughout the year, the
+team has improved in many aspects especially in terms of skills, resilience
+and teamwork. The presence of teachers, coaches and my teammates has made
+CCA very enjoyable. Taking part in competitions also spurred everyone to
+work harder to achieve our goal as a team. - Kok Jing Wen, Rinzen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h2>Uniformed Groups</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Boys' Brigade</h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3>Girls' Brigade</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_18032024_461_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_08032024_453_Enhanced_NR.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>My experience in BB thus far has been like a dive into an ocean of opportunity.
+In BB, I was given many opportunities to hone my character and be an active
+contributor to society. I also learned soft skills such as leadership and
+teamwork, and also learned technical skills like tent setting and kayaking.
+The memories I have made bonding with my peers through BB will be memories
+that I will cherish for many years to come. - Staff Sergeant Casimsiman
+Jared Maynard Cipriano</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being a part of GB has given me a wide range of learning experience. From
+our annual day camp to our badgework, my squadmates and I have gained values
+such as service and innovation, as well as life skills like decision-making,
+problem-solving and servant leadership. We know that no matter the activity
+we participate in, we will always get something enriching out of it. -
+Ananya Kiran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>National Cadet Corps (Sea)</h3>
+</td>
+<td rowspan="1" colspan="1">
+<h3>National Civil Defence Cadet Corps</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_18032024_371_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_18032024_363_Enhanced_NR.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Riverside NCC (Sea) has moulded me into a better person. There were many
+memorable events that we had participated in such as the NCC Day Parade.
+We trained enthusiastically for these events with hard work and passion,
+and the encouragement of our teachers. I am very proud of my CCA and my
+CCA mates. Our NCC training has trained us to display resilience and overcome
+whatever challenges we face in life. - Hady Matin Danial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For all our NCDCC training sessions and events such as the Precision Drill
+Competition, our squad always puts in our best to achieve our goals. At
+times, we may feel like giving up but we would still push through the challenges
+with much perseverance and teamwork. Through these experiences, we learned
+a lot about hard work and resilience and tenacity. I am very proud of everyone
+in the squad for not giving up and working together as a team! - Andrei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>National Police Cadet Corps</h3>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KK_04032024_602_Enhanced_NR.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>As the vice-chairperson of Riverside NPCC, I have had the privilege to
+lead my CCA to greater heights as well as organise key events such as the
+Combined Uniformed Groups Activity. This allowed me to further hone my
+leadership skills as well as strengthen my relationship with my fellow
+squadmates. I am very thankful for this memorable journey alongside my
+CCA mates. - Murugesan Vaishnavi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
