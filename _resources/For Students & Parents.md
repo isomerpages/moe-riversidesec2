@@ -57,7 +57,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Insurance/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025)</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2026)</a>
 </p>
 </li>
 <li>
