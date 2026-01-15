@@ -112,11 +112,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lawrance Chua</p>
 <p>Mdm Arockiadoss Fatima Sahayarani</p>
+<p>Ms Sheefa Ardini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_kok_weng_lawrance@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_kok_weng_lawrance@moe.edu.sg</u></a>
 </p>
 <p><a href="mailto:arockiadoss_fatima_sahayarani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arockiadoss_fatima_sahayarani@moe.edu.sg</u></a>
+</p>
+<p><a href="mailto:sheefa_ardini_hafiz_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sheefa_ardini_hafiz_khan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
