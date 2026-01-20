@@ -13,15 +13,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p><strong>Academic Achievements</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -39,7 +33,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="3" colspan="1">
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,26 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>JAL Prize</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>National Schools Literature Festival 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary Book Trailer
-<br>Commendation Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary Choral Speaking
-<br>Commendation Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary Unseen Debate Winners</p>
 </td>
 </tr>
 <tr>
@@ -111,10 +85,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>8th National Text Recital Competition</p>
+<p>8th Text Recital Competition For Primary and Secondary Schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p>Gold&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +109,7 @@ variant: tiptap
 <p>Mother Tongue Language (ML)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Saya Boleh Mengarang 2025 Competition</p>
+<p>Saya Boleh Mengarang 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Second Placing</p>
@@ -255,7 +229,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -284,6 +258,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Honourable Mention (3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze (1)</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +409,7 @@ variant: tiptap
 <p>Swift Explorers Singapore 2025 Showcase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Finals Presenters&nbsp;</p>
+<p>National Finals Presenters</p>
 </td>
 </tr>
 </tbody>
