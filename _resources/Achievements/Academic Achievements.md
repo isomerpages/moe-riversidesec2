@@ -414,4 +414,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
