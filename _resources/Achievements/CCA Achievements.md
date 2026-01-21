@@ -6,7 +6,6 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
