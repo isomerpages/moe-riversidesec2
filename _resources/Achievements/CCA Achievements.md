@@ -5,4 +5,156 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<table style="table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="228"><col width="170"><col width="226"></colgroup><tbody><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Co-Curricular Achievements&quot;}" colspan="2" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Co-Curricular Achievements</td><td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;"></td></tr><tr style="height:21px;"><td style="border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;"></td><td style="border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;"></td><td style="border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;"></td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Competition&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Competition</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Award&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Award</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;font-size:11pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;">CCA</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unit Recognition Award&quot;}" colspan="1" rowspan="5" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span><div style="max-height:105px">Unit Recognition Award</div></span></td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;High Distinction&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">High Distinction</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Boys' Brigade&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Boys' Brigade</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Gold&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Gold</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Girls' Brigade&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Girls' Brigade</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Distinction&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Distinction</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NCC (Sea)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">NCC (Sea)</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Distinction&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Distinction</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NPCC&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">NPCC</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Distinction&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Distinction</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NCDCC&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">NCDCC</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Boys' Brigade Founder's Award&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Boys' Brigade Founder's Award</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Founder's Award (5)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Founder's Award (5)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Boys' Brigade&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Boys' Brigade</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NCC Outstanding Cadet Award&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">NCC Outstanding Cadet Award</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Outstanding Cadet Award&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Outstanding Cadet Award</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NCC&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">NCC</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Youth Festival Arts Presentation 2023&quot;}" colspan="1" rowspan="2" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span><div style="max-height:42px">Singapore Youth Festival Arts Presentation 2023</div></span></td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Certificate of Distinction&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Certificate of Distinction</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Choir\nIndian Dance\nMalay Dance&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Choir<br>Indian Dance<br>Malay Dance</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Certificate of Accomplishment&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Certificate of Accomplishment</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Concert Band\nDrama Club\nChinese Dance\nModern Dance&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Concert Band<br>Drama Club<br>Chinese Dance<br>Modern Dance</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore International Choral Festival&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Singapore International Choral Festival</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Silver&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Silver</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Choir&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Choir</td></tr><tr style="height:42px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;World Robot Olympiad 2023&quot;}" colspan="1" rowspan="3" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span><div style="max-height:84px">World Robot Olympiad 2023</div></span></td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robomission Junior Silver (Top 18 Finalist)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Robomission Junior Silver (Top 18 Finalist)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robotics Club&quot;}" colspan="1" rowspan="3" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span><div style="max-height:84px">Robotics Club</div></span></td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robomission Junior Silver&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Robomission Junior Silver</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Robomission Junior Silver (Top 18 Finalist)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-size:11pt;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Robomission Junior Silver (Top 18 Finalist)</td></tr></tbody></table>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Co-Curricular Achievements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC (Sea)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade Founder's Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Founder's Award (5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Singapore Youth Festival Arts Presentation 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir
+<br>Indian Dance
+<br>Malay Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Concert Band
+<br>Drama Club
+<br>Chinese Dance
+<br>Modern Dance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore International Choral Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>World Robot Olympiad 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robomission Junior Silver (Top 18 Finalist)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Robotics Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robomission Junior Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robomission Junior Silver (Top 18 Finalist)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
