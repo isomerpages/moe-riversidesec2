@@ -45,8 +45,8 @@ at RS Alumni Homecoming.</p>
 <p><strong>Open House:</strong> Welcoming the next generation of Riversidians.</p>
 <p><strong>Join Our Journey</strong>
 <br>Interested in giving back or reconnecting with your alma mater? We would
-love to hear from you! Whether you wish to share with current students
-through Education and Career Guidance (ECG) sharing, volunteer with our
-CCAs, or help organise major school events, your contribution makes a difference.
+love to hear from you! Whether you wish to participate in Education and
+Career Guidance (ECG) sharing sessions, volunteer for our CCAs, or help
+organise major school events, your contribution makes a difference.
 <br><strong>If you are interested in contributing, please reach out to: Mdm Doris Soh&nbsp; <a href="mailto:soh_guek_kim_doris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_guek_kim_doris@moe.edu.sg</a></strong>
 </p>
