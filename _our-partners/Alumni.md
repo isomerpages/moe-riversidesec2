@@ -33,8 +33,8 @@ and the school, nurturing compassionate, future-ready global citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Orientation.jpg">
 </div>
-<p><strong>S1 Orientation:</strong> Alumni leading our RS dancers during the
-Sec 1 Orientation Programme</p>
+<p><strong>Sec 1 Orientation:</strong> Alumni leading the RS dance during
+the Sec 1 Orientation Programme</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homecoming.jpg">
 </div>
