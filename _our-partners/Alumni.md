@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <p>The <strong>Riverside Alumni</strong> serves as a vibrant platform to engage
 ex-Riversidians. We aim to forge lasting links with our graduates who share
-a deep passion for service and a commitment to contributing toward school
-excellence.</p>
+a deep passion for service and a commitment to contributing to school excellence.</p>
 <p><strong>Our Vision &amp; Mission</strong>
 </p>
 <ul data-tight="true" class="tight">
