@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/RSS_CNY_2026.jpg
+      background: /images/Homepage/Riverside_CNY_2026.jpg
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
