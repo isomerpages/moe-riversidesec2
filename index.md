@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/20250808_RiversideSec_NDP_06113.jpg
+      background: /images/Homepage/Riverside_CNY_2026.jpg
   - resources:
       title: ANNOUNCEMENTS
   - infopic:
