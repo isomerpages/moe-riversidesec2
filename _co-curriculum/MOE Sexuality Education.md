@@ -139,7 +139,7 @@ and supportive relationships, both online and offline
 interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -268,7 +268,7 @@ as a male or female
 <br>·&nbsp;understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +294,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +321,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -394,7 +394,7 @@ can affect one’s emotions, thoughts and behaviours
 is important when entering into a dating relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -424,7 +424,7 @@ is normal and one can recover from the experience
 and family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -453,7 +453,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -523,7 +523,7 @@ limit one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -558,7 +558,7 @@ with verbal ones, when communicating personal and emotional boundaries
 in a relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -588,7 +588,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -681,7 +681,7 @@ to sound values-based viewpoints (e.g. respect for life) and decisions,
 and speak and act in alignment with our beliefs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 </tbody>
