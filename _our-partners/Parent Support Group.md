@@ -197,7 +197,7 @@ host and share with our prospective primary six parents.</p>
 <img style="width:85%" height="auto" width="100%" src="/images/psg-9%20.png">
 </div>
 <p></p>
-<h4><strong>PSG Executive Committee 2025</strong></h4>
+<h4><strong>PSG Executive Committee 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
