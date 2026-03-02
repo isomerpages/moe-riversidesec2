@@ -214,7 +214,7 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lenny Surianie</p>
+<p>Mr Lee Choon Tuck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -222,7 +222,7 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Choon Tuck</p>
+<p>Mdm Gwen Tok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -230,55 +230,31 @@ host and share with our prospective primary six parents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Su Hui Andrea</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Praveena Manickavasagan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yoon Myint Moh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Linda Lim Sai Huay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gwen Tok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EXCO Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Grace Concepcion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Audris Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sugirtha</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>EXCO Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Shun Vui</p>
+<p>Mr Yim Fatt Tuck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>EXCO Member</p>
