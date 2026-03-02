@@ -241,7 +241,7 @@ host and share with our prospective primary six parents.</p>
 <p>Mdm Audris Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
+<p>EXCO Member</p>
 </td>
 </tr>
 <tr>
@@ -266,5 +266,4 @@ host and share with our prospective primary six parents.</p>
 <p>Our PSG members and parents provide invaluable support to our school events.
 Join us in contributing to the rich tapestry that defines the Riverside
 experience. To find out more about our PSG or events for parents, contact
-our teacher-in-charge of the PSG, Mdm Rekha Veliappan at&nbsp;<a href="mailto:rekha_veliappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_veliappan@moe.edu.sg</a>
-</p>
+our teacher-in-charge of the PSG, Mrs Angie Tan at <a href="mailto:yeo_su_lin_angie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_su_lin_angie@moe.edu.sg</a>.</p>
