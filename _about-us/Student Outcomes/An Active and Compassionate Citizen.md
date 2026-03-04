@@ -10,10 +10,10 @@ and respect for others are becoming as essential as cognitive skills as
 classrooms and workplaces become more diverse. Together with values which
 form the core of students’ character, these skills serve as a guiding compass
 in their lives.</p>
-<p>To develop a sense of purpose in Riversidians, every Riversidian is immersed
-in programmes and activities grounded in our eight school values. They
-develop good character and become citizens who contribute actively to the
-community and the nation.</p>
+<p>To develop a sense of purpose in Riversidians, every Riversidian is civic-minded,
+empowered to serve the community and engage with global issues. Through
+critical thinking, they become change agents, who contribute with empathy
+and make thoughtful, ethical decisions to drive positive change.</p>
 <p>Click here to read more about :</p>
 <ol data-tight="true" class="tight">
 <li>
