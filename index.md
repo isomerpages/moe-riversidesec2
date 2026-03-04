@@ -13,7 +13,7 @@ sections:
   - infopic:
       title: THE RIVERSIDIAN
       button: find out more
-      url: /student-outcomes/a-future-ready-digital-learner/
+      url: /student-outcomes/active-and-compassionate-citizen/
       image: /images/Homepage/Refreshed_Student_Outcomes.png
       alt: Image alt text
   - infobar:
