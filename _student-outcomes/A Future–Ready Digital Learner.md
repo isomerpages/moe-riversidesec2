@@ -6,7 +6,7 @@ variant: markdown
 ---
 Today, rapid technological advances are changing the way we live, work and play. Workers have to acquire and maintain a set of digital skills as the workplace continues to evolve in response to new technologies. To prepare themselves for the future, students will need to be equipped with digital skills to handle changes and deal with challenges in the digital future.
 
-With 1:1 learning, every Riversidian is empowered to be self-directed and collaborative learners, with the drive to take ownership of their learning. Riversidians develop digital literacy and 21st century competencies through curating, connecting and creating with technology, enabling them to thrive in the digital environment.
+With 1:1 learning, every Riversidian is a self-directed learner and collaborative team player, demonstrating adaptive thinking and digital proficiency. They harness their curiosity and creativity to express ideas and solve problems.
 
 Click here to read more about :
 1. [Personalised Digital Learning Programme](/the-riverside-experience/personalised-digital-learning-programme)
