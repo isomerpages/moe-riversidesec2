@@ -2,7 +2,6 @@ collections:
   student-outcomes:
     output: true
     order:
-      - A Future–Ready Digital Learner.md
       - A Creative Individual.md
       - An Active and Compassionate Citizen.md
       - A Globally Competent Citizen.md
