@@ -6,9 +6,9 @@ variant: markdown
 ---
 Students have the ability and the will to positively influence their own lives and the world around them. As the world becomes more complex, it is increasingly important for students to uphold sound beliefs and moral values, and make responsible decisions that impact themselves and those around them in their daily lives. 
 
-  
+Every Riversidian embodies ethical leadership, and demonstrates integrity, empathy, and self-leadership. Guided by a strong moral compass, they lead and inspire others through effective communication and teamwork, thereby fostering a supportive and inclusive community.
 
-Every Riversidian is provided opportunities in and out of class to exercise self-, peer- and thought leadership as a servant leader and an inspiration to all. 
+Every Riversidian is provided opportunities in and out of class to exercise self, peer and thought leadership as a servant leader and an inspiration to all. 
 
 Click here to read more about :
 1. [Student Leadership](/the-riverside-experience/student-leadership)
