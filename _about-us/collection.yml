@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
+      - Vision, Mission and Values.md
       - Student Outcomes/.keep
       - Student Outcomes/An Active and Compassionate Citizen.md
       - Student Outcomes/An Ethical Leader.md
       - Student Outcomes/A Future–Ready Digital Learner.md
-      - Principal's Message.md
-      - Vision, Mission and Values.md
       - Crest, Motto and Song.md
       - School History.md
       - Staff Directory/.keep
