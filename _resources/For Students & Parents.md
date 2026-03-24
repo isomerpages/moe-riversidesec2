@@ -28,10 +28,10 @@ variant: tiptap
 </p>
 <p></p>
 </li>
-<li>
+</ul>
 <p><strong>Ministry of Education Financial Assistance Scheme (MOE-FAS)</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/MOE FAS/2024 moe fas application form-riversidess.pdf" rel="noopener nofollow" target="_blank">MOE-FAS Riverside Secondary School Application Form</a>
 </p>
@@ -77,4 +77,13 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>Link to</strong>  <strong>MOE Application Form for Leave of Absence</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/688b02eca7374f9ca45374d6" rel="noopener nofollow" target="_blank">Application Form for Leave of Absence</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
