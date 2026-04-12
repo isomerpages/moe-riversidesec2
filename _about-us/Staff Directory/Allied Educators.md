@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Malini Sowrierajoo Sitaram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:malini_sowrierajoo_sitaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malini_sowrierajoo_sitaram@moe.edu.sg</a>
@@ -59,6 +59,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neethu_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neethu_balakrishnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Sien Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_sien_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_sien_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
