@@ -173,7 +173,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Min Huey</p>
 <p>Mdm Sulastri Bte Mohd Thamrin</p>
-<p></p>
 <p>Mr Chng Lip Kiam (Garen)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,6 +180,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
 </p>
+<p></p>
 <p><a href="mailto:chng_lip_kiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_lip_kiam@moe.edu.sg</a>
 </p>
 </td>
