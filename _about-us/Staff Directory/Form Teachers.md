@@ -173,11 +173,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Min Huey</p>
 <p>Mdm Sulastri Bte Mohd Thamrin</p>
+<p></p>
+<p>Mr Chng Lip Kiam (Garen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 </p>
 <p><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
+</p>
+<p><a href="mailto:chng_lip_kiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_lip_kiam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
