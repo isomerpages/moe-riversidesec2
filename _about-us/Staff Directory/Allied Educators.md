@@ -64,6 +64,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Sien Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_sien_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_sien_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Li Minyi</p>
 </td>
 <td rowspan="1" colspan="1">
