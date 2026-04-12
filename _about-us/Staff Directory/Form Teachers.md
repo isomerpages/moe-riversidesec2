@@ -308,11 +308,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Hesley Bte Ismail</p>
 <p>Mr John Yap</p>
+<p>Mr Muhammad Ariffin Bin Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hesley_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hesley_ismail@moe.edu.sg</u></a>
 </p>
 <p><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_kok_wai_john@moe.edu.sg</u></a>
+</p>
+<p><a href="mailto:muhammad_ariffin_mohd_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ariffin_mohd_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
