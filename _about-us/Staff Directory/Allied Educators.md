@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Malini Sowrierajoo Sitaram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:malini_sowrierajoo_sitaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malini_sowrierajoo_sitaram@moe.edu.sg</a>
