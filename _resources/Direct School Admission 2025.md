@@ -4,7 +4,7 @@ permalink: /resources/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>2025 Direct School Admission<br>(For admission to Secondary One in 2026)</strong></h3>
+<h3><strong>2026 Direct School Admission<br>(For admission to Secondary One in 2027)</strong></h3>
 <p>If you are a Primary Six pupil, you can be considered for DSA if you are
 talented in one of the following DSA talent areas:&nbsp;</p>
 <table style="minWidth: 100px">
@@ -116,17 +116,24 @@ short-film-making etc.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science, Technology, Engineering and Mathematics</p>
+<p>Science, Technology, Engineering and Mathematics (STEM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Environmental Science</p>
+</li>
+<li>
+<p>Robotics</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will:
 <br>• Enhance their coding literacy.</p>
 <p>• Develop problem-solving skills and design solutions to real-world problems.</p>
 <p>• Be developed as stewards of environment and changemakers in sustainability.</p>
-<p>• Represent the school at national robotics competitions.</p>
+<p>• Represent the school at conferences and competitions.</p>
 <p>• Demonstrate leadership capabilities.</p>
 </td>
 </tr>
@@ -261,20 +268,26 @@ contexts (e.g. competitions, school/public showcases).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science, Technology, Engineering and Mathematics</p>
+<p>Science, Technology, Engineering and Mathematics (STEM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Environmental Science</p>
+</li>
+<li>
+<p>Robotics</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Applicant must be able to demonstrate strong interest and talent in
-an area of STEM (e.g. robotics/programming, Math and Science), beyond the
-abilities of students in the same age group.</p>
+areas of STEM (e.g. programming, Math and Science), beyond the abilities
+of students in the same age group.</p>
 <p>The school will refer to:
 <br>• School reports - Academic ability and conduct indicated in school reports
 and other specific teacher reports.</p>
-<p>• Qualification(s) in robotics/programming (Lego EV3, Mindstorms, Spike
-Prime), e.g., relevant certificates (if any).</p>
+<p>• Qualification(s) in STEM related e.g. relevant certificates (if any).</p>
 <p>• Accomplishment - Evidence in the form of awards or experiences in relevant
 contexts such as STEM competitions or projects in school/external events
 (if any).</p>
@@ -292,7 +305,7 @@ contexts such as STEM competitions or projects in school/external events
 </p>
 <p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
-<p><strong><em>You will receive notification from the school by 18 Jul 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</em></strong>
+<p><strong><em>You will receive notification from the school by 17 Jul 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 24 Aug and 3 Sep 2026.</em></strong>
 </p>
 </td>
 </tr>
@@ -301,7 +314,7 @@ contexts such as STEM competitions or projects in school/external events
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Detailed information can be downloaded from <a href="/files/DSA/Riverside_Secondary_School_2025_Direct_School_Admission_Information__updated_27_April_2025_.pdf" rel="noopener nofollow" target="_blank">Riverside Secondary School 2025 Direct School Admission Information</a>.</p>
+<p>More detailed information will be uploaded closer to the date.</p>
 </li>
 <li>
 <p>Application for DSA-Sec will be through the online DSA-Sec Portal.
@@ -335,7 +348,7 @@ contexts such as STEM competitions or projects in school/external events
 <p>DSA Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May 2025, 11am - 3 Jun 2025, 3pm</p>
+<p>6 May 2026, 11am - 2 Jun 2026, 3pm</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +357,7 @@ contexts such as STEM competitions or projects in school/external events
 <br>• Applicants will be notified via email.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 18 Jul 2025</p>
+<p>By 17 Jul 2026</p>
 </td>
 </tr>
 <tr>
@@ -353,7 +366,7 @@ contexts such as STEM competitions or projects in school/external events
 <br>• Auditions / interviews for short-listed applicants.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Jul 2025 - 7 Aug 2025</p>
+<p>22 Jul 2026 - 6 Aug 2026</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +375,7 @@ contexts such as STEM competitions or projects in school/external events
 <br>• Audition / interview results will be notified to applicants via email.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 Aug - 4 Sep 2025</p>
+<p>24 Aug - 3 Sep 2026</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +383,7 @@ contexts such as STEM competitions or projects in school/external events
 <p>School Preference Submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End Oct 2025</p>
+<p>End Oct 2026</p>
 </td>
 </tr>
 <tr>
@@ -378,7 +391,7 @@ contexts such as STEM competitions or projects in school/external events
 <p>DSA Allocation Outcome</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End Nov 2025</p>
+<p>End Nov 2026</p>
 </td>
 </tr>
 </tbody>
