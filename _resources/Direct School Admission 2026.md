@@ -305,7 +305,7 @@ contexts such as STEM competitions or projects in school/external events
 </p>
 <p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
-<p><strong><em>You will receive notification from the school by 17 Jul 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 24 Aug and 3 Sep 2026.</em></strong>
+<p><strong><em>You will receive notification from the school by 17 Jul 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 24 Aug and 28 Aug 2026.</em></strong>
 </p>
 </td>
 </tr>
@@ -348,7 +348,7 @@ contexts such as STEM competitions or projects in school/external events
 <p>DSA Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May 2026, 11am - 2 Jun 2026, 3pm</p>
+<p>6 May 2026, 11am - 2 Jun 2026, 4:30pm</p>
 </td>
 </tr>
 <tr>
@@ -375,7 +375,7 @@ contexts such as STEM competitions or projects in school/external events
 <br>• Audition / interview results will be notified to applicants via email.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 Aug - 3 Sep 2026</p>
+<p>24 Aug - 28 Aug 2026</p>
 </td>
 </tr>
 <tr>
