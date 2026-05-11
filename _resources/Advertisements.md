@@ -10,7 +10,7 @@ variant: tiptap
 <p>Type of stall: &nbsp;Rice (Halal)</p>
 </li>
 <li>
-<p>Type of stall: Snacks Stall</p>
+<p>Type of stall: Snacks</p>
 </li>
 </ol>
 <p><strong><u>Application procedure</u></strong>
