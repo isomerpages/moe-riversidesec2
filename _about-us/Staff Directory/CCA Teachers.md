@@ -280,20 +280,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liao Jun Jie (1st IC)
-<br>
-<br>Mdm Kavitha Amara Joyce (2nd IC)
-<br>
+<br>Mdm Kavitha Amara Joyce
+<br>(2nd IC)
 <br>Mr. Robin Paik
-<br>
 <br>Miss Loo Wei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liao_junjie@moe.edu.sg" rel="" target="_blank">liao_junjie@moe.edu.sg</a>
-</p>
-<p><a href="mailto:kavitha_amara_joyce@moe.edu.sg" rel="" target="_blank">kavitha_amara_joyce@moe.edu.sg</a>
+<br><a href="mailto:kavitha_amara_joyce@moe.edu.sg" rel="" target="_blank">kavitha_amara_joyce@moe.edu.sg</a>
 <br>
 <br><a href="mailto:paik_shi_yang@moe.edu.sg" rel="" target="_self">paik_shi_yang@moe.edu.sg</a>
-<br>
 <br><a href="mailto:Loo_Wei_Lin@oe.edu.sg" rel="" target="_self">Loo_Wei_Lin@moe.edu.sg</a>
 </p>
 </td>
@@ -339,11 +335,10 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Meei Ju (1st IC)</p>
-<p>Ms Law Yue Tian (2nd IC)
-<br>
-<br>Mdm Gan Yen Peng</p>
-<p>Mr Koh Hong Kai</p>
+<p>Mdm Lai Meei Ju (1st IC)
+<br>Ms Law Yue Tian (2nd IC)
+<br>Mdm Gan Yen Peng
+<br>Mr Koh Hong Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_meei_ju@moe.edu.sg" rel="" target="_blank"><u>lai_meei_ju@moe.edu.sg</u></a>
@@ -351,8 +346,7 @@ variant: tiptap
 <p><a href="mailto:law_yue_tian@moe.edu.sg" rel="" target="_blank">law_yue_tian@moe.edu.sg</a>
 <br>
 <br><a href="mailto:gan_yen_ping@moe.edu.sg" rel="" target="_self">gan_yen_ping@moe.edu.sg</a>
-</p>
-<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
+<br><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -361,10 +355,9 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rafidah Yusoff (1st IC)</p>
-<p>Mrs Amutham Saravana Kumar (2nd IC)</p>
-<p>Mr Seiva Subramaniam
-<br>
+<p>Mdm Rafidah Yusoff (1st IC)
+<br>Mrs Amutham Saravana Kumar (2nd IC)
+<br>Mr Seiva Subramaniam
 <br>Mr Muhammad Zafir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,7 +365,9 @@ variant: tiptap
 </p>
 <p><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="" target="_blank"><u>amutham_saravana_kumar@moe.edu.sg</u></a>
 </p>
-<p><a href="mailto:seiva_subramaniam_ramiah@moe.edu.sg" rel="" target="_blank"><u>seiva_subramaniam_ramiah@moe.edu.sg</u></a>
+<p>
+<br><a href="mailto:seiva_subramaniam_ramiah@moe.edu.sg" rel="" target="_blank"><u>seiva_subramaniam_ramiah@moe.edu.sg</u></a>
+<br>
 <br><a href="mailto:Muhammad_Zafir_Shamsulbahri@moe.edu.sg" rel="" target="_self">Muhammad_Zafir_Shamsulbahri@moe.edu.sg</a>
 </p>
 </td>
