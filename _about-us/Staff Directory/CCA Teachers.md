@@ -218,6 +218,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_gui_xiong_albert@moe.edu.sg" rel="" target="_blank">teo_gui_xiong_albert@moe.edu.sg</a>
+<br>
 <br><a href="mailto:lim_ding_han@moe.edu.sg" rel="" target="_blank">lim_ding_han@moe.edu.sg</a>
 <br><a href="mailto:yuen_jia_jun@moe.edu.sg" rel="" target="_blank">yuen_jia_jun@moe.edu.sg</a>
 <br><a href="mailto:Hsu_Jun_Cheng_Lucas@moe.edu.sg" rel="" target="_self">Hsu_Jun_Cheng_Lucas@moe.edu.sg</a>
