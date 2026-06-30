@@ -109,6 +109,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_shannon@moe.edu.sg" rel="" target="_blank">ling_shannon@moe.edu.sg</a>
 <br><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="" target="_blank">nur_ashikin_bte_fisall@moe.edu.sg</a>
+<br>
 <br><a href="mailto:Chng_Lip_Kiam@moe.edu.sg" rel="" target="_self">Chng_Lip_Kiam@moe.edu.sg</a>
 <br><a href="mailto:Sulastri_Mohd_Thamrin@moe.edu.sg" rel="" target="_self">Sulastri_Mohd_Thamrin@moe.edu.sg</a>
 </p>
@@ -127,6 +128,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_tze_hoong@moe.edu.sg" rel="" target="_blank">lee_tze_hoong@moe.edu.sg</a>
+<br>
 <br><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="" target="_blank">yap_kok_wai_john@moe.edu.sg</a>
 <br><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="" target="_blank">haslinda_shafawi@moe.edu.sg</a>
 <br><a href="mailto:wong_pee_wah@moe.edu.sg" rel="" target="_blank"><u>wong_pee_wah@moe.edu.sg</u></a>
@@ -175,6 +177,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="" target="_blank">lee_jin_wee@moe.edu.sg</a>
 <br><a href="mailto:natasha_nadia_razman@moe.edu.sg" rel="" target="_blank"><u>natasha_nadia_razman@moe.edu.sg</u></a>
+<br>
 <br><a href="mailto:muhammad_syarqawi_buhari@moe.edu.sg" rel="" target="_blank">muhammad_syarqawi_buhari@moe.edu.sg</a>
 </p>
 </td>
