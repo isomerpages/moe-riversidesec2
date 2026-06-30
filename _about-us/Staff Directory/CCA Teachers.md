@@ -377,8 +377,8 @@ variant: tiptap
 <p>English Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Yuen Yu (1st IC)</p>
-<p>Ms Janay Chan (2nd IC)</p>
+<p>Mdm Wong Yuen Yu (1st IC)
+<br>Ms Janay Chan (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_yuen_yu@moe.edu.sg" rel="" target="_blank"><u>wong_yuen_yu@moe.edu.sg</u></a>
@@ -443,13 +443,13 @@ variant: tiptap
 <p>Dance – Modern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Wai Yin (1st IC)</p>
-<p>Ms Kock Si Peng (2nd IC)</p>
+<p>Ms Tang Wai Yin (1st IC)
+<br>Ms Kock Si Peng (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="" target="_blank">tang_wai_yin_a@moe.edu.sg</a>
-</p>
-<p><a href="mailto:kock_si_peng@moe.edu.sg" rel="" target="_blank">kock_si_peng@moe.edu.sg</a>
+<br>
+<br><a href="mailto:kock_si_peng@moe.edu.sg" rel="" target="_blank">kock_si_peng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
