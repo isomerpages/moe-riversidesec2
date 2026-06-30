@@ -38,7 +38,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_kok_weng_lawrance@moe.edu.sg" rel="" target="_blank">chua_kok_weng_lawrance@moe.edu.sg</a>
-<br>
 <br><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="" target="_blank">nur_khairunisa_johari@moe.edu.sg</a>
 <br><a href="mailto:Wan_Kuan_Yi@moe.edu.sg" rel="" target="_self">Wan_Kuan_Yi@moe.edu.sg</a>
 </p>
@@ -110,7 +109,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_shannon@moe.edu.sg" rel="" target="_blank">ling_shannon@moe.edu.sg</a>
 <br><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="" target="_blank">nur_ashikin_bte_fisall@moe.edu.sg</a>
-<br>
 <br><a href="mailto:Chng_Lip_Kiam@moe.edu.sg" rel="" target="_self">Chng_Lip_Kiam@moe.edu.sg</a>
 <br><a href="mailto:Sulastri_Mohd_Thamrin@moe.edu.sg" rel="" target="_self">Sulastri_Mohd_Thamrin@moe.edu.sg</a>
 </p>
