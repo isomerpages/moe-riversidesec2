@@ -190,12 +190,9 @@ variant: tiptap
 <p>Sec 2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eng Jie Ling</p>
 <p>Mr Khoo Eng Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eng_jie_ling@moe.edu.sg</u></a>
-</p>
 <p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>khoo_eng_wei@moe.edu.sg</u></a>
 </p>
 </td>
@@ -553,13 +550,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Khairunisa</p>
-<p>Ms Pang Tien Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_khairunisa_johari@moe.edu.sg</u></a>
 </p>
-<p><a href="mailto:pang_tien_feng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pang_tien_feng@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -568,12 +563,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Alister Lee-Chua</p>
-<p>Mr Mohammad Hafidz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_jingyi_alister@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_jingyi_alister@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:mohammad_hafidz_azmin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammad_hafidz_azmin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
