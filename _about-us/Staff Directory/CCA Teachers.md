@@ -161,7 +161,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_hamidan@moe.edu.sg" rel="" target="_blank">haryani_hamidan@moe.edu.sg</a>
-<br>
 <br><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="" target="_self">lis_hartini_hut@moe.edu.sg</a>
 </p>
 </td>
