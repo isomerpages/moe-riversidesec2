@@ -7,10 +7,10 @@ variant: tiptap
 <h3><strong>Available Canteen Stalls</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Type of stall: &nbsp;Rice (Halal)</p>
+<p>Type of stall: Rice Stall (Halal)</p>
 </li>
 <li>
-<p>Type of stall: Snacks</p>
+<p>Type of stall: Noodle Stall (Halal)</p>
 </li>
 </ol>
 <p><strong><u>Application procedure</u></strong>
