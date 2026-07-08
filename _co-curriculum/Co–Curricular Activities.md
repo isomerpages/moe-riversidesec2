@@ -348,50 +348,24 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-
 <p></p>
-
 <h2>Visual and Performing Arts</h2>
-<table style="width: 100%; table-layout: fixed;">
+<h3>Choir</h3><table style="width: 100%; table-layout: fixed;">
   <colgroup>
     <col style="width: 50%;">
     <col style="width: 50%;">
   </colgroup>
   <tbody>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <h3>Visual Arts</h3>
-        <p>(This CCA will not be offered to Sec 1s from 2024)</p>
-      </td>
-      <td rowspan="1" colspan="1">
-        <h3>Choir</h3>
-      </td>
-    </tr>
+    <tr>   </tr>
     <tr>
       <td rowspan="1" colspan="1">
         <p></p>
         <div class="isomer-image-wrapper">
-          <img style="width: 100%; height: auto;" height="auto" width="100%" alt="" src="/images/KK_08032024_389.jpg">
-        </div>
-      </td>
-      <td rowspan="1" colspan="1">
-        <p></p>
         <div class="isomer-image-wrapper">
           <img style="width: 100%; height: auto;" height="auto" width="100%" alt="" src="/images/KK_04032024_622_Enhanced_NR.jpg">
         </div>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="1" colspan="1">
-        <p>Visual Arts opened a window of opportunities for me to expand my passion
-          in the arts. I am able to explore art mediums that I wouldn’t normally
-          have a chance to use. I’ve been given opportunities to learn from amazing
-          individuals by asking about and observing their unique styles of art. I’ve
-          learnt more about myself and the art that I want to create and express
-          to others. I love that in Visual Arts everyone has a role and no one is
-          left out. - Tess Lim Xinyu</p>
-      </td>
-      <td rowspan="1" colspan="1">
+      </div></td></tr>
+    <tr><td rowspan="1" colspan="1">
         <p>In choir, I find myself always busy yet fulfilled. I have learned more
           about music, singing and voice projection. I also had the chance to communicate
           with different types of people. I learned about my strengths and weaknesses
