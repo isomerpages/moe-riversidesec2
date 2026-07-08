@@ -358,8 +358,7 @@ variant: markdown
     <col style="width: 50%;">
   </colgroup>
   <tbody>
-    <tr>
-    </tr>
+    <tr>   </tr>
     <tr>
       <td rowspan="1" colspan="1">
         <p></p>
