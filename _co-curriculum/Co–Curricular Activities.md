@@ -359,8 +359,6 @@ variant: markdown
   </colgroup>
   <tbody>
     <tr>
-        
-      
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
