@@ -274,18 +274,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eng Jie Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:eng_jie_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ow Yeong Wai Kit</p>
 </td>
 <td rowspan="1" colspan="1">
