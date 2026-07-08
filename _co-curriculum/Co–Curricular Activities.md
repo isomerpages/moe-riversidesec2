@@ -348,9 +348,7 @@ variant: markdown
     </tr>
   </tbody>
 </table>
-
 <p></p>
-
 <h2>Visual and Performing Arts</h2>
 <h3>Choir</h3><table style="width: 100%; table-layout: fixed;">
   <colgroup>
