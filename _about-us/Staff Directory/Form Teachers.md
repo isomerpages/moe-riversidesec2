@@ -161,16 +161,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Min Huey
-<br>
-</p>
-<p>Mdm Sulastri Bte Mohd Thamrin
+<br>Mdm Sulastri Bte Mohd Thamrin
 <br>Mr Chng Lip Kiam (Garen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
-<br>
-</p>
-<p><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
+<br><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
 <br><a href="mailto:chng_lip_kiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_lip_kiam@moe.edu.sg</a>
 </p>
 </td>
@@ -290,13 +286,12 @@ variant: tiptap
 <p>Sec 3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hesley Bte Ismail</p>
-<p>Mr John Yap</p>
+<p>Ms Hesley Bte Ismail
+<br>Mr John Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hesley_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hesley_ismail@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_kok_wai_john@moe.edu.sg</u></a>
+<br><a href="mailto:yap_kok_wai_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_kok_wai_john@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -305,13 +300,12 @@ variant: tiptap
 <p>Sec 3 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Haryani Hamidan</p>
-<p>Mr Seiva Subramaniam</p>
+<p>Ms Haryani Hamidan
+<br>Mr Seiva Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_hamidan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haryani_hamidan@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:seiva_subramaniam_ramiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seiva_subramaniam_ramiah@moe.edu.sg</a>
+<br><a href="mailto:seiva_subramaniam_ramiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seiva_subramaniam_ramiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
