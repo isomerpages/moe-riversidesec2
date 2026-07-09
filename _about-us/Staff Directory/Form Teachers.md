@@ -532,12 +532,13 @@ variant: tiptap
 <p>Sec 4 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Khairunisa</p>
+<p>Mdm Nur Khairunisa
+<br>Mr Paik Shi Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_khairunisa_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_khairunisa_johari@moe.edu.sg</u></a>
+<br><a href="mailto:paik_shi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paik_shi_yang@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
