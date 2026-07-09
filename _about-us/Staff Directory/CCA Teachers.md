@@ -401,6 +401,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="" target="_blank">chong_pey_yi@moe.edu.sg</a>
+<br>
 <br><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a>
 <br>
 <br><a href="mailto:natasha_imran@moe.edu.sg" rel="" target="_blank">natasha_imran@moe.edu.sg</a>
