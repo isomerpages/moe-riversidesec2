@@ -80,7 +80,7 @@ variant: tiptap
 <p>Mr Paik Shi Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:paik_shi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paik_shi_yang@moe.edu.sg</a>
