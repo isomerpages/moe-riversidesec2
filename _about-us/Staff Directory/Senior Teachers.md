@@ -72,6 +72,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 </p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Paik Shi Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:paik_shi_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paik_shi_yang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

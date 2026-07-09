@@ -159,6 +159,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haryani_hamidan@moe.edu.sg" rel="" target="_blank">haryani_hamidan@moe.edu.sg</a>
+<br>
 <br><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="" target="_self">lis_hartini_hut@moe.edu.sg</a>
 </p>
 </td>
@@ -269,6 +270,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_wee_soo@moe.edu.sg" rel="" target="_blank">tay_wee_soo@moe.edu.sg</a>
 <br><a href="mailto:chai_suk_ching@moe.edu.sg" rel="" target="_blank">chai_suk_ching@moe.edu.sg</a>
+<br>
 <br><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="" target="_blank">khoo_eng_wei@moe.edu.sg</a>
 <br><a href="mailto:darren_chin_yong_chiang@moe.edu.sg" rel="" target="_blank"><u>darren_chin_yong_chiang@moe.edu.sg</u></a>
 </p>
@@ -346,6 +348,7 @@ variant: tiptap
 <p><a href="mailto:law_yue_tian@moe.edu.sg" rel="" target="_blank">law_yue_tian@moe.edu.sg</a>
 <br>
 <br><a href="mailto:gan_yen_ping@moe.edu.sg" rel="" target="_self">gan_yen_ping@moe.edu.sg</a>
+<br>
 <br><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
 </p>
 </td>
@@ -392,49 +395,17 @@ variant: tiptap
 <p>Multi-Cultural Dance Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Pey Yi (Overall IC)</p>
+<p>Ms Chong Pey Yi (Overall IC)
+<br>Mrs Kumar-Sundaresan Muthuselvi
+<br>Mdm Natasha Imran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="" target="_blank">chong_pey_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Multi-Cultural Dance Society (<em>Chinese Dance Discipline)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Pey Yi (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="" target="_blank">chong_pey_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Multi-Cultural Dance Society (<em>Indian Dance Discipline)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kumar-Sundaresan Muthuselvi (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Multi-Cultural Dance Society (<em>Malay Dance Discipline)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Natasha Imran (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_imran@moe.edu.sg" rel="" target="_blank">natasha_imran@moe.edu.sg</a>
+<br>
+<br><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a>
+<br>
+<br><a href="mailto:natasha_imran@moe.edu.sg" rel="" target="_blank">natasha_imran@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
