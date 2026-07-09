@@ -438,18 +438,18 @@ variant: tiptap
 <p>Sec 4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdiana Binte Rosidi</p>
-<p>Mr Tay Wee Soo</p>
-<p>Mdm Lis Hartini</p>
+<p>Mdm Nurdiana Binte Rosidi
+<br>Mr Tay Wee Soo
+<br>Mdm Lis Hartini
+<br>Mr Joe Wieky</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurdiana_rosidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurdiana_rosidi@moe.edu.sg</u></a>
-</p>
-<p>
 <br><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
+<br><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lis_hartini_hut@moe.edu.sg</a>
+<br><a href="mailto:joe_wieky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_wieky@moe.edu.sg</a>
 </p>
-<p><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lis_hartini_hut@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -457,13 +457,12 @@ variant: tiptap
 <p>Sec 4 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Brian Nguyen</p>
-<p>Ms Carol Wong</p>
+<p>Mr Brian Nguyen
+<br>Ms Carol Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nguyen_wei_jieh_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nguyen_wei_jieh_brian@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
+<br><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -472,13 +471,12 @@ variant: tiptap
 <p>Sec 4 Synergy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Aisyah</p>
-<p>Mr Joshua Pang</p>
+<p>Mdm Nur Aisyah
+<br>Mr Joshua Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_aisyah_gersali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_gersali@moe.edu.sg</a>
-</p>
-<p><a href="mailto:pang_zihao_joshua_timothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pang_zihao_joshua_timothy@moe.edu.sg</u></a>
+<br><a href="mailto:pang_zihao_joshua_timothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pang_zihao_joshua_timothy@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -487,13 +485,12 @@ variant: tiptap
 <p>Sec 4 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tang Wai Yin</p>
-<p>Ms Janay Chan</p>
+<p>Ms Tang Wai Yin
+<br>Ms Janay Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_wai_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tang_wai_yin_a@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:chan_wen_qi_janay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_wen_qi_janay@moe.edu.sg</u></a>
+<br><a href="mailto:chan_wen_qi_janay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_wen_qi_janay@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -502,13 +499,12 @@ variant: tiptap
 <p>Sec 4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Thiam Soon</p>
-<p>Mrs Kumar-Sundaresan Muthuselvi</p>
+<p>Mr Tan Thiam Soon
+<br>Mrs Kumar-Sundaresan Muthuselvi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_thiam_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_soon@moe.edu.sg</a>
-</p>
-<p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sundaresan_muthuselvi@moe.edu.sg</u></a>
+<br><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sundaresan_muthuselvi@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -517,13 +513,12 @@ variant: tiptap
 <p>Sec 4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Lee</p>
-<p>Ms Sheron Abraham</p>
+<p>Mr Joel Lee
+<br>Ms Sheron Abraham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_jin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_jin_wee@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheron_abraham_joseph@moe.edu.sg</u></a>
+<br><a href="mailto:sheron_abraham_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sheron_abraham_joseph@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -558,13 +553,12 @@ variant: tiptap
 <p>Sec 5 Synergy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shannon Ling</p>
-<p>Mdm Natasha Imran</p>
+<p>Mr Shannon Ling
+<br>Mdm Natasha Imran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ling_shannon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ling_shannon@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:natasha_imran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natasha_imran@moe.edu.sg</u></a>
+<br><a href="mailto:natasha_imran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natasha_imran@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
