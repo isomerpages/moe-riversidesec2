@@ -52,8 +52,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rafidah_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rafidah_yusoff@moe.edu.sg</u></a>
 </p>
-<p>
-<br><a href="mailto:wong_jing_zher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_jing_zher@moe.edu.sg</u></a>
+<p><a href="mailto:wong_jing_zher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_jing_zher@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -133,8 +132,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kavitha_amara_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kavitha_amara_joyce@moe.edu.sg</u></a>
 </p>
-<p>
-<br><a href="mailto:yuen_jia_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yuen_jia_jun@moe.edu.sg</u></a>
+<p><a href="mailto:yuen_jia_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yuen_jia_jun@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -170,7 +168,9 @@ variant: tiptap
 <p>Sec 2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Min Huey</p>
+<p>Mdm Lee Min Huey
+<br>
+</p>
 <p>Mdm Sulastri Bte Mohd Thamrin
 <br>
 </p>
@@ -178,6 +178,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
+<br>
 </p>
 <p><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
 </p>
@@ -588,4 +589,6 @@ variant: tiptap
 </tbody>
 </table>
 <h3></h3>
-<p></p>
+<p>
+<br>
+</p>
