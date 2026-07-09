@@ -403,6 +403,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Wai Yin (1st IC)
+<br>
 <br>Ms Kock Si Peng (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
