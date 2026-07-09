@@ -192,10 +192,12 @@ variant: tiptap
 <p>Sec 2 Service</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Eng Wei</p>
+<p>Mr Khoo Eng Wei
+<br>Miss Wan Kuan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_eng_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>khoo_eng_wei@moe.edu.sg</u></a>
+<br><a href="mailto:wan_kuan_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_kuan_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
