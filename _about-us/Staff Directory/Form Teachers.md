@@ -438,14 +438,12 @@ variant: tiptap
 <p>Sec 4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdiana Binte Rosidi
-<br>Mr Tay Wee Soo
+<p>Mr Tay Wee Soo
 <br>Mdm Lis Hartini
 <br>Mr Joe Wieky</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurdiana_rosidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurdiana_rosidi@moe.edu.sg</u></a>
-<br><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
+<p><a href="mailto:tay_wee_soo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_wee_soo@moe.edu.sg</u></a>
 <br><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lis_hartini_hut@moe.edu.sg</a>
 <br><a href="mailto:joe_wieky@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joe_wieky@moe.edu.sg</a>
 </p>
@@ -458,11 +456,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Brian Nguyen
-<br>Ms Carol Wong</p>
+<br>Ms Carol Wong
+<br>Mr Kalvindar Singh S/O Uttam Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nguyen_wei_jieh_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nguyen_wei_jieh_brian@moe.edu.sg</u></a>
 <br><a href="mailto:carol_wong_hoi_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carol_wong_hoi_yu@moe.edu.sg</a>
+<br><a href="mailto:kalvindar_singh_uttam_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalvindar_singh_uttam_singh_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -541,10 +541,12 @@ variant: tiptap
 <p>Sec 4 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alister Lee-Chua</p>
+<p>Mrs Alister Lee-Chua
+<br>Mdm Gan Yen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_jingyi_alister@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_jingyi_alister@moe.edu.sg</u></a>
+<br><a href="mailto:gan_yen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_yen_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
