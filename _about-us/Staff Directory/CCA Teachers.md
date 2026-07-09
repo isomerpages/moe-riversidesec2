@@ -322,18 +322,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Visual Arts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lis Hartini (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lis_hartini_hut@moe.edu.sg" rel="" target="_blank">lis_hartini_hut@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -415,6 +403,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Wai Yin (1st IC)
+<br>
 <br>Ms Kock Si Peng (2nd IC)</p>
 </td>
 <td rowspan="1" colspan="1">
