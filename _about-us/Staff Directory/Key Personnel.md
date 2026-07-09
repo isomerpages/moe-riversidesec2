@@ -71,7 +71,7 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tey_ai_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_hui_wen@moe.edu.sg</a>
+<p><a href="mailto:choy_hui_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_hui_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
