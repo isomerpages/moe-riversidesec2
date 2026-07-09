@@ -395,49 +395,16 @@ variant: tiptap
 <p>Multi-Cultural Dance Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Pey Yi (Overall IC)</p>
+<p>Ms Chong Pey Yi (Overall IC)
+<br>Mrs Kumar-Sundaresan Muthuselvi
+<br>Mdm Natasha Imran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="" target="_blank">chong_pey_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Multi-Cultural Dance Society (<em>Chinese Dance Discipline)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Pey Yi (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="" target="_blank">chong_pey_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Multi-Cultural Dance Society (<em>Indian Dance Discipline)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kumar-Sundaresan Muthuselvi (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Multi-Cultural Dance Society (<em>Malay Dance Discipline)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Natasha Imran (1st IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:natasha_imran@moe.edu.sg" rel="" target="_blank">natasha_imran@moe.edu.sg</a>
+<br><a href="mailto:sundaresan_muthuselvi@moe.edu.sg" rel="" target="_blank">sundaresan_muthuselvi@moe.edu.sg</a>
+<br>
+<br><a href="mailto:natasha_imran@moe.edu.sg" rel="" target="_blank">natasha_imran@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
