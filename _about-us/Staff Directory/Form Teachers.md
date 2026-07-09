@@ -328,13 +328,12 @@ variant: tiptap
 <p>Sec 3 Synergy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chai Suk Ching</p>
-<p>Mr Muhammad Syarqawi</p>
+<p>Ms Chai Suk Ching
+<br>Mr Muhammad Syarqawi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chai_suk_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chai_suk_ching@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:muhammad_syarqawi_buhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_syarqawi_buhari@moe.edu.sg</u></a>
+<br><a href="mailto:muhammad_syarqawi_buhari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_syarqawi_buhari@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -343,13 +342,12 @@ variant: tiptap
 <p>Sec 3 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Xing Yu</p>
-<p>Ms Loo Wei Lin</p>
+<p>Mdm Tan Xing Yu
+<br>Ms Loo Wei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_xing_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_xing_yu@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:loo_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_wei_lin@moe.edu.sg</a>
+<br><a href="mailto:loo_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_wei_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -358,13 +356,12 @@ variant: tiptap
 <p>Sec 3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslinda Shafawi</p>
-<p>Mr Lucas Hsu Jun Cheng</p>
+<p>Mdm Haslinda Shafawi
+<br>Mr Lucas Hsu Jun Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslinda_shafawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haslinda_shafawi@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:hsu_jun_cheng_lucas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_jun_cheng_lucas@moe.edu.sg</a>
+<br><a href="mailto:hsu_jun_cheng_lucas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_jun_cheng_lucas@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -373,13 +370,12 @@ variant: tiptap
 <p>Sec 3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Lim</p>
-<p>Ms Nurul Izzah</p>
+<p>Mr Jerry Lim
+<br>Ms Nurul Izzah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_jia_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_jia_hui_a@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
+<br><a href="mailto:nurul_izzah_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_izzah_mohamad@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -388,13 +384,12 @@ variant: tiptap
 <p>Sec 3 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Albert Teo</p>
-<p>Mrs Amutham Saravana Kumar</p>
+<p>Mr Albert Teo
+<br>Mrs Amutham Saravana Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_gui_xiong_albert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_gui_xiong_albert@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amutham_saravana_kumar@moe.edu.sg</u></a>
+<br><a href="mailto:amutham_saravana_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amutham_saravana_kumar@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -403,13 +398,12 @@ variant: tiptap
 <p>Sec 3 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Ding Han</p>
-<p>Mdm Farhana Binte Zulkifli</p>
+<p>Mr Lim Ding Han
+<br>Mdm Farhana Binte Zulkifli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ding_han_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ding_han_lim@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:farhana_zulkifli_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhana_zulkifli_a@moe.edu.sg</a>
+<br><a href="mailto:farhana_zulkifli_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farhana_zulkifli_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
