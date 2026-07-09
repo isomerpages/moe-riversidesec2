@@ -172,18 +172,14 @@ variant: tiptap
 <br>
 </p>
 <p>Mdm Sulastri Bte Mohd Thamrin
-<br>
-</p>
-<p>Mr Chng Lip Kiam (Garen)</p>
+<br>Mr Chng Lip Kiam (Garen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_min_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_min_huey@moe.edu.sg</a>
 <br>
 </p>
 <p><a href="mailto:sulastri_mohd_thamrin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sulastri_mohd_thamrin@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:chng_lip_kiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_lip_kiam@moe.edu.sg</a>
+<br><a href="mailto:chng_lip_kiam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_lip_kiam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -206,13 +202,12 @@ variant: tiptap
 <p>Sec 2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Beryl&nbsp;Goh-Thum</p>
-<p>Ms Natasha Nadia</p>
+<p>Mrs Beryl&nbsp;Goh-Thum
+<br>Ms Natasha Nadia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:beryl_thum@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>beryl_thum@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:natasha_nadia_razman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natasha_nadia_razman@moe.edu.sg</u></a>
+<br><a href="mailto:natasha_nadia_razman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natasha_nadia_razman@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -221,13 +216,12 @@ variant: tiptap
 <p>Sec 2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Tze Hoong</p>
-<p>Mdm Nur Ashikin</p>
+<p>Mr Lee Tze Hoong
+<br>Mdm Nur Ashikin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_tze_hoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_tze_hoong@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_ashikin_bte_fisall@moe.edu.sg</u></a>
+<br><a href="mailto:nur_ashikin_bte_fisall@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_ashikin_bte_fisall@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -236,13 +230,12 @@ variant: tiptap
 <p>Sec 2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Natrah Ibrahim</p>
-<p>Mr Alvin Chua</p>
+<p>Mdm Natrah Ibrahim
+<br>Mr Alvin Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:natrah_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>natrah_ibrahim@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:chua_zhen_tao_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_zhen_tao_alvin@moe.edu.sg</u></a>
+<br><a href="mailto:chua_zhen_tao_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_zhen_tao_alvin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -251,13 +244,12 @@ variant: tiptap
 <p>Sec 2 Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Pey Yi</p>
-<p>Mr Koh Hong Kai</p>
+<p>Ms Chong Pey Yi
+<br>Mr Koh Hong Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_pey_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_pey_yi@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
+<br><a href="mailto:koh_hong_kai_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_hong_kai_a@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -266,13 +258,12 @@ variant: tiptap
 <p>Sec 2 Tenacity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Yuen Yu</p>
-<p>Mr N. Balasundram</p>
+<p>Mdm Wong Yuen Yu
+<br>Mr N. Balasundram</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_yuen_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_yuen_yu@moe.edu.sg</u></a>
-</p>
-<p><a href="mailto:n_balasundaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>n_balasundaram@moe.edu.sg</u></a>
+<br><a href="mailto:n_balasundaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>n_balasundaram@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
